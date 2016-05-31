@@ -1,3 +1,0 @@
-<SCRIPT language="javascript">
-document.location.replace("http://oz79.com/");
-</SCRIPT>
