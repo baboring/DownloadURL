@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>++ 도메인 파킹/포워딩 서비스 ++</title>
+<meta HTTP-EQUIV='Content-Type' CONTENT='text/html; charset=ks_c_5601-1987'>
+</head>
+
+<body>
+<br><br><br>
+<center>
+
+<font style="font-size:11px;font-family:돋움;color:306090">도메인 파킹/포워딩 서비스 서버는 정상 작동중입니다.</font>
+
+</center>

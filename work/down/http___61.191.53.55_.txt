@@ -1,0 +1,564 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title> 玉环E网  - Powered by Discuz!</title>
+<meta name="keywords" content="" />
+<meta name="description" content=" 玉环E网  - Discuz! Board" />
+<meta name="generator" content="Discuz! 7.0.0" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2009 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<meta http-equiv="x-ua-compatible" content="ie=7" />
+<link rel="archives" title="玉环E网" href="http://61.191.53.55/archiver/" />
+<link rel="alternate" type="application/rss+xml" title="玉环E网" href="http://61.191.53.55/rss.php?auth=0" />
+<style type="text/css">
+@import url(forumdata/cache/style_13_common.css?wo5);
+</style><script type="text/javascript">var STYLEID = '13', IMGDIR = 'images/default', VERHASH = 'wo5', charset = 'gbk', discuz_uid = 0, cookiedomain = '', cookiepath = '/', attackevasive = '0', allowfloatwin = '1', creditnotice = '1|经验|点,2|威望|点,3|金钱|￥,4|魅力|,5|点券|￥,6|金币|', gid = parseInt('0'), fid = parseInt('0'), tid = parseInt('0')</script>
+<script src="include/js/common.js?wo5" type="text/javascript"></script>
+</head>
+
+<body id="index" onkeydown="if(event.keyCode==27) return false;">
+
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div id="header">
+<div class="wrap s_clear">
+<h2><a href="index.php" title="玉环E网"><img src="templates/greenwall/images/logo.gif" alt="玉环E网" border="0" /></a></h2>
+<div id="umenu">
+<a href="huawei.php" onclick="floatwin('open_register', this.href, 600, 400, '600,0');return false;" class="noborder">注册</a>
+<a href="logging.php?action=login" onclick="floatwin('open_login', this.href, 600, 400);return false;">登录</a>
+</div>
+<div id="ad_headerbanner"></div>
+<div id="menu">
+<ul>
+<li class="menu_1"><a href="index.php" hidefocus="true" id="mn_index">首页</a></li><li class="menu_2"><a href="search.php" hidefocus="true" id="mn_search">搜索</a></li><li class="menu_5"><a href="misc.php?action=nav" hidefocus="true" onclick="floatwin('open_nav', this.href, 600, 410);return false;">导航</a></li><li class="menu_4"><a href="faq.php" hidefocus="true" id="mn_faq">帮助</a></li></ul>
+<script type="text/javascript">
+var currentMenu = $('mn_index') ? $('mn_index') : $('mn_index');
+currentMenu.parentNode.className = 'current';
+</script>				
+</div>
+<script type="text/javascript">
+function setstyle(styleid) {
+str = unescape('');
+str = str.replace(/(^|&)styleid=\d+/ig, '');
+str = (str != '' ? str + '&' : '') + 'styleid=' + styleid
+location.href = 'index.php?' + str;
+}
+</script>
+<ul id="style_switch"><li><a href="###" onclick="setstyle(1)" title="默认风格" style="background: #1E4B7E;">默认风格</a></li><li class="current"><a href="###" onclick="setstyle(13)" title="greenwall" style="background: #51A482;">greenwall</a></li><li><a href="###" onclick="setstyle(14)" title="fashion" style="background: #3A000F;">fashion</a></li></ul>
+</div>
+</div>
+<div id="nav"><a href="index.php">玉环E网</a> &raquo; 首页</div>
+<div id="ad_text"></div><div id="wrap" class="wrap with_side s_clear">
+<a id="sidebar_img" href="javascript:;" onclick="sidebar_collapse(['打开边栏', '关闭边栏']);" class="collapsed_no">关闭边栏</a>
+<div class="main"><div class="content">
+
+<div class="pages_btns s_clear">
+<span class="postbtn"><a href="misc.php?action=nav" onclick="floatwin('open_nav', this.href, 600, 410);return false;">发帖</a></span>
+<p>你可以<a href="huawei.php" onclick="floatwin('open_register', this.href, 600, 400, '600,0');return false;" class="lightlink">注册</a>一个帐号，并以此<a href="logging.php?action=login" onclick="floatwin('open_login', this.href, 600, 400);return false;" class="lightlink">登录</a>，以浏览更多精彩内容，并随时发布观点，与大家交流。</p>
+</div>
+
+<div class="foruminfo s_clear">
+<p class="right forumcount">
+今日: <em>1028</em>, 昨日: <em>558</em>, 会员: <em>28874</em>
+</p>
+
+</div>
+
+<div class="mainbox list">
+<span class="headactions">
+分区版主: <a class="notabs" href="space.php?username=%C9%CB%D0%C4%D3%FB%BE%F8">伤心欲绝</a><img id="category_45_img" src="images/default/collapsed_no.gif" title="收起/展开" alt="收起/展开" onclick="toggle_collapse('category_45');" />
+</span>
+<h3><a href="index.php?gid=45">小城‖生活</a></h3>
+<table id="category_45" summary="category45" cellspacing="0" cellpadding="0" style="">
+<tbody id="forum17">
+<tr>
+<th class="new">
+<div class="left">
+<h2><a href="forumdisplay.php?fid=17" >〖 生猛玉环 〗</a><em> (今日: <strong>682</strong>)</em></h2>
+<p>关注玉环的街头巷尾，评说身边的芝麻小事。玉环本地的社会热点、时事评论。崇扬社会美德，报道好人好事。楼主请把握好帖子方向,如果出现漫骂或者人身攻击的,将被删除主题帖。</p><p>版主: <a class="notabs" href="space.php?username=%C3%AB%C3%AB%D3%EA">毛毛雨</a>, <a class="notabs" href="space.php?username=qgzxcom">qgzxcom</a></p></div>
+</th>
+<td class="forumnums">
+<em>27470</em> / 383798</td>
+<td class="forumlast">
+<p><a href="redirect.php?tid=129260&amp;goto=lastpost#lastpost">上海车展</a></p>
+<cite><a href="space.php?username=%C3%AB%C3%AB%D3%EA">毛毛雨</a> - <span title="2009-4-28 19:16">1&nbsp;分钟前</span></cite>
+</td>
+</tr>
+</tbody><tbody id="forum18">
+<tr>
+<th class="new">
+<div class="left">
+<h2><a href="forumdisplay.php?fid=18" >〖 缘定E网 〗</a><em> (今日: <strong>140</strong>)</em></h2>
+<p>网友聚会&nbsp;&nbsp;交友&nbsp;&nbsp;感情&nbsp;&nbsp;理想&nbsp;&nbsp;现实 人生 责任&nbsp;&nbsp;E网QQ群42922026欢迎您加入</p><p>版主: <a class="notabs" href="space.php?username=%C4%E1%B9%C3">尼姑</a>, <a class="notabs" href="space.php?username=%BF%A8%C0%AD%D2%C0">卡拉依</a></p></div>
+</th>
+<td class="forumnums">
+<em>9279</em> / 155979</td>
+<td class="forumlast">
+<p><a href="redirect.php?tid=129198&amp;goto=lastpost#lastpost">最后------沦陷。。。。。。。。 ...</a></p>
+<cite><a href="space.php?username=%CB%E6%B1%E3">随便</a> - <span title="2009-4-28 18:53">25&nbsp;分钟前</span></cite>
+</td>
+</tr>
+</tbody><tbody id="forum19">
+<tr>
+<th class="new">
+<div class="left">
+<h2><a href="forumdisplay.php?fid=19" >〖 生活时尚 〗</a><em> (今日: <strong>20</strong>)</em></h2>
+<p>小吃美食，生活资讯，购物心得，衣着时尚，美容美体 ，健身心得、时尚运动</p><p>版主: <a class="notabs" href="space.php?username=%BA%A3%D1%FD">海妖</a>, <a class="notabs" href="space.php?username=%C3%D2%C3%D2%B3%C8%C9%AB">靡靡橙色</a></p></div>
+</th>
+<td class="forumnums">
+<em>4349</em> / 47554</td>
+<td class="forumlast">
+<p><a href="redirect.php?tid=129256&amp;goto=lastpost#lastpost">五一节想狂购的姐妹们近来享受吧 ...</a></p>
+<cite><a href="space.php?username=%BF%A8%C0%AD%D2%C0">卡拉依</a> - <span title="2009-4-28 18:04">1&nbsp;小时前</span></cite>
+</td>
+</tr>
+</tbody><tbody id="forum64">
+<tr>
+<th class="new">
+<div class="left">
+<h2><a href="forumdisplay.php?fid=64" >〖 旅游论坛 〗</a><em> (今日: <strong>28</strong>)</em></h2>
+<p>出去走走,亲近大自然</p><p>版主: <a class="notabs" href="space.php?username=%C0%CF%CF%D0">老闲</a>, <a class="notabs" href="space.php?username=%CB%E6%B1%E3">随便</a></p></div>
+</th>
+<td class="forumnums">
+<em>3710</em> / 46759</td>
+<td class="forumlast">
+<p><a href="redirect.php?tid=129157&amp;goto=lastpost#lastpost">五一西塘游！</a></p>
+<cite><a href="space.php?username=%CD%EA%C3%C0%CA%C0%BD%E7">完美世界</a> - <span title="2009-4-28 17:02">2&nbsp;小时前</span></cite>
+</td>
+</tr>
+</tbody><tbody id="forum76">
+<tr>
+<th class="new">
+<div class="left">
+<h2><a href="forumdisplay.php?fid=76" >〖 健康养生 〗</a><em> (今日: <strong>6</strong>)</em></h2>
+<p>网友与医生的互动，本版特聘玉环本地执业医生为广大网友解答健康疑问</p><p>版主: <a class="notabs" href="space.php?username=%C3%EE%CA%D6%C8%CA%D0%C4">妙手仁心</a>, <a class="notabs" href="space.php?username=%C9%B1%C8%CB%C3%FB%D2%BD">杀人名医</a></p></div>
+</th>
+<td class="forumnums">
+<em>1992</em> / 18995</td>
+<td class="forumlast">
+<p><a href="redirect.php?tid=124618&amp;goto=lastpost#lastpost">世界最长寿的人——李清云！活了 ...</a></p>
+<cite><a href="space.php?username=zerphyris">zerphyris</a> - <span title="2009-4-28 17:37">1&nbsp;小时前</span></cite>
+</td>
+</tr>
+</tbody><tbody id="forum63">
+<tr>
+<th class="new">
+<div class="left">
+<h2><a href="forumdisplay.php?fid=63" >〖 E车友会 〗</a><em> (今日: <strong>4</strong>)</em></h2>
+<p>汽车版块试版！</p><p>版主: <a class="notabs" href="space.php?username=%C0%CB%D7%D3%D0%C4%C9%F9">浪子心声</a>, <a class="notabs" href="space.php?username=Dodge">Dodge</a></p></div>
+</th>
+<td class="forumnums">
+<em>795</em> / 4722</td>
+<td class="forumlast">
+<p><a href="redirect.php?tid=127245&amp;goto=lastpost#lastpost">求购 0６款东方本田CAV</a></p>
+<cite><a href="space.php?username=%C2%D6%CC%A5%C9%CF%B5%C4%C2%EC%D2%CF">轮胎上的蚂蚁</a> - <span title="2009-4-28 14:18">4&nbsp;小时前</span></cite>
+</td>
+</tr>
+</tbody><tbody id="forum60">
+<tr>
+<th class="new">
+<div class="left">
+<h2><a href="forumdisplay.php?fid=60" >〖 色影贴图 〗</a><em> (今日: <strong>63</strong>)</em></h2>
+<p>摄影唯美贴图，严禁色情！</p><p>版主: <a class="notabs" href="space.php?username=%B8%A1%B3%F6%BA%A3%C3%E6">浮出海面</a>, <a class="notabs" href="space.php?username=%C9%EE%C9%BD%C0%CF%D1%FD">深山老妖</a></p></div>
+</th>
+<td class="forumnums">
+<em>2257</em> / 35618</td>
+<td class="forumlast">
+<p><a href="redirect.php?tid=129206&amp;goto=lastpost#lastpost">有趣的图片，博大家开怀一笑。。 ...</a></p>
+<cite><a href="space.php?username=zerphyris">zerphyris</a> - <span title="2009-4-28 18:02">1&nbsp;小时前</span></cite>
+</td>
+</tr>
+</tbody><tbody id="forum40">
+<tr>
+<th class="new">
+<div class="left">
+<h2><a href="forumdisplay.php?fid=40" >〖 信息咨询 〗</a><em> (今日: <strong>38</strong>)</em></h2>
+<p>百业信息发布，二手置换，求助咨询。广告真伪请自行辨认!</p><p>版主: <a class="notabs" href="space.php?username=%CD%F8%B3%E6">网虫</a></p></div>
+</th>
+<td class="forumnums">
+<em>7897</em> / 34101</td>
+<td class="forumlast">
+<p><a href="redirect.php?tid=126461&amp;goto=lastpost#lastpost">海都花园，新装修有独立卫生间， ...</a></p>
+<cite><a href="space.php?username=%C1%BF%B0%E6%CF%B4%B5%D3">量版洗涤</a> - <span title="2009-4-28 19:04">14&nbsp;分钟前</span></cite>
+</td>
+</tr>
+</tbody></table>
+</div>
+<div id="ad_intercat_45"></div><div class="mainbox list">
+<span class="headactions">
+<img id="category_78_img" src="images/default/collapsed_no.gif" title="收起/展开" alt="收起/展开" onclick="toggle_collapse('category_78');" />
+</span>
+<h3><a href="index.php?gid=78">新人‖世界</a></h3>
+<table id="category_78" summary="category78" cellspacing="0" cellpadding="0" style="">
+<tr class="narrowlist"><th width="25%">
+<h2><a href="forumdisplay.php?fid=79" >婚纱※摄影</a></h2>
+<p>主题: 76, 帖数: 1353</p>
+<p>最后发表:
+<a href="redirect.php?tid=124957&amp;goto=lastpost#lastpost" title="玉环“巴黎巴黎”婚纱摄影 by lydia戴  "><span title="2009-4-25 10:58">3&nbsp;天前&nbsp;10:58</span></a>
+</p>
+</th><th width="25%">
+<h2><a href="forumdisplay.php?fid=82" >家纺※珠宝</a></h2>
+<p>主题: 8, 帖数: 37</p>
+<p>最后发表:
+<a href="redirect.php?tid=126405&amp;goto=lastpost#lastpost" title="真钻坊珠宝 by huaihuai  "><span title="2009-4-23 19:25">5&nbsp;天前&nbsp;19:25</span></a>
+</p>
+</th><th width="25%">
+<h2><a href="forumdisplay.php?fid=81" >新居※装修</a></h2>
+<p>主题: 14, 帖数: 75</p>
+<p>最后发表:
+<a href="redirect.php?tid=128987&amp;goto=lastpost#lastpost" title="套房阳台改装 有人装吗？ by 渝汇是我家  "><span title="2009-4-25 21:13">3&nbsp;天前&nbsp;21:13</span></a>
+</p>
+</th><th width="25%">
+<h2><a href="forumdisplay.php?fid=80" >婚庆※喜铺</a><em> (今日: <strong>2</strong>)</em></h2>
+<p>主题: 19, 帖数: 106</p>
+<p>最后发表:
+<a href="redirect.php?tid=99155&amp;goto=lastpost#lastpost" title="书写婚宴请柬注意事项 by lydia戴  "><span title="2009-4-25 15:10">3&nbsp;天前&nbsp;15:10</span></a>
+</p>
+</th></table>
+</div>
+<div id="ad_intercat_78"></div><div class="mainbox list">
+<span class="headactions">
+<img id="category_13_img" src="images/default/collapsed_no.gif" title="收起/展开" alt="收起/展开" onclick="toggle_collapse('category_13');" />
+</span>
+<h3><a href="index.php?gid=13">娱乐‖休闲</a></h3>
+<table id="category_13" summary="category13" cellspacing="0" cellpadding="0" style="">
+<tbody id="forum58">
+<tr>
+<th class="new">
+<div class="left">
+<h2><a href="forumdisplay.php?fid=58" >〖 人文玉环 〗</a><em> (今日: <strong>1</strong>)</em></h2>
+<p>玉环经典人文</p></div>
+</th>
+<td class="forumnums">
+<em>937</em> / 10188</td>
+<td class="forumlast">
+<p><a href="redirect.php?tid=67257&amp;goto=lastpost#lastpost">妈妈</a></p>
+<cite><a href="space.php?username=870858">870858</a> - <span title="2009-4-28 10:56">8&nbsp;小时前</span></cite>
+</td>
+</tr>
+</tbody><tbody id="forum14">
+<tr>
+<th class="new">
+<div class="left">
+<h2><a href="forumdisplay.php?fid=14" >〖 石榴树下 〗</a><em> (今日: <strong>7</strong>)</em></h2>
+<p>春雨冬雪，无意叩响心中的弦，笔下竟然思绪飘然</p><p>版主: <a class="notabs" href="space.php?username=%B9%C5%D4%C2">古月</a>, <a class="notabs" href="space.php?username=%C6%F8%CB%C0%CC%C6%C9%AE">气死唐僧</a></p></div>
+</th>
+<td class="forumnums">
+<em>2843</em> / 23862</td>
+<td class="forumlast">
+<p><a href="redirect.php?tid=116926&amp;goto=lastpost#lastpost">晚安，玉环（更新至二十）</a></p>
+<cite><a href="space.php?username=%C4%AA%C4%EE">莫念</a> - <span title="2009-4-28 16:20">2&nbsp;小时前</span></cite>
+</td>
+</tr>
+</tbody><tbody id="forum44">
+<tr>
+<th class="new">
+<div class="left">
+<h2><a href="forumdisplay.php?fid=44" >〖 家有儿女 〗</a></h2>
+<p>宝宝健康，宝宝美食。。交流育儿经验从心开始，记录BB的成长。。。孩子的教育成长</p><p>版主: <a class="notabs" href="space.php?username=%BA%A3%D1%F3%B1%B4%B1%B4">海洋贝贝</a>, <a class="notabs" href="space.php?username=%C6%DF%D0%C7%C6%B0%B3%E6">七星瓢虫</a></p></div>
+</th>
+<td class="forumnums">
+<em>926</em> / 6705</td>
+<td class="forumlast">
+<p><a href="redirect.php?tid=127835&amp;goto=lastpost#lastpost">少儿教育保险：让孩子赢在起跑线 ...</a></p>
+<cite><a href="space.php?username=%B9%C9%CA%D0%C8%CB%C9%FA">股市人生</a> - <span title="2009-4-27 22:26">昨天&nbsp;22:26</span></cite>
+</td>
+</tr>
+</tbody><tbody id="forum27">
+<tr>
+<th class="new">
+<div class="left">
+<h2><a href="forumdisplay.php?fid=27" >〖 动感娱乐 〗</a><em> (今日: <strong>8</strong>)</em></h2>
+<p>天籁之音，动感MV,最新电影海报仅在于此！发布最新娱乐界新闻，明星八卦</p><p>版主: <a class="notabs" href="space.php?username=%C6%F4%D5%C7">启涨</a>, <a class="notabs" href="space.php?username=%D3%A2%B8%F1%C2%EA%D6%AE%C9%F9">英格玛之声</a></p></div>
+</th>
+<td class="forumnums">
+<em>3563</em> / 17263</td>
+<td class="forumlast">
+<p><a href="redirect.php?tid=129259&amp;goto=lastpost#lastpost">&quot;Enigma、Era、Deep Forest的混合 ...</a></p>
+<cite><a href="space.php?username=%D3%A2%B8%F1%C2%EA%D6%AE%C9%F9">英格玛之声</a> - <span title="2009-4-28 18:03">1&nbsp;小时前</span></cite>
+</td>
+</tr>
+</tbody><tbody id="forum75">
+<tr>
+<th class="new">
+<div class="left">
+<h2><a href="forumdisplay.php?fid=75" >〖 催眠花园 〗</a><em> (今日: <strong>12</strong>)</em></h2>
+<p>专业催眠师做客本论坛,并开辟专栏为广大网友解除心理困惑，斑竹由专业催眠师担任，为广大网友提供免费咨询服务。一月份起,每月五名名额免费为肿瘤患者、学生、教师提供心理治疗,如有需要的朋友可与斑竹联系。</p><p>版主: <a class="notabs" href="space.php?username=%D3%D0%D4%B5%C0%B4%CF%E0%BB%E1">有缘来相会</a></p></div>
+</th>
+<td class="forumnums">
+<em>223</em> / 1284</td>
+<td class="forumlast">
+<p><a href="redirect.php?tid=129240&amp;goto=lastpost#lastpost">小孩“三岁看大”的心理学依据</a></p>
+<cite><a href="space.php?username=%A3%A2%CB%D5%A9%B0su%A9m">＂苏┌su﹎</a> - <span title="2009-4-28 16:24">2&nbsp;小时前</span></cite>
+</td>
+</tr>
+</tbody><tbody id="forum28">
+<tr>
+<th>
+<div class="left">
+<h2><a href="forumdisplay.php?fid=28" >〖 春天礼物 〗</a></h2>
+<p>爱心在这里延续,提倡“奉献，平等，互助”的精神，通过网络与现实社会的互动，，帮助贫困学龄儿童完成九年制义务教育。</p></div>
+</th>
+<td class="forumnums">
+<em>338</em> / 4154</td>
+<td class="forumlast">
+<p><a href="redirect.php?tid=721&amp;goto=lastpost#lastpost">你愿意参加哪些项目（多选）的志 ...</a></p>
+<cite><a href="space.php?username=%D7%DF%DF%5E">走過</a> - <span title="2009-4-25 19:44">3&nbsp;天前&nbsp;19:44</span></cite>
+</td>
+</tr>
+</tbody></table>
+</div>
+<div id="ad_intercat_13"></div><div class="mainbox list">
+<span class="headactions">
+分区版主: <a class="notabs" href="space.php?username=%C9%CB%D0%C4%D3%FB%BE%F8">伤心欲绝</a><img id="category_83_img" src="images/default/collapsed_no.gif" title="收起/展开" alt="收起/展开" onclick="toggle_collapse('category_83');" />
+</span>
+<h3><a href="index.php?gid=83">便民‖服务</a></h3>
+<table id="category_83" summary="category83" cellspacing="0" cellpadding="0" style="">
+<tr class="narrowlist"><th width="33%" class="new">
+<h2><a href="forumdisplay.php?fid=65" >〖 电脑资讯 〗</a><em> (今日: <strong>6</strong>)</em></h2>
+<p>主题: 879, 帖数: 3492</p>
+<p>最后发表:
+<a href="redirect.php?tid=129230&amp;goto=lastpost#lastpost" title="u了事 by 123654  "><span title="2009-4-28 15:52">3&nbsp;小时前</span></a>
+</p>
+</th><th width="33%">
+<h2><a href="forumdisplay.php?fid=71" >〖 E友网店 〗</a></h2>
+<p>主题: 734, 帖数: 6012</p>
+<p>最后发表:
+<a href="redirect.php?tid=128784&amp;goto=lastpost#lastpost" title="有在淘宝网开店吗？请加群 by 玉环颜颜  "><span title="2009-4-27 13:09">昨天&nbsp;13:09</span></a>
+</p>
+</th><th width="33%" class="new">
+<h2><a href="forumdisplay.php?fid=85" >〖 求职招聘 〗</a><em> (今日: <strong>6</strong>)</em></h2>
+<p>主题: 137, 帖数: 500</p>
+<p>最后发表:
+<a href="redirect.php?tid=129226&amp;goto=lastpost#lastpost" title="知名家具企业招外贸单证 by sandylyh  "><span title="2009-4-28 17:28">1&nbsp;小时前</span></a>
+</p>
+</th></table>
+</div>
+<div id="ad_intercat_83"></div><div class="mainbox list">
+<span class="headactions">
+分区版主: <a class="notabs" href="space.php?username=admin">admin</a><img id="category_48_img" src="images/default/collapsed_no.gif" title="收起/展开" alt="收起/展开" onclick="toggle_collapse('category_48');" />
+</span>
+<h3><a href="index.php?gid=48">E网‖专栏</a></h3>
+<table id="category_48" summary="category48" cellspacing="0" cellpadding="0" style="">
+<tr class="narrowlist"><th width="16%" class="new">
+<h2><a href="forumdisplay.php?fid=72" >〖 玉环理财 〗</a><em> (今日: <strong>3</strong>)</em></h2>
+<p>主题: 395, 帖数: 1304</p>
+<p>最后发表:
+<a href="redirect.php?tid=128927&amp;goto=lastpost#lastpost" title="内地富豪香港理财遇血洗 知名地产 ... by 铭娈  "><span title="2009-4-28 16:52">2&nbsp;小时前</span></a>
+</p>
+</th><th width="16%" class="new">
+<h2><a href="forumdisplay.php?fid=47" >〖 09公考 〗</a><em> (今日: <strong>2</strong>)</em></h2>
+<p>主题: 246, 帖数: 2130</p>
+<p>最后发表:
+<a href="redirect.php?tid=15082&amp;goto=lastpost#lastpost" title="公务员考试视频教程 大家抓紧下载 ... by kingdom41  "><span title="2009-4-28 14:57">4&nbsp;小时前</span></a>
+</p>
+</th><th width="16%">
+<h2><a href="forumdisplay.php?fid=54" >〖 E卡专栏 〗</a></h2>
+<p>主题: 145, 帖数: 2101</p>
+<p>最后发表:
+<a href="redirect.php?tid=128903&amp;goto=lastpost#lastpost" title="专业代办金卡白金卡13777177408免 ... by oop66  "><span title="2009-4-24 21:05">4&nbsp;天前&nbsp;21:05</span></a>
+</p>
+</th><th width="16%">
+<h2><a href="forumdisplay.php?fid=51" >〖 公告投诉 〗</a></h2>
+<p>主题: 748, 帖数: 7237</p>
+<p>最后发表:
+<a href="redirect.php?tid=126938&amp;goto=lastpost#lastpost" title="做版主的就可以随便删除别人的帖 ... by YOU  "><span title="2009-4-25 12:56">3&nbsp;天前&nbsp;12:56</span></a>
+</p>
+</th><td>&nbsp;</td><td>&nbsp;</td></tr></table>
+</div>
+<div id="ad_intercat_48"></div><div class="mainbox list">
+<span class="headactions"><img id="forumlinks_img" src="images/default/collapsed_no.gif" alt="" onclick="toggle_collapse('forumlinks');" /></span>
+<h3>友情链接</h3>
+<div id="forumlinks" style="">
+<div class="forumtxtlink">
+<ul class="s_clear">
+<li><a href="http://www.9yc.com" target="_blank" title="中国创网">中国创网</a></li><li><a href="http://bbs.318020.com" target="_blank" title="黄岩论坛">黄岩论坛</a></li><li><a href="http://bbs.taizhou.com/" target="_blank" title="台州论坛">台州论坛</a></li><li><a href="http://bbs.tiantai.org/" target="_blank" title="天台论坛">天台论坛</a></li><li><a href="http://www.linsir.net" target="_blank" title="林警官在线">林警官在线</a></li><li><a href="http://www.tz94.com/bbs/" target="_blank" title="台州新青年">台州新青年</a></li></ul>
+</div>
+</div>
+</div>
+<div class="mainbox list" id="online">
+<span class="headactions"><a href="index.php?showoldetails=yes#online" class="nobdr"><img src="images/default/collapsed_yes.gif" alt="" /></a></span>
+<h3>
+<strong><a href="member.php?action=online">在线会员</a></strong>
+- 总计 <em>465</em> 人在线
+- 最高记录是 <em>2054</em> 于 <em>2009-2-19</em>.
+</h3>
+</div>
+
+</div></div>
+
+<div id="sidebar" class="side" style="">
+<div id="infoside">
+
+<div class="sidebox s_clear">
+
+<div style="float:left; text-align:left; width:40%;"><img src="http://www.317600.net/uc_server/images/noavatar_small.gif"></div>
+<a href="huawei.php" onclick="floatwin('open_register', this.href, 600, 400, '600,0');return false;">注册</a><br />
+<a href="logging.php?action=login" onclick="floatwin('open_login', this.href, 600, 400);return false;">登录</a>
+
+</div>
+<hr class="shadowline"/><div  class="sidebox">
+<h4>最新图片</h4>
+<script type="text/javascript">
+var slideSpeed = 2500;
+var slideImgsize = [140,140];
+var slideTextBar = 0;
+var slideBorderColor = '#C8DCEC';
+var slideBgColor = '#FFF';
+var slideImgs = new Array();
+var slideImgLinks = new Array();
+var slideImgTexts = new Array();
+var slideSwitchBar = 1;
+var slideSwitchColor = 'black';
+var slideSwitchbgColor = 'white';
+var slideSwitchHiColor = '#C8DCEC';
+
+slideImgs[1] = "http://www.317600.net/attachments/month_0904/0904281823cfef02bec09a2d6a.jpg";
+slideImgLinks[1] = "redirect.php?goto=findpost&ptid=129260&pid=934568";
+slideImgTexts[1] = "上海车展";
+
+slideImgs[2] = "http://www.317600.net/attachments/month_0904/09042817303bf453f2fe091d93.jpg";
+slideImgLinks[2] = "redirect.php?goto=findpost&ptid=129255&pid=934521";
+slideImgTexts[2] = "今天我们斗“地主”.......";
+
+slideImgs[3] = "http://www.317600.net/attachments/month_0904/09042817131df12922f598f7cc.jpg";
+slideImgLinks[3] = "redirect.php?goto=findpost&ptid=129249&pid=934489";
+slideImgTexts[3] = "自然美人活性细胞眼霜、改善眼袋、黑眼圈、眼纹、眼浮肿";
+
+slideImgs[4] = "http://www.317600.net/attachments/month_0904/0904281656df519c8c17a813e8.jpg";
+slideImgLinks[4] = "redirect.php?goto=findpost&ptid=129246&pid=934457";
+slideImgTexts[4] = "寻狗启示，急~~~~";
+
+slideImgs[5] = "http://www.317600.net/attachments/month_0904/0904281653a60218c3723c1c14.jpg";
+slideImgLinks[5] = "redirect.php?goto=findpost&ptid=129244&pid=934453";
+slideImgTexts[5] = "寻狗启示，急~~~~";
+
+slideImgs[6] = "http://www.317600.net/attachments/month_0904/0904280903800ac0e00eb8e2fd.jpg";
+slideImgLinks[6] = "redirect.php?goto=findpost&ptid=129173&pid=933673";
+slideImgTexts[6] = "再续我家的花";
+
+slideImgs[7] = "http://www.317600.net/attachments/month_0904/0904280834f8c65c19d5039bdb.jpg";
+slideImgLinks[7] = "redirect.php?goto=findpost&ptid=129165&pid=933629";
+slideImgTexts[7] = "你们看这辆车是吉利还是长安";
+
+slideImgs[8] = "http://www.317600.net/attachments/month_0904/0904261101edb99330f00d1055.jpg";
+slideImgLinks[8] = "redirect.php?goto=findpost&ptid=126146&pid=932319";
+slideImgTexts[8] = "一个人的旅途----独行龙潭坑";
+
+</script>
+<script language="javascript" type="text/javascript" src="include/js/slide.js"></script>
+</div><hr class="shadowline"/>
+<div class="side_type s_clear">
+<h4 id="tcm_3mPg_0" onclick="combineswitch('cm_3mPg', 2, 0)">最新主题</h4><h4 id="tcm_3mPg_1" onclick="combineswitch('cm_3mPg', 2, 1)">回复</h4>
+</div>
+<div id="cm_3mPg_0" class="combine" style="display:none"><div class="sidebox">
+<h4>最新主题</h4>
+<ul class="textinfolist">
+<li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=129262' title='这对母女还有人性吗' target='_blank'>这对母女还有人性吗</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=129261' title='玉环哪个装修公司好点？' target='_blank'>玉环哪个装修公司好点</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=129260' title='上海车展' target='_blank'>上海车展</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=129259' title='&quot;Enigma、Era、Deep Forest的混合体&quot;Réjean Paquin-Tarot(MP3/320K)' target='_blank'>&quot;Enigma、Era、Deep F</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=129258' title='今天这里又发生了什么事啊？好象堵车比较严重！' target='_blank'>今天这里又发生了什么</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=129257' title='撞车三部曲之第一部《兴奋的一天》' target='_blank'>撞车三部曲之第一部《</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=129256' title='五一节想狂购的姐妹们近来享受吧！' target='_blank'>五一节想狂购的姐妹们</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=129255' title='今天我们斗“地主”.......' target='_blank'>今天我们斗“地主”..</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=129254' title='老年大学' target='_blank'>老年大学</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=129253' title='求助  寻狗启示~~急急急！！！！' target='_blank'>求助  寻狗启示~~急急</a></li>
+</ul>
+</div></div><div id="cm_3mPg_1" class="combine" style="display:none"><div class="sidebox">
+<h4>最新回复</h4>
+<ul class="textinfolist">
+<li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=129262' title='这对母女还有人性吗' target='_blank'>这对母女还有人性吗</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=128901' title='玉环各学校出现暴力老师' target='_blank'>玉环各学校出现暴力老</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=129247' title='五一' target='_blank'>五一</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=129261' title='玉环哪个装修公司好点？' target='_blank'>玉环哪个装修公司好点</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=126461' title='海都花园，新装修有独立卫生间，电视，床，空调，可烧饭月租470元 独立水电表' target='_blank'>海都花园，新装修有独</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=129205' title='玉环50罢工堵路感想！！' target='_blank'>玉环50罢工堵路感想！</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=129260' title='上海车展' target='_blank'>上海车展</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=129198' title='最后------沦陷。。。。。。。。。。。' target='_blank'>最后------沦陷。。。</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=129179' title='嫁人就嫁灰太狼' target='_blank'>嫁人就嫁灰太狼</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=129180' title='胆战心惊' target='_blank'>胆战心惊</a></li>
+</ul>
+</div></div>
+<script type="text/javascript">
+function combineswitch(idbase, count, current) {
+for(i = 0;i < count;i++) {
+$(idbase + '_' + i).style.display = 'none';
+$('t' + idbase + '_' + i).className = '';
+}
+$(idbase + '_' + current).style.display = '';
+$('t' + idbase + '_' + current).className = 'ontype';
+}
+combineswitch('cm_3mPg', 2, 0);
+</script>
+<hr class="shadowline"/>
+<div class="side_type s_clear">
+<h4 id="tcm_3735_0" onclick="combineswitch('cm_3735', 3, 0)">今日热门</h4><h4 id="tcm_3735_1" onclick="combineswitch('cm_3735', 3, 1)">本周</h4><h4 id="tcm_3735_2" onclick="combineswitch('cm_3735', 3, 2)">本月</h4>
+</div>
+<div id="cm_3735_0" class="combine" style="display:none"><div class="sidebox">
+<h4>今日热门</h4>
+<ul class="textinfolist">
+<li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=129205' title='玉环50罢工堵路感想！！' target='_blank'>玉环50罢工堵路感想！</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=129181' title='目睹打狗队丧心病狂的暴行' target='_blank'>目睹打狗队丧心病狂的</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=129154' title='4月26日原国务院副总理、中央政治局委员吴仪游览神仙居' target='_blank'>4月26日原国务院副总理</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=129170' title='盛传生猛玉环的斑竹与华丰超市某某有联系？' target='_blank'>盛传生猛玉环的斑竹与</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=129222' title='非常之奇怪。-为何50堵车事件照片贴就会被删了捏' target='_blank'>非常之奇怪。-为何50堵</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=129200' title='县政府花样为什么就这样多呢？' target='_blank'>县政府花样为什么就这</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=129212' title='玉环中医院医生你的医德在哪里？' target='_blank'>玉环中医院医生你的医</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=129165' title='你们看这辆车是吉利还是长安' target='_blank'>你们看这辆车是吉利还</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=129166' title='十种最易成为“弃妇”的傻女人' target='_blank'>十种最易成为“弃妇”</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=129185' title='新车站这里怎么了' target='_blank'>新车站这里怎么了</a></li>
+</ul>
+</div></div><div id="cm_3735_1" class="combine" style="display:none"><div class="sidebox">
+<h4>本周热门</h4>
+<ul class="textinfolist">
+<li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=128708' title='惊闻！浙江省纪委拒玉环县21村联名举报？' target='_blank'>惊闻！浙江省纪委拒玉</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=128985' title='玉环人要当台州市长？' target='_blank'>玉环人要当台州市长？</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=128634' title='4.21一女在玉环广陵路店内偷包/视频拍到' target='_blank'>4.21一女在玉环广陵路</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=128717' title='我今天碰到两个MM' target='_blank'>我今天碰到两个MM</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=128576' title='有位姐姐打我电话诱惑我' target='_blank'>有位姐姐打我电话诱惑</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=128901' title='玉环各学校出现暴力老师' target='_blank'>玉环各学校出现暴力老</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=128729' title='玉环的世道太乱了' target='_blank'>玉环的世道太乱了</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=128631' title='玉环体育局这帮败类' target='_blank'>玉环体育局这帮败类</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=128770' title='玉环农村合作银行招考内幕' target='_blank'>玉环农村合作银行招考</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=128827' title='玉环国际花园只要35.6万？' target='_blank'>玉环国际花园只要35.6</a></li>
+</ul>
+</div></div><div id="cm_3735_2" class="combine" style="display:none"><div class="sidebox">
+<h4>本月热门</h4>
+<ul class="textinfolist">
+<li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=127647' title='那个那个电视台的沈主播，打听下啊！' target='_blank'>那个那个电视台的沈主</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=127395' title='玉环那里的美女最多啊？' target='_blank'>玉环那里的美女最多啊</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=127902' title='你认为信基督教好还信是佛教好?' target='_blank'>你认为信基督教好还信</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=127618' title='又是外地人——孩子掉水里死了，向政府示威' target='_blank'>又是外地人——孩子掉</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=127779' title='小屿的风流韵事' target='_blank'>小屿的风流韵事</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=128465' title='特大喜讯—珠港镇即将撤消' target='_blank'>特大喜讯—珠港镇即将</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=128246' title='一张照片' target='_blank'>一张照片</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=127224' title='新闻上看来的，请玉环人控制情绪' target='_blank'>新闻上看来的，请玉环</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=126895' title='[原创]我们可不可以不勇敢' target='_blank'>[原创]我们可不可以不</a></li><li><img src='images/common/slisticon.gif' border='0' align='absmiddle'><a href='viewthread.php?tid=127402' title='前天坎门解放路发生了一件外地人路上抢劫。金额特大' target='_blank'>前天坎门解放路发生了</a></li>
+</ul>
+</div></div>
+<script type="text/javascript">
+function combineswitch(idbase, count, current) {
+for(i = 0;i < count;i++) {
+$(idbase + '_' + i).style.display = 'none';
+$('t' + idbase + '_' + i).className = '';
+}
+$(idbase + '_' + current).style.display = '';
+$('t' + idbase + '_' + current).className = 'ontype';
+}
+combineswitch('cm_3735', 3, 0);
+</script>
+<hr class="shadowline"/>
+<div class="side_type s_clear">
+<h4 id="tcm_7HcH_0" onclick="combineswitch('cm_7HcH', 3, 0)">今日排行</h4><h4 id="tcm_7HcH_1" onclick="combineswitch('cm_7HcH', 3, 1)">本周</h4><h4 id="tcm_7HcH_2" onclick="combineswitch('cm_7HcH', 3, 2)">本月</h4>
+</div>
+<div id="cm_7HcH_0" class="combine" style="display:none"><div class="sidebox s_clear">
+<h4>今日排行</h4>
+<div style="clear:both"><div style="float:left;margin: 0 16px 5px 0"><a title='＂苏┌su﹎' href='space.php?uid=69841' target='_blank'><img src="http://www.317600.net/uc_server/avatar.php?uid=69841&size=small" /></a></div><a href='space.php?uid=69841' target='_blank'>＂苏┌su﹎</a><br />发帖 54 篇</div><div style="clear:both"><div style="float:left;margin: 0 16px 5px 0"><a title='卡拉依' href='space.php?uid=74464' target='_blank'><img src="http://www.317600.net/uc_server/avatar.php?uid=74464&size=small" /></a></div><a href='space.php?uid=74464' target='_blank'>卡拉依</a><br />发帖 37 篇</div><div style="clear:both"><div style="float:left;margin: 0 16px 5px 0"><a title='我就这样' href='space.php?uid=51883' target='_blank'><img src="http://www.317600.net/uc_server/avatar.php?uid=51883&size=small" /></a></div><a href='space.php?uid=51883' target='_blank'>我就这样</a><br />发帖 29 篇</div><div style="clear:both"><div style="float:left;margin: 0 16px 5px 0"><a title='kingkobe99' href='space.php?uid=79483' target='_blank'><img src="http://www.317600.net/uc_server/avatar.php?uid=79483&size=small" /></a></div><a href='space.php?uid=79483' target='_blank'>kingkobe99</a><br />发帖 29 篇</div><div style="clear:both"><div style="float:left;margin: 0 16px 5px 0"><a title='LJ4686' href='space.php?uid=74111' target='_blank'><img src="http://www.317600.net/uc_server/avatar.php?uid=74111&size=small" /></a></div><a href='space.php?uid=74111' target='_blank'>LJ4686</a><br />发帖 28 篇</div>
+</div></div><div id="cm_7HcH_1" class="combine" style="display:none"><div class="sidebox s_clear">
+<h4>本周排行</h4>
+<div style="clear:both"><div style="float:left;margin: 0 16px 5px 0"><a title='优根哈斯' href='space.php?uid=77974' target='_blank'><img src="http://www.317600.net/uc_server/avatar.php?uid=77974&size=small" /></a></div><a href='space.php?uid=77974' target='_blank'>优根哈斯</a><br />发帖 246 篇</div><div style="clear:both"><div style="float:left;margin: 0 16px 5px 0"><a title='卡拉依' href='space.php?uid=74464' target='_blank'><img src="http://www.317600.net/uc_server/avatar.php?uid=74464&size=small" /></a></div><a href='space.php?uid=74464' target='_blank'>卡拉依</a><br />发帖 208 篇</div><div style="clear:both"><div style="float:left;margin: 0 16px 5px 0"><a title='＂苏┌su﹎' href='space.php?uid=69841' target='_blank'><img src="http://www.317600.net/uc_server/avatar.php?uid=69841&size=small" /></a></div><a href='space.php?uid=69841' target='_blank'>＂苏┌su﹎</a><br />发帖 158 篇</div><div style="clear:both"><div style="float:left;margin: 0 16px 5px 0"><a title='huaihuai' href='space.php?uid=60676' target='_blank'><img src="http://www.317600.net/uc_server/avatar.php?uid=60676&size=small" /></a></div><a href='space.php?uid=60676' target='_blank'>huaihuai</a><br />发帖 148 篇</div><div style="clear:both"><div style="float:left;margin: 0 16px 5px 0"><a title='抗太阳' href='space.php?uid=79276' target='_blank'><img src="http://www.317600.net/uc_server/avatar.php?uid=79276&size=small" /></a></div><a href='space.php?uid=79276' target='_blank'>抗太阳</a><br />发帖 138 篇</div>
+</div></div><div id="cm_7HcH_2" class="combine" style="display:none"><div class="sidebox s_clear">
+<h4>本月排行</h4>
+<div style="clear:both"><div style="float:left;margin: 0 16px 5px 0"><a title='浮出海面' href='space.php?uid=52202' target='_blank'><img src="http://www.317600.net/uc_server/avatar.php?uid=52202&size=small" /></a></div><a href='space.php?uid=52202' target='_blank'>浮出海面</a><br />发帖 1178 篇</div><div style="clear:both"><div style="float:left;margin: 0 16px 5px 0"><a title='挖呀挖地洞' href='space.php?uid=72826' target='_blank'><img src="http://www.317600.net/uc_server/avatar.php?uid=72826&size=small" /></a></div><a href='space.php?uid=72826' target='_blank'>挖呀挖地洞</a><br />发帖 682 篇</div><div style="clear:both"><div style="float:left;margin: 0 16px 5px 0"><a title='yhxcfm' href='space.php?uid=71636' target='_blank'><img src="http://www.317600.net/uc_server/avatar.php?uid=71636&size=small" /></a></div><a href='space.php?uid=71636' target='_blank'>yhxcfm</a><br />发帖 589 篇</div><div style="clear:both"><div style="float:left;margin: 0 16px 5px 0"><a title='卡拉依' href='space.php?uid=74464' target='_blank'><img src="http://www.317600.net/uc_server/avatar.php?uid=74464&size=small" /></a></div><a href='space.php?uid=74464' target='_blank'>卡拉依</a><br />发帖 473 篇</div><div style="clear:both"><div style="float:left;margin: 0 16px 5px 0"><a title='优根哈斯' href='space.php?uid=77974' target='_blank'><img src="http://www.317600.net/uc_server/avatar.php?uid=77974&size=small" /></a></div><a href='space.php?uid=77974' target='_blank'>优根哈斯</a><br />发帖 368 篇</div>
+</div></div>
+<script type="text/javascript">
+function combineswitch(idbase, count, current) {
+for(i = 0;i < count;i++) {
+$(idbase + '_' + i).style.display = 'none';
+$('t' + idbase + '_' + i).className = '';
+}
+$(idbase + '_' + current).style.display = '';
+$('t' + idbase + '_' + current).className = 'ontype';
+}
+combineswitch('cm_7HcH', 3, 0);
+</script>
+<hr class="shadowline"/><div class="sidebox s_clear">
+<h4>本周之星</h4>
+
+<div style="clear:both"><div style="float:left; margin-right: 16px;"><a title='优根哈斯' href='space.php?uid=77974' target='_blank'><img src="http://www.317600.net/uc_server/avatar.php?uid=77974&size=small" /></a></div><a href='space.php?uid=77974' target='_blank'>优根哈斯</a> <br />发帖 237 篇</div><div style="clear:both;margin-top:2px" /></div>
+
+<a href='space.php?uid=74464' target='_blank'>卡拉依</a> 
+
+<a href='space.php?uid=69841' target='_blank'>＂苏┌su﹎</a> 
+
+</div></div>
+</div>
+</div><div id="ad_footerbanner1"></div><div id="ad_footerbanner2"></div><div id="ad_footerbanner3"></div>
+
+<div id="footer">
+<div class="wrap s_clear">
+<div id="footlink">
+<p>
+<strong><a href="http://www.317600.net/" target="_blank">玉环E网 Inc.</a></strong>
+( <a href="http://www.miibeian.gov.cn/" target="_blank">浙ICP备09010412号</a>)<span class="pipe">|</span><a href="mailto:admin@your.com">联系我们</a>
+<span class="pipe">|</span><a href="archiver/" target="_blank">Archiver</a><span class="pipe">|</span><a href="wap/" target="_blank">WAP</a></p>
+<p class="smalltext">
+GMT+8, 2009-4-28 19:18, <span id="debuginfo">Processed in 0.049967 second(s), 4 queries</span>.
+</p>
+</div>
+<div id="rightinfo">
+<p>Powered by <strong><a href="http://www.discuz.net" target="_blank">Discuz!</a></strong> <em>7.0.0</em></p>
+<p class="smalltext">&copy; 2001-2009 <a href="http://www.comsenz.com" target="_blank">Comsenz Inc.</a></p>
+</div></div>
+</div>
+</body>
+</html>

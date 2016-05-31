@@ -1,0 +1,446 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>成王败寇</TITLE>
+
+<STYLE>
+TD {
+	FONT: 12px/160% "MS Song", "宋体"; COLOR: #c4a551; WORD-BREAK: break-all
+}
+</STYLE>
+<SCRIPT language=JavaScript src="images/flash.js" tppabs="/images/flash.js"  type=text/javascript></SCRIPT>
+<META content="MSHTML 6.00.2900.3086" name=GENERATOR>
+
+<link href="images/style.css" tppabs="/images/style.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+.STYLE1 {color: #00FF00}
+.STYLE2 {color: #FF0000}
+.STYLE3 {color: #c5ae61}
+.STYLE4 {color: #FFFF00}
+-->
+</style>
+</HEAD>
+<BODY bgColor=#000000 leftMargin=0 topMargin=0 marginwidth="0" marginheight="0" >
+<bgsound src="chx.mid">
+<TABLE cellSpacing=0 cellPadding=0 width=1002 align=center border=0>
+  <TBODY>
+    <TR>
+      <TD><SCRIPT language=JavaScript type=text/javascript>
+writeFlashHTML2("_swf=images/head_new1.swf"/*tpa= /_swf=images/head_new1.swf*/, "_width=1002", "_height=410","_wmode=transparent");
+</SCRIPT>
+      </TD>
+    </TR>
+  </TBODY>
+</TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width=1002 align=center border=0>
+  <TBODY>
+    <TR>
+      <TD align=center valign="top" background="images/bodybg_mid.jpg" tppabs="/images/bodybg_mid.jpg"><br>
+        <table width="90%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><table width="122" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td height="60" align="center" background="images/menu.gif" tppabs="/images/menu.gif"><strong><a href="index.htm" tppabs=" /index.htm">网站首页</a></strong></td>
+                </tr>
+              </table></td>
+            <td><table width="122" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td height="60" align="center" background="images/menu.gif" tppabs="/images/menu.gif"><strong><a href="1.html" tppabs=" /1.html">服务器列表</a></strong></td>
+                </tr>
+              </table></td>
+            <td><table width="122" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td height="60" align="center" background="images/menu.gif" tppabs="/images/menu.gif"><strong><a href="2.html" tppabs=" /2.html">游戏介绍</a></strong></td>
+                </tr>
+              </table></td>
+            <td><table width="122" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td height="60" align="center" background="images/menu.gif" tppabs="/images/menu.gif"><strong><a href="3.html" tppabs=" /3.html">下载中心</a></strong></td>
+                </tr>
+              </table></td>
+            <td><table width="122" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td height="60" align="center" background="images/menu.gif" tppabs="/images/menu.gif"><strong><a href="4.html" tppabs=" /4.html">元宝装备</a></strong></td>
+                </tr>
+              </table></td>
+            <td><table width="122" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td height="60" align="center" background="images/menu.gif" tppabs="/images/menu.gif"><strong><a href="5.html" tppabs=" /5.html">汇款方式</a></strong></td>
+                </tr>
+              </table></td>
+            <td><table width="122" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td height="60" align="center" background="images/menu.gif" tppabs="/images/menu.gif"><strong><a href="6.html" tppabs=" /6.html">合区查询</a></strong></td>
+                </tr>
+              </table></td>
+          </tr>
+        </table>
+        <br>
+        <table width="90%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="241" valign="top"><TABLE cellSpacing=0 cellPadding=0 width=241 border=0>
+                <TBODY>
+                  <TR>
+                    <TD width=257><IMG height=23 src="images/leftbg_top.gif" tppabs="/images/leftbg_top.gif"                    width=241></TD>
+                  </TR>
+                  <TR>
+                    <TD vAlign=top align=center background="images/leftbg_mid.gif" tppabs="/images/leftbg_mid.gif"><TABLE cellSpacing=0 cellPadding=0 width=218 border=0>
+                        <TBODY>
+                          <TR>
+                            <TD width=218 height=30 align="center" valign="top"><strong>客服中心</strong></TD>
+                          </TR>
+                          <TR>
+                            <TD height=60 align="center" valign="middle"><P align=left>客服Q号： 449241425<br>
+&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp; 服务热线：<A href="tencent://message/?uin=435810&amp;Site=www.gmsf888.com&amp;Menu=yes" target=blank></A>联系QQ</TD>
+                          </TR>
+                          <TR>
+                            <TD height=60 align="center" valign="middle">值班时间:24小时</TD>
+                          </TR>
+                        </TBODY>
+                      </TABLE>
+                      <br></TD>
+                  </TR>
+                  <TR>
+                    <TD><IMG height=24 src="images/leftbg_bot.gif" tppabs="/images/leftbg_bot.gif"                width=241></TD>
+                  </TR>
+                </TBODY>
+              </TABLE>
+              <br>
+              <TABLE cellSpacing=0 cellPadding=0 width=241 border=0>
+                <TBODY>
+                  <TR>
+                    <TD width=257><IMG height=23 src="images/leftbg_top.gif" tppabs="/images/leftbg_top.gif"                    width=241></TD>
+                  </TR>
+                  <TR>
+                    <TD vAlign=top align=center background="images/leftbg_mid.gif" tppabs="/images/leftbg_mid.gif"><TABLE cellSpacing=0 cellPadding=0 width=218 border=0>
+                        <TBODY>
+                          <TR>
+                            <TD height=195><IMG height=186 src="images/YYXT.jpg" tppabs="/images/pic3.jpg" width=218 border=0></TD>
+                          </TR>
+                        </TBODY>
+                      </TABLE></TD>
+                  </TR>
+                  <TR>
+                    <TD>&nbsp;</TD>
+                  </TR>
+                </TBODY>
+              </TABLE>
+              <br>
+              <TABLE cellSpacing=0 cellPadding=0 width=241 border=0>
+                <TBODY>
+                  <TR>
+                    <TD width=257><IMG height=23 src="images/leftbg_top.gif" tppabs="/images/leftbg_top.gif"                    width=241></TD>
+                  </TR>
+                  <TR>
+                    <TD vAlign=top align=center background="images/leftbg_mid.gif" tppabs="/images/leftbg_mid.gif"><TABLE cellSpacing=0 cellPadding=0 width=218 border=0>
+                        <TBODY>
+                          <TR>
+                            <TD height=195><IMG height=186 src="images/D2YS.jpg" tppabs="/images/pic3.jpg" width=218 border=0></TD>
+                          </TR>
+                        </TBODY>
+                      </TABLE></TD>
+                  </TR>
+                  <TR>
+                    <TD><IMG height=24 src="images/leftbg_bot.gif" tppabs="/images/leftbg_bot.gif"                width=241></TD>
+                  </TR>
+                </TBODY>
+              </TABLE>
+              <br>
+              <TABLE cellSpacing=0 cellPadding=0 width=241 border=0>
+                <TBODY>
+                  <TR>
+                    <TD width=257><IMG height=23 src="images/leftbg_top.gif" tppabs="/images/leftbg_top.gif"                    width=241></TD>
+                  </TR>
+                  <TR>
+                    <TD vAlign=top align=center background="images/leftbg_mid.gif" tppabs="/images/leftbg_mid.gif"><TABLE cellSpacing=0 cellPadding=0 width=218 border=0>
+                        <TBODY>
+                          <TR>
+                            <TD height=195><IMG height=186 src="images/game.jpg" tppabs="/images/pic3.jpg" width=218 border=0></TD>
+                          </TR>
+                        </TBODY>
+                      </TABLE></TD>
+                  </TR>
+                  <TR>
+                    <TD><IMG height=24 src="images/leftbg_bot.gif" tppabs="/images/leftbg_bot.gif"                width=241></TD>
+                  </TR>
+                </TBODY>
+              </TABLE>
+              <br>
+              <TABLE cellSpacing=0 cellPadding=0 width=241 border=0>
+                <TBODY>
+                  <TR>
+                    <TD width=257><IMG height=23 src="images/leftbg_top.gif" tppabs="/images/leftbg_top.gif"                    width=241></TD>
+                  </TR>
+
+                  <TR>
+                    <TD vAlign=top align=center background="images/leftbg_mid.gif" tppabs="/images/leftbg_mid.gif"><TABLE cellSpacing=0 cellPadding=0 width=218 border=0>
+                        <TBODY>
+                          <TR>
+                            <TD height=195><IMG height=186 src="images/pic3.jpg" tppabs="/images/pic3.jpg" width=218 border=0></TD>
+                          </TR>
+                        </TBODY>
+                      </TABLE></TD>
+                  </TR>
+                  <TR>
+                    <TD><IMG height=24 src="images/leftbg_bot.gif" tppabs="/images/leftbg_bot.gif"                width=241></TD>
+                  </TR>
+                </TBODY>
+              </TABLE>
+			  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="swflash.cab#version=6,0,29,0" tppabs="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="10" height="10">
+              <param name="movie" value="images/music.swf" tppabs="/images/music.swf">
+              <param name="quality" value="high">
+              <embed src="images/music.swf" tppabs="/images/music.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="1" height="1"></embed>
+            </object>		    </td>
+            <td width="10">&nbsp;</td>
+            <td valign="top"><TABLE cellSpacing=0 cellPadding=0 border=0>
+                <TBODY>
+                  <TR>
+                    <TD><img height=63 src="images/bodybg_top.jpg" tppabs="/images/bodybg_top.jpg"                width=686></TD>
+                  </TR>
+
+                  <TR>
+                    <TD vAlign=top background="images/1bodybg_mid.jpg" tppabs="/images/1bodybg_mid.jpg"><TABLE cellSpacing=0 cellPadding=0 border=0>
+                        <TBODY>
+                          <TR>
+                            <TD                        style="BACKGROUND-POSITION: right top; BACKGROUND-IMAGE: url(images/bodybg_top2.jpg); BACKGROUND-REPEAT: no-repeat"                        vAlign=top background="images/bodybg_top2.jpg" tppabs="/images/bodybg_top2.jpg"><TABLE cellSpacing=0 cellPadding=0 width=686 border=0>
+                                <TBODY>
+                                  <TR>
+                                    <TD width=17>&nbsp;</TD>
+                                    <TD width=683 height=90><table width="96%" border="1" style="border-collapse:collapse;" cellpadding="10" cellspacing="0" bordercolor="#673F00">
+                                        <tr>
+                                          <td align="center" valign="top" bgcolor="#332D1C"><table width="100%" border="0" cellpadding="0" cellspacing="1" bgcolor="#6C613C">
+                                              <tr>
+                                                <td colspan="5" bgcolor="#252114"><b><font color="#00FF00">新区预告&gt;&gt;</font><span class="STYLE3">成王败寇一区4月15号下午3点火爆开区</span></b></td>
+                                              </tr>
+                                              <tr align="center">
+                                                <td width="100" height="50" bgcolor="#252114"><strong>服务器名字</strong></td>
+                                                <td width="90" bgcolor="#252114"><strong>开区时间</strong></td>
+                                                <td width="180" bgcolor="#252114"><strong>游戏版本</strong></td>
+                                                <td width="75" bgcolor="#252114"><strong>游戏线路</strong></td>
+                                                <td width="90" bgcolor="#252114"><strong>登陆器下载</strong></td>
+                                              </tr>
+                                              <tr align="center" bgcolor="#252114" >
+                                                <td height="35" style="color:#FF0000; font-weight:200"><span class="STYLE1">成王败寇一区</span></td>
+                                                <td  style="color:#FF0000; font-weight:200"><span style="color:#00FF00; font-weight:400">4月28号下午6点30分</span></td>
+                                                <td  style="color:#FF0000; font-weight:200"><span class="STYLE1">传奇世界1.970骑战天下</span> </td>
+                                                <td  style="color:#FF0000; font-weight:200"><span class="STYLE1">电信</span></td>
+                                                <td  style="color:#FF0000; font-weight:200"><img src="images/new.gif" tppabs="/images/new.gif" width="23" height="12"><a href="dlq.rar" tppabs=" /dlq.rar" target="_self"> 点击下载</a></td>
+                                              </tr>
+                                              <tr align="center" bgcolor="#252114">
+                                                <td height="35" style="color:#FF9900; font-weight:400"><span class="STYLE1">成王败寇二区</span></td>
+                                                <td style="color:#FF9900; font-weight:400"><span class="STYLE1">筹备中……</span></td>
+                                                <td style="color:#FF9900; font-weight:400"><span style="color:#00FF00; font-weight:200">传奇世界1.970骑战天下 </span></td>
+                                                <td style="color:#FF9900; font-weight:400"><span style="color:#00FF00; font-weight:200">电信</span></td>
+                                                <td style="color:#FF9900; font-weight:400"><span class="STYLE1"><img src="images/new.gif" tppabs="/images/new.gif" width="23" height="12"> <a href="dlq.rar" tppabs=" /dlq.rar" target="_self">点击下载</a></span></td>
+                                              </tr>
+                                              <tr align="center" bgcolor="#252114" >
+                                                <td height="35" style="color:#FF0000; font-weight:200">成王败寇三区</td>
+                                                <td  style="color:#FF0000; font-weight:200"><span style="color:#FF0000; font-weight:400">筹备中……</span></td>
+                                                <td  style="color:#FF0000; font-weight:200">传奇世界1.970骑战天下 </td>
+                                                <td  style="color:#FF0000; font-weight:200">电信</td>
+                                                <td  style="color:#FF0000; font-weight:200"><img src="images/new.gif" tppabs="/images/new.gif" width="23" height="12"><a href="dlq.rar" tppabs=" /dlq.rar" target="_self"> 点击下载</a></td>
+                                              </tr>
+                                              <tr align="center" bgcolor="#252114">
+                                                <td height="35" style="color:#FF9900; font-weight:400">成王败寇四区</td>
+                                                <td style="color:#FF9900; font-weight:400">筹备中……</td>
+                                                <td style="color:#FF9900; font-weight:400"><span style="color:#FF0000; font-weight:200">传奇世界1.970骑战天下</span></td>
+                                                <td style="color:#FF9900; font-weight:400"><span style="color:#FF0000; font-weight:200">电信</span></td>
+                                                <td style="color:#FF9900; font-weight:400"><img src="images/new.gif" tppabs="/images/new.gif" width="23" height="12"> <a href="dlq.rar" tppabs=" /dlq.rar" target="_self">点击下载</a></td>
+                                              </tr>
+                                              <tr align="center" bgcolor="#252114" >
+                                                <td height="35" style="color:#FF0000; font-weight:200">成王败寇五区</td>
+                                                <td  style="color:#FF0000; font-weight:200"><span style="color:#FF0000; font-weight:400">筹备中……</span></td>
+                                                <td  style="color:#FF0000; font-weight:200">传奇世界1.970骑战天下 </td>
+                                                <td  style="color:#FF0000; font-weight:200">电信</td>
+                                                <td  style="color:#FF0000; font-weight:200"><img src="images/new.gif" tppabs="/images/new.gif" width="23" height="12"><a href="dlq.rar" tppabs=" /dlq.rar" target="_self"> 点击下载</a></td>
+                                              </tr>
+                                              <tr align="center" bgcolor="#252114">
+                                                <td height="35" style="color:#FF9900; font-weight:400">成王败寇六区</td>
+                                                <td style="color:#FF9900; font-weight:400">筹备中……</td>
+                                                <td style="color:#FF9900; font-weight:400"><span style="color:#FF0000; font-weight:200">传奇世界1.970骑战天下</span></td>
+                                                <td style="color:#FF9900; font-weight:400"><span style="color:#FF0000; font-weight:200">电信</span></td>
+                                                <td style="color:#FF9900; font-weight:400"><img src="images/new.gif" tppabs="/images/new.gif" width="23" height="12"> <a href="dlq.rar" tppabs=" /dlq.rar" target="_self">点击下载</a></td>
+                                              </tr>
+                                            </table>
+                                            <table width="100%" border=0 cellPadding=0 cellSpacing=0 bgcolor="#252114" height=30>
+                                            </table>
+                                            <TABLE width="100%" border=0 cellPadding=0 cellSpacing=0>
+                                              <tr>
+                                                <td ><img src="images/ut02.gif" tppabs="/images/ut02.gif" width="624" height="152"></td>
+                                              </tr>
+                                            </TABLE>
+                                            <br>
+                                            <table width="100%" border=0 cellpadding=0 cellspacing=0 bgcolor="#252114" style="margin-top:3px;">
+                                              <tr>
+                                                <td ><img src="images/5uwl_newbar-04.gif" tppabs="/images/5uwl_newbar-04.gif"><img src="images/5uwl_newbar-13.gif" tppabs="/images/5uwl_newbar-13.gif" width="47" height="29" border=0></td>
+                                              </tr>
+                                              <tr>
+                                                <td valign="top" ><table width="100%" height="65" border=0 cellpadding=0 cellspacing=0 >
+                                                    <tbody>
+                                                      <tr>
+                                                        <td width="100%"><p><span class="STYLE2"><br>
+                                                          【申明】</span>本服投放巨资长期开放,无聊家族及个人不要因为不送元宝或者物品而恶意诽谤,如果希望在本服得到特殊待遇请免开尊口,UT致力于长久,公平,公正,稳定,捣乱者一概封杀毫不留情,不出售装备，不调等级，无内服，大家要知道公平才能缔造长久,稳定才能留住玩家 <BR>
+                                                            <span class="STYLE1">【特点】</span>本次版本提高了元宝和装备的爆率,综合考虑了三职业平衡性,只要你想玩一个区到底,那我们就能以最强大的技术实力和雄厚的资本将服务器版本更新到最新,让你后期不再感到枯燥无味 <BR>
+                                                          【开区活动】押镖，金猪山脉，贪吃的猴子，新升等级任务，馒头血案，无元神PK赛，勇者PK堂， 抢宝盒 ，天关，组合技能地图(都可以打的了)，太极阵，新八大教主，杀GM，黄金圣殿，等等精彩活动 <BR>
+                                                          <span class="STYLE1">特色如下：</span><BR>
+                                                          1、最新仿盛大1.970版，版本随盛大升级。全新的装备，全新的地图。 <BR>
+                                                          2、最新强化技能，真心魔，真附魔，真黑暗属性，无限个性的豹子改名。经典的传世，容易上手。 <BR>
+                                                          3、本祥云网络全新添加会员新功能，会员玩家可以通过会员传送免费进入黑暗地狱8层。免去了一层一层跑的烦恼。<BR>
+                                                          4、冲级送等级装备，包括等级奖励，元宵提交奖励等等。你还等什么，还不疯狂升级。<BR>
+                                                          <span class="STYLE4">【攻沙大奖】</span> <BR>
+                                                          新区首次沙城大奖：活动胜利行会  屠龙1把+2000元宝+蟠龙1套+蟠龙金甲1件<BR>
+                                                          <span class="STYLE2">【宝箱系统】 </span><br>
+                                                          青木开海量经验 <BR>
+                                                          白银开海量元宝 <BR>
+                                                          赤金开战神战神级 血煞级装备 走运是顶级武器 <BR>
+                                                          神秘宝箱开血煞级 蟠龙级装备 走运是特殊戒指<BR>
+                                                          <span class="STYLE4">【新增地图】</span><BR>
+                                                          真神界 帝王坟墓 黄金BOSS区 天魔宝藏 会员打宝地图二 <BR>
+                                                          不是RMB玩家 照样打装备练级 让你们激情无限<BR>
+                                                          还有隐藏六个神秘地图<BR>
+                                                          <span class="STYLE1">【天关系统】 </span><BR>
+                                                          1、天关积分：全新的天关积分换取装备，从神武套装-战神套装-血煞套装-特殊戒指，全职业的装备供你选择，就算天关出不了，有了积分照样有终极装备。对时间宝贵的玩家，也可用元宝直接购买积分。详情请在游戏内天关守卫处查询。
+                                                          <BR>
+                                                          <span class="STYLE1">【强化技能】</span> <BR>
+                                                            新增各职业强化技能。强化技能书可在天关守卫、红袖处购买。 <BR>
+                                                            <span class="STYLE1">【押镖系统】</span> <BR>
+                                                            全新押镖系统,每人每天2次,可押送元宝,金钱,经验,声望,玩家可输入 @抢劫 命令飞到正在押镖的玩家身边进行抢劫 <BR>
+                                                            <span class="STYLE1">【夺宝系统】</span> <BR>
+                                                        最激情的夺宝活动，每天3次。宝盒可开出 血煞级装备 蟠龙级装备 强化技能包 海量的元宝 等</p>                                                        </td>
+                                                      </tr>
+                                                      <tr>
+                                                        <td height="1"></td>
+                                                      </tr>
+                                                      <tr>
+                                                        <td height="1"></td>
+                                                      </tr>
+                                                      <tr>
+                                                        <td height="1"></td>
+                                                      </tr>
+                                                      <tr>
+                                                        <td height="1"></td>
+                                                      </tr>
+                                                      <tr>
+                                                        <td height="1"></td>
+                                                      </tr>
+                                                    </tbody>
+                                                </table></td>
+                                              </tr>
+                                            </table></td>
+                                        </tr>
+                                      </table>
+                                      <TABLE cellSpacing=0 cellPadding=0 width=728% border=0>
+                                        <TBODY>
+                                          <TR>
+                                            <TD vAlign=top width=442><TABLE cellSpacing=0 cellPadding=0 width=442 border=0>
+                                                <TBODY>
+                                                  <TR>
+                                                    <TD><TABLE cellSpacing=0 cellPadding=0 width=208 
+                              align=center border=0>
+                                                        <TBODY>
+                                                          <TR>
+                                                            <TD><IMG height=32 alt=精彩瞬间                                  src="images/newbar-29.gif" tppabs="/images/newbar-29.gif" width=208                                  border=0></TD>
+                                                          </TR>
+                                                          <TR>
+                                                            <TD align=middle height=150><img border="0" src="images/SS005.GIF" tppabs="/images/SS005.GIF" width="201" height="147">
+                                                              <TABLE border=0>
+                                                                <TBODY>
+                                                                  <TR></TR>
+                                                                </TBODY>
+                                                            </TABLE></TD>
+                                                          </TR>
+                                                          <TR>
+                                                            <TD><IMG height=7 alt=""                                  src="images/newbar-39.gif" tppabs="/images/newbar-39.gif"                                  width=208></TD>
+                                                          </TR>
+                                                        </TBODY>
+                                                    </TABLE></TD>
+                                                    <TD><TABLE cellSpacing=0 cellPadding=0 width=208 
+                              align=center border=0>
+                                                        <TBODY>
+                                                          <TR>
+                                                            <TD><IMG height=32 alt=玩家风采                                  src="images/newbar-31.gif" tppabs="/images/newbar-31.gif" width=207                                  border=0></TD>
+                                                          </TR>
+                                                          <TR>
+                                                            <TD align=middle height=150><img border="0" src="images/ss004.GIF" tppabs="/images/ss004.GIF" width="201" height="147">
+                                                              <TABLE border=0>
+                                                                <TBODY>
+                                                                  <TR></TR>
+                                                                </TBODY>
+                                                            </TABLE></TD>
+                                                          </TR>
+                                                          <TR>
+                                                            <TD><IMG height=7 alt=""                                  src="images/newbar-39.gif" tppabs="/images/newbar-39.gif"                                  width=208></TD>
+                                                          </TR>
+                                                        </TBODY>
+                                                    </TABLE></TD>
+                                                  </TR>
+                                                </TBODY>
+                                            </TABLE></TD>
+                                            <TD vAlign=top><TABLE cellSpacing=0 cellPadding=0 width=79% align=left 
+                        border=0>
+                                                <TBODY>
+                                                  <TR>
+                                                    <TD vAlign=bottom height=17><TABLE cellSpacing=0 cellPadding=0 
+                              border=0>
+                                                        <TBODY>
+                                                          <TR>
+                                                            <TD ><IMG height=31 alt=""   src="images/newbar-33.gif" tppabs="/images/newbar-33.gif" width=158></TD>
+                                                            <TD><IMG height=31 alt=""  src="images/newbar-23.gif" tppabs="/images/newbar-23.gif" width=47 border=0></TD>
+                                                          </TR>
+                                                        </TBODY>
+                                                    </TABLE></TD>
+                                                  </TR>
+                                                  <TR>
+                                                    <TD vAlign=top height=17>
+													  <TABLE cellSpacing=1 cellPadding=1 width="96%" border=0>
+                                                        <TBODY>
+                                                          <TR>
+                                                            <TD><FONT color=#FFFFFF>[经验心得]警惕新骗术 无间社为您支招 <BR>
+                                                                [心情故事]有一种爱不能称之为爱情<BR>
+                                                                [心情故事]这个世界是因你而美丽!<BR>
+                                                                [经验心得]玩战士职业PK经验心得<BR>
+                                                                [心情故事]网恋给予了我们什么<BR>
+                                                                [成王败寇]做你的红颜,好吗.....<BR>
+                                                                [成王败寇]我爱他，是我心中的那只蝶</FONT><BR>                                                            </TD>
+                                                          </TR>
+                                                        </TBODY>
+                                                      </TABLE>												    </TD>
+                                                  </TR>
+                                                </TBODY>
+                                            </TABLE></TD>
+                                          </TR>
+                                        </TBODY>
+                                      </TABLE></TD>
+                                  </TR>
+                                </TBODY>
+                              </TABLE></TD>
+                          </TR>
+                        </TBODY>
+                      </TABLE></TD>
+                  </TR>
+                  <TR>
+                    <TD><IMG height=40 src="images/bodybg_bot.jpg" tppabs="/images/bodybg_bot.jpg"                width=686></TD>
+                  </TR>
+                </TBODY>
+              </TABLE></td>
+          </tr>
+        </table>
+        <br>
+        <br></TD>
+    </TR>
+  </TBODY>
+</TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width=1002 align=center border=0>
+  <TBODY>
+    <TR>
+      <TD><IMG height=138 src="images/bot.jpg" tppabs="/images/bot.jpg"  width=1002>
+        <center>
+        </center></TD>
+    </TR>
+  </TBODY>
+</TABLE>
+
+</BODY>
+</HTML>

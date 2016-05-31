@@ -1,0 +1,39 @@
+<html>
+
+<head>
+<meta HTTP-EQUIV="Content-Type" Content="text/html; charset=ks_c_5601-1987">
+
+
+<title ID=titletext>준비 중</title>
+</head>
+
+<body bgcolor=white>
+<table>
+<tr>
+<td ID=tableProps width=70 valign=top align=center>
+<img ID=pagerrorImg src="pagerror.gif" width=36 height=48>
+<td ID=tablePropsWidth width=400>
+
+<h1 ID=errortype style="font:14pt/16pt 굴림; color:#4e4e4e">
+<P ID=Comment1><!--Problem--><P ID="errorText">준비 중</h1>
+
+<P ID=Comment2><!--Probable causes:<--><P ID="errordesc"><font style="font:9pt/12pt 굴림; color:black">
+보려는 사이트에 현재 기본 페이지가 없습니다. 업그레이드 중이거나 구성 중일 수도 있습니다.
+<P ID=term1>나중에 다시 시도하십시오. 계속 문제가 발생하면 웹 사이트 관리자에게 문의하십시오.
+
+<hr size=1 color="blue">
+
+<P ID=message1>사용자가 웹 사이트 관리자이고 이 메시지가 잘못 보고된 것으로 생각되면 IIS 도움말의 '동적 콘텐트 사용 설정 및 해제'를 참조하십시오.
+
+<h5 ID=head1>IIS 도움말을 보려면</h5>
+<ol>
+<li ID=bullet1><b>시작</b>을 클릭한 후 <b>실행</b>을 클릭하십시오.
+<li ID=bullet2><b>열기</b> 텍스트 상자에 <b>inetmgr</b>라고 입력하십시오. IIS 관리자가 표시됩니다.
+<li ID=bullet3><b>도움말</b> 메뉴에서 <b>도움말 항목</b>을 클릭하십시오.
+<li ID=bullet4><b>인터넷 정보 서비스</b>를 클릭하십시오.</ol>
+</td>
+</tr>
+</table>
+
+</body>
+</html>

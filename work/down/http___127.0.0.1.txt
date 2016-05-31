@@ -1,0 +1,14 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>◈iSports Toto◈ 스포츠배팅에서 가장영향력있는 공간,언제나 인연을 소중하게 기억하는 아이 스프츠토토에 오신걸 환영합니다.</title>
+	<meta http-equiv="content-type" content="text/html; charset=euc-kr" />
+   <meta http-equiv="imagetoolbar" content="no" />
+   <link rel="shortcut icon" href="favicon.ico" />
+</head>
+
+<frameset rows='0,*' border="0" framespacing="0" frameborder="0">
+	<frame name="blank" src="#" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" scrolling="no" frameborder="no" noresize>
+	<frame name="main" src="_main_home/gotoPage.asp" marginwidth="0" marginheight="0" scrolling="auto" frameborder="no">
+</frameset>
+
+</html>

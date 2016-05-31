@@ -1,0 +1,1403 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="lt.files/filelist.xml">
+<link rel=Edit-Time-Data href="lt.files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>雷霆魔兽</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>system</o:Author>
+  <o:LastAuthor>system</o:LastAuthor>
+  <o:Revision>14</o:Revision>
+  <o:TotalTime>36</o:TotalTime>
+  <o:Created>2008-05-13T14:22:00Z</o:Created>
+  <o:LastSaved>2008-06-13T12:56:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>339</o:Words>
+  <o:Characters>1933</o:Characters>
+  <o:Company>GHOST</o:Company>
+  <o:Lines>16</o:Lines>
+  <o:Paragraphs>4</o:Paragraphs>
+  <o:CharactersWithSpaces>2268</o:CharactersWithSpaces>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--body
+	{BACKGROUND-IMAGE:  BACKGROUND-REPEAT: repeat-x;}
+A:hover {
+	FONT-WEIGHT: bold; COLOR: white
+}
+.LEFTBG
+	{BACKGROUND-IMAGE: url('');}
+
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:SimSun;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+@font-face
+	{font-family:Dotum;
+	panose-1:2 11 6 0 0 1 1 1 1 1;
+	mso-font-alt:\B3CB\C6C0;
+	mso-font-charset:129;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1342176593 1775729915 48 0 524447 0;}
+@font-face
+	{font-family:黑体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:SimHei;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:Gulim;
+	panose-1:2 11 6 0 0 1 1 1 1 1;
+	mso-font-alt:\AD74\B9BC;
+	mso-font-charset:129;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1342176593 1775729915 48 0 524447 0;}
+@font-face
+	{font-family:华文行楷;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:宋体;
+	mso-font-charset:134;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:auto;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+@font-face
+	{font-family:"\@黑体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"\@华文行楷";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:134;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:auto;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:楷体_GB2312;
+	panose-1:2 1 6 9 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"\@楷体_GB2312";
+	panose-1:2 1 6 9 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"\@Gulim";
+	panose-1:2 11 6 0 0 1 1 1 1 1;
+	mso-font-charset:129;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1342176593 1775729915 48 0 524447 0;}
+@font-face
+	{font-family:"\@Dotum";
+	panose-1:2 11 6 0 0 1 1 1 1 1;
+	mso-font-charset:129;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1342176593 1775729915 48 0 524447 0;}
+@font-face
+	{font-family:隶书;
+	panose-1:2 1 5 9 6 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"\@隶书";
+	panose-1:2 1 5 9 6 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:宋体;
+	mso-bidi-font-family:宋体;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	tab-stops:center 207.65pt right 415.3pt;
+	layout-grid-mode:char;
+	border:none;
+	mso-border-bottom-alt:solid windowtext .75pt;
+	padding:0cm;
+	mso-padding-alt:0cm 0cm 1.0pt 0cm;
+	font-size:9.0pt;
+	font-family:宋体;
+	mso-bidi-font-family:宋体;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 207.65pt right 415.3pt;
+	layout-grid-mode:char;
+	font-size:9.0pt;
+	font-family:宋体;
+	mso-bidi-font-family:宋体;}
+a:link, span.MsoHyperlink
+	{color:#FFB019;
+	font-weight:bold;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#FFB019;
+	font-weight:bold;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:宋体;
+	mso-bidi-font-family:宋体;}
+p.war3main, li.war3main, div.war3main
+	{mso-style-name:war3_main;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:宋体;
+	mso-bidi-font-family:宋体;
+	color:#E3C589;}
+p.leftbg, li.leftbg, div.leftbg
+	{mso-style-name:leftbg;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:宋体;
+	mso-bidi-font-family:宋体;}
+p.updatetime, li.updatetime, div.updatetime
+	{mso-style-name:update_time;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:宋体;
+	mso-bidi-font-family:宋体;
+	color:#BD9550;}
+p.style1, li.style1, div.style1
+	{mso-style-name:style1;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:10.5pt;
+	font-family:宋体;
+	mso-bidi-font-family:宋体;
+	color:#66FF00;}
+p.headline, li.headline, div.headline
+	{mso-style-name:headline;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:10.5pt;
+	font-family:宋体;
+	mso-bidi-font-family:宋体;
+	color:yellow;
+	font-weight:bold;}
+p.war3nav, li.war3nav, div.war3nav
+	{mso-style-name:war3_nav;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:宋体;
+	mso-bidi-font-family:宋体;
+	color:#E1C08A;}
+p.style3, li.style3, div.style3
+	{mso-style-name:style3;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:10.5pt;
+	font-family:宋体;
+	mso-bidi-font-family:宋体;}
+span.white
+	{mso-style-name:white;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	font-family:Arial;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	color:white;}
+span.grey
+	{mso-style-name:grey;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	font-family:Arial;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	color:#A0A1A3;}
+span.lite
+	{mso-style-name:lite;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	font-family:Arial;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	color:#F0E7BE;}
+span.red
+	{mso-style-name:red;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	font-family:Arial;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	color:red;}
+span.blue
+	{mso-style-name:blue;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Arial;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	color:#00C0FF;}
+span.mvp
+	{mso-style-name:mvp;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Arial;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	color:#A7BFD8;}
+span.style31
+	{mso-style-name:style31;
+	mso-ansi-font-size:10.5pt;
+	mso-bidi-font-size:10.5pt;
+	font-family:Arial;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	color:#CCCCCC;}
+span.sfontwar3main
+	{mso-style-name:"sfont war3_main";
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	font-family:Arial;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	color:#CCCCCC;}
+span.style11
+	{mso-style-name:style11;
+	mso-ansi-font-size:10.5pt;
+	mso-bidi-font-size:10.5pt;
+	font-family:Arial;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	color:#66FF00;}
+ /* Page Definitions */
+ @page
+	{mso-footnote-separator:url("lt.files/header.html") fs;
+	mso-footnote-continuation-separator:url("lt.files/header.html") fcs;
+	mso-endnote-separator:url("lt.files/header.html") es;
+	mso-endnote-continuation-separator:url("lt.files/header.html") ecs;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	mso-even-header:url("lt.files/header.html") eh1;
+	mso-header:url("lt.files/header.html") h1;
+	mso-even-footer:url("lt.files/header.html") ef1;
+	mso-footer:url("lt.files/header.html") f1;
+	mso-first-header:url("lt.files/header.html") fh1;
+	mso-first-footer:url("lt.files/header.html") ff1;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:1753695169;
+	mso-list-template-ids:-1427710834;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1
+	{mso-list-id:1922711359;
+	mso-list-template-ids:98993452;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level2
+	{mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level3
+	{mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level4
+	{mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level5
+	{mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level6
+	{mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level7
+	{mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level8
+	{mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level9
+	{mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:普通表格;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.MsoTableColorful1
+	{mso-style-name:"彩色型 1";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	border:solid teal 1.5pt;
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-border-insideh:.75pt solid aqua;
+	mso-tstyle-shading:white;
+	mso-tstyle-pattern:solid teal;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:white;
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.MsoTableColorful1FirstRow
+	{mso-style-name:"彩色型 1";
+	mso-table-condition:first-row;
+	mso-tstyle-shading:white;
+	mso-tstyle-pattern:solid black;
+	mso-tstyle-diagonal-down:0cm none windowtext;
+	mso-tstyle-diagonal-up:0cm none windowtext;
+	mso-ansi-font-weight:bold;
+	mso-bidi-font-weight:bold;
+	mso-ansi-font-style:italic;
+	mso-bidi-font-style:italic;}
+table.MsoTableColorful1FirstCol
+	{mso-style-name:"彩色型 1";
+	mso-table-condition:first-column;
+	mso-tstyle-shading:white;
+	mso-tstyle-pattern:solid navy;
+	mso-tstyle-diagonal-down:0cm none windowtext;
+	mso-tstyle-diagonal-up:0cm none windowtext;
+	mso-ansi-font-weight:bold;
+	mso-bidi-font-weight:bold;
+	mso-ansi-font-style:italic;
+	mso-bidi-font-style:italic;}
+table.MsoTableColorful1NWCell
+	{mso-style-name:"彩色型 1";
+	mso-table-condition:nw-cell;
+	mso-tstyle-shading:white;
+	mso-tstyle-pattern:solid black;
+	mso-tstyle-diagonal-down:0cm none windowtext;
+	mso-tstyle-diagonal-up:0cm none windowtext;}
+table.MsoTableColorful1SWCell
+	{mso-style-name:"彩色型 1";
+	mso-table-condition:sw-cell;
+	mso-tstyle-diagonal-down:0cm none windowtext;
+	mso-tstyle-diagonal-up:0cm none windowtext;
+	mso-ansi-font-weight:bold;
+	mso-bidi-font-weight:bold;
+	mso-ansi-font-style:normal;
+	mso-bidi-font-style:normal;}
+table.MsoTable3DFx2
+	{mso-style-name:"立体型 2";
+	mso-tstyle-rowband-size:1;
+	mso-tstyle-colband-size:0;
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-tstyle-shading:white;
+	mso-tstyle-pattern:solid silver;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.MsoTable3DFx2FirstRow
+	{mso-style-name:"立体型 2";
+	mso-table-condition:first-row;
+	mso-tstyle-diagonal-down:0cm none windowtext;
+	mso-tstyle-diagonal-up:0cm none windowtext;
+	mso-ansi-font-weight:bold;
+	mso-bidi-font-weight:bold;}
+table.MsoTable3DFx2FirstCol
+	{mso-style-name:"立体型 2";
+	mso-table-condition:first-column;
+	mso-tstyle-border-top:0cm none windowtext;
+	mso-tstyle-border-bottom:0cm none windowtext;
+	mso-tstyle-border-right:.75pt solid gray;
+	mso-tstyle-diagonal-down:0cm none windowtext;
+	mso-tstyle-diagonal-up:0cm none windowtext;}
+table.MsoTable3DFx2LastCol
+	{mso-style-name:"立体型 2";
+	mso-table-condition:last-column;
+	mso-tstyle-border-right:.75pt solid white;
+	mso-tstyle-diagonal-down:0cm none windowtext;
+	mso-tstyle-diagonal-up:0cm none windowtext;}
+table.MsoTable3DFx2OddRow
+	{mso-style-name:"立体型 2";
+	mso-table-condition:odd-row;
+	mso-tstyle-border-top:.75pt solid gray;
+	mso-tstyle-border-bottom:.75pt solid white;
+	mso-tstyle-diagonal-down:0cm none windowtext;
+	mso-tstyle-diagonal-up:0cm none windowtext;}
+table.MsoTable3DFx2SWCell
+	{mso-style-name:"立体型 2";
+	mso-table-condition:sw-cell;
+	mso-tstyle-diagonal-down:0cm none windowtext;
+	mso-tstyle-diagonal-up:0cm none windowtext;
+	mso-ansi-font-weight:bold;
+	mso-bidi-font-weight:bold;}
+</style>
+<![endif]-->
+<meta http-equiv=Content-Language content=zh-cn>
+
+<script language="JavaScript">
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+</script>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="9218">
+  <o:colormru v:ext="edit" colors="#7d1d7f"/>
+  <o:colormenu v:ext="edit" fillcolor="black"/>
+ </o:shapedefaults></xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body bgcolor=white background="lt.files/image001.jpg" lang=ZH-CN link="#FFB019"
+vlink="#FFB019" style='tab-interval:21.0pt' alink="#000000">
+<!--[if gte mso 9]><xml>
+ <v:background id="_x0000_s1025" o:bwmode="white" o:targetscreensize="800,600">
+  <v:fill src="lt.files/image001.jpg" o:title="3" recolor="t" type="frame"/>
+ </v:background></xml><![endif]-->
+
+<div class=Section1>
+
+<div style='position:absolute;top:0px'>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;mso-padding-alt:0cm 0cm 0cm 0cm'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td colspan=3 style='padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:9.0pt'><img width=1
+  height=8 id="_x0000_i1025" src="%20"><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
+  <td style='padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:9.0pt'><img width=240
+  height=1 id="_x0000_i1026" src="%20"><o:p></o:p></span></p>
+  </td>
+  <td style='padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:9.0pt'><img width=247
+  height=1 id="_x0000_i1027" src="%20"><o:p></o:p></span></p>
+  </td>
+  <td style='padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;background:#3F403F;mso-padding-alt:
+ 0cm 0cm 0cm 0cm'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td style='padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:9.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+style='font-size:9.0pt;display:none;mso-hide:all'><o:p>&nbsp;</o:p></span></p>
+
+<div align=center>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;mso-padding-alt:0cm 0cm 0cm 0cm'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td style='padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+  style='font-size:13.5pt;color:#FFB019'><a
+  href="http://61.191.53.200:81/index1.php"><b><span lang=EN-US
+  style='font-family:黑体'><span lang=EN-US>注册地址</span></span></b></a></span><b><span
+  style='font-size:13.5pt;font-family:黑体;color:#FFB019'>‖</span></b><span
+  lang=EN-US style='font-size:13.5pt;font-family:黑体;mso-hansi-font-family:Arial;
+  mso-bidi-font-family:Arial;color:#FFB019'><a
+  href="http://61.191.53.200:81/index1.php" target="_blank"><b><span
+  lang=EN-US><span lang=EN-US>帐号管理以及非会员转会员功能</span></span></b></a></span><span
+  lang=EN-US style='font-size:13.5pt;color:#FFB019'><a
+  href="" target="_blank"></a></span><b><span
+  lang=EN-US style='font-size:13.5pt;font-family:Arial;mso-fareast-font-family:
+  黑体;color:#E2D9B0'> ‖</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=EN-US style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:
+  Gulim;mso-fareast-font-family:Dotum;color:#66FF00'><a
+  href="http://61.191.53.200:81/hc5.html"><span lang=EN-US style='font-family:
+  Dotum;mso-ascii-font-family:Gulim;mso-hansi-font-family:Gulim;font-weight:
+  normal;mso-bidi-font-weight:bold'><span lang=EN-US>登</span></span><span
+  lang=EN-US style='font-family:隶书;mso-ascii-font-family:Gulim;mso-hansi-font-family:
+  宋体;font-weight:normal;mso-bidi-font-weight:bold'><span lang=EN-US>陆</span></span><span
+  lang=EN-US style='font-family:Dotum;mso-ascii-font-family:Gulim;mso-hansi-font-family:
+  Gulim;font-weight:normal;mso-bidi-font-weight:bold'><span lang=EN-US>器下</span></span><span
+  lang=EN-US style='font-family:隶书;mso-ascii-font-family:Gulim;mso-hansi-font-family:
+  宋体;font-weight:normal;mso-bidi-font-weight:bold'><span lang=EN-US>载</span></span></a></span></b><b><span
+  style='font-size:13.5pt;font-family:黑体;color:#FFB019'>‖</span></b><span
+  class=style31><span lang=EN-US style='font-size:13.5pt;font-family:宋体'><a
+  href="http://70ms.5d6d.com/"><b><span lang=EN-US><span lang=EN-US>游戏论坛</span></span></b></a></span></span><span
+  class=style31><span lang=EN-US style='font-size:10.5pt'>‖</span></span><span
+  class=style31><span lang=EN-US style='font-size:13.5pt;font-family:宋体'> <a
+  href="http://61.191.53.200:81/hy3.html"><b><span lang=EN-US><span lang=EN-US>会员装备</span></span></b></a></span></span><span
+  class=style31><span lang=EN-US style='font-size:10.5pt'>‖</span></span><span
+  lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+style='font-size:9.0pt;display:none;mso-hide:all'><o:p>&nbsp;</o:p></span></p>
+
+<div align=center>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='mso-cellspacing:0cm;mso-table-layout-alt:fixed;mso-padding-alt:0cm 0cm 0cm 0cm;
+ background-image:BACKGROUND-REPEAT: repeat-x;background-position-x:50%;
+ background-position-y:0%'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width=700 valign=top style='width:525.0pt;padding:0cm 0cm 0cm 0cm'><!---features--->
+  <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+   style='mso-cellspacing:0cm;mso-table-layout-alt:fixed;mso-padding-alt:0cm 0cm 0cm 0cm;
+   background-image:BACKGROUND-REPEAT: repeat-y;background-position-x:0%;
+   background-position-y:0%'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+    <td width=700 style='width:525.0pt;padding:0cm 0cm 0cm 0cm'>
+    <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+     style='mso-cellspacing:0cm;mso-table-layout-alt:fixed;mso-padding-alt:
+     0cm 0cm 0cm 0cm;background-image:BACKGROUND-REPEAT: repeat-y;background-position-x:100%;
+     background-position-y:0%'>
+     <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+      <td width=700 style='width:525.0pt;padding:0cm 0cm 0cm 0cm'>
+      <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+       style='mso-cellspacing:0cm;mso-table-layout-alt:fixed;mso-padding-alt:
+       0cm 0cm 0cm 0cm;background-image:BACKGROUND-REPEAT: repeat-x;background-position-x:
+       50%;
+       background-position-y:0%'>
+       <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+        <td width=700 style='width:525.0pt;padding:0cm 0cm 0cm 0cm'>
+        <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+         style='mso-cellspacing:0cm;mso-table-layout-alt:fixed;mso-padding-alt:
+         0cm 0cm 0cm 0cm;background-image:BACKGROUND-REPEAT: repeat-x;
+         background-position-x:50%;background-position-y:100%'>
+         <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:
+          yes'>
+          <td width=700 style='width:525.0pt;padding:0cm 0cm 0cm 0cm'>
+          <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+           style='mso-cellspacing:0cm;mso-table-layout-alt:fixed;mso-padding-alt:
+           0cm 0cm 0cm 0cm;background-image:BACKGROUND-REPEAT: no-repeat;
+           background-position-x:0%;background-position-y:0%'>
+           <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:
+            yes'>
+            <td width=700 style='width:525.0pt;padding:0cm 0cm 0cm 0cm'>
+            <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+             style='mso-cellspacing:0cm;mso-table-layout-alt:fixed;mso-padding-alt:
+             0cm 0cm 0cm 0cm;background-image:BACKGROUND-REPEAT: no-repeat;
+             background-position-x:100%;background-position-y:0%'>
+             <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:
+              yes'>
+              <td width=700 style='width:525.0pt;padding:0cm 0cm 0cm 0cm'>
+              <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+               style='mso-cellspacing:0cm;mso-table-layout-alt:fixed;
+               mso-padding-alt:0cm 0cm 0cm 0cm;background-image:BACKGROUND-REPEAT: no-repeat;
+               background-position-x:0%;background-position-y:100%'>
+               <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:
+                yes'>
+                <td width=700 style='width:525.0pt;padding:0cm 0cm 0cm 0cm'>
+                <table class=MsoNormalTable border=0 cellspacing=0
+                 cellpadding=0 style='mso-cellspacing:0cm;mso-table-layout-alt:
+                 fixed;mso-padding-alt:0cm 0cm 0cm 0cm;background-image:BACKGROUND-REPEAT: no-repeat;
+                 background-position-x:100%;background-position-y:100%'>
+                 <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:
+                  yes'>
+                  <td width=700 style='width:525.0pt;padding:0cm 0cm 0cm 0cm'>
+                  <table class=MsoNormalTable border=0 cellspacing=0
+                   cellpadding=0 style='mso-cellspacing:0cm;mso-table-layout-alt:
+                   fixed;mso-padding-alt:0cm 0cm 0cm 0cm'>
+                   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:
+                    yes'>
+                    <td width=700 valign=top style='width:525.0pt;padding:0cm 0cm 0cm 0cm'>
+                    <table class=MsoNormalTable border=0 cellpadding=0
+                     style='mso-cellspacing:1.5pt;mso-table-layout-alt:fixed;
+                     mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
+                     <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+                      <td width=696 style='width:522.0pt;padding:.75pt .75pt .75pt .75pt'>
+                      <p><b><span style='font-size:9.0pt;mso-ascii-font-family:
+                      Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+                      Arial;color:#E2D9B0'>欢迎光临魔兽官方网站！</span></b><span
+                      style='font-size:9.0pt;font-family:Arial;color:#CCCCCC'> </span><span
+                      style='font-size:9.0pt;mso-ascii-font-family:Arial;
+                      mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;
+                      color:#CCCCCC'>警告！</span><span lang=EN-US
+                      style='font-size:9.0pt;font-family:Arial;color:#CCCCCC'>GM</span><span
+                      style='font-size:9.0pt;mso-ascii-font-family:Arial;
+                      mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;
+                      color:#CCCCCC'>不参与游戏</span><span lang=EN-US
+                      style='font-size:9.0pt;font-family:Arial;color:#CCCCCC'>,</span><span
+                      style='font-size:9.0pt;mso-ascii-font-family:Arial;
+                      mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;
+                      color:#CCCCCC'>游戏中自称</span><span lang=EN-US
+                      style='font-size:9.0pt;font-family:Arial;color:#CCCCCC'>GM</span><span
+                      style='font-size:9.0pt;mso-ascii-font-family:Arial;
+                      mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;
+                      color:#CCCCCC'>的请不要相信</span><span lang=EN-US
+                      style='font-size:9.0pt;font-family:Arial;color:#CCCCCC'>,</span><span
+                      style='font-size:9.0pt;mso-ascii-font-family:Arial;
+                      mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;
+                      color:#CCCCCC'>老玩家乱杀新人的直接封号</span><span lang=EN-US
+                      style='font-size:9.0pt;font-family:Arial;color:#CCCCCC'>3</span><span
+                      style='font-size:9.0pt;mso-ascii-font-family:Arial;
+                      mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;
+                      color:#CCCCCC'>天</span><span lang=EN-US style='font-size:
+                      9.0pt;font-family:Arial;color:#CCCCCC'>.</span><span
+                      style='font-size:9.0pt;mso-ascii-font-family:Arial;
+                      mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;
+                      color:#CCCCCC'>雷霆</span><span lang=EN-US
+                      style='font-size:9.0pt;font-family:Arial;color:#CCCCCC'>QQ1</span><span
+                      style='font-size:9.0pt;mso-ascii-font-family:Arial;
+                      mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;
+                      color:#CCCCCC'>群：</span><span lang=EN-US
+                      style='font-size:9.0pt;font-family:Arial;color:#CCCCCC'>9481463
+                      </span><span style='font-size:9.0pt;mso-ascii-font-family:
+                      Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+                      Arial;color:#CCCCCC'>雷霆</span><span lang=EN-US
+                      style='font-size:9.0pt;font-family:Arial;color:#CCCCCC'>QQ2</span><span
+                      style='font-size:9.0pt;mso-ascii-font-family:Arial;
+                      mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;
+                      color:#CCCCCC'>群：</span><span lang=EN-US
+                      style='font-size:9.0pt;font-family:Arial;color:#CCCCCC'>4868739
+                      </span><span style='font-size:9.0pt;mso-ascii-font-family:
+                      Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+                      Arial;color:#CCCCCC'>雷霆</span><span lang=EN-US
+                      style='font-size:9.0pt;font-family:Arial;color:#CCCCCC'>QQ3</span><span
+                      style='font-size:9.0pt;mso-ascii-font-family:Arial;
+                      mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;
+                      color:#CCCCCC'>群：</span><span lang=EN-US
+                      style='font-size:9.0pt;font-family:Arial;color:#CCCCCC'>4933567
+                      </span><span style='font-size:9.0pt;mso-ascii-font-family:
+                      Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+                      Arial;color:#CCCCCC'>雷霆</span><span lang=EN-US
+                      style='font-size:9.0pt;font-family:Arial;color:#CCCCCC'>QQ4</span><span
+                      style='font-size:9.0pt;mso-ascii-font-family:Arial;
+                      mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;
+                      color:#CCCCCC'>群：</span><span lang=EN-US
+                      style='font-size:9.0pt;font-family:Arial;color:#CCCCCC'>4772840
+                      </span><span style='font-size:9.0pt;mso-ascii-font-family:
+                      Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+                      Arial;color:#CCCCCC'>雷霆</span><span lang=EN-US
+                      style='font-size:9.0pt;font-family:Arial;color:#CCCCCC'>QQ5</span><span
+                      style='font-size:9.0pt;mso-ascii-font-family:Arial;
+                      mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;
+                      color:#CCCCCC'>群：</span><span lang=EN-US
+                      style='font-size:9.0pt;font-family:Arial;color:#CCCCCC'>10788338
+                      </span><span style='font-size:9.0pt;mso-ascii-font-family:
+                      Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+                      Arial;color:#CCCCCC'>雷霆</span><span lang=EN-US
+                      style='font-size:9.0pt;font-family:Arial;color:#CCCCCC'>QQ6</span><span
+                      style='font-size:9.0pt;mso-ascii-font-family:Arial;
+                      mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;
+                      color:#CCCCCC'>群：</span><span lang=EN-US
+                      style='font-size:9.0pt;font-family:Arial;color:#CCCCCC'>2892418
+                      <o:p></o:p></span></p>
+                      <p><span lang=EN-US style='font-size:9.0pt;font-family:
+                      Arial;color:#CCCCCC'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+                      lang=EN-US style='font-size:24.0pt;font-family:Arial;
+                      color:#FFB019'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+                      lang=EN-US style='font-size:36.0pt;font-family:Arial;
+                      color:#FFB019'>&nbsp;&nbsp; </span><span lang=EN-US
+                      style='font-size:36.0pt;font-family:Arial;color:fuchsia'>&nbsp;</span><b><span
+                      lang=EN-US style='font-size:36.0pt;font-family:Arial;
+                      mso-ascii-font-family:黑体;mso-fareast-font-family:黑体;
+                      color:fuchsia'>&nbsp;</span></b><b><span
+                      style='font-size:36.0pt;font-family:华文行楷;mso-hansi-font-family:
+                      Arial;mso-bidi-font-family:Arial;color:fuchsia'>雷 霆 魔 兽</span></b><span
+                      lang=EN-US style='font-size:36.0pt;font-family:Arial;
+                      mso-ascii-font-family:华文行楷;mso-fareast-font-family:华文行楷;
+                      color:fuchsia'>&nbsp;</span><span lang=EN-US
+                      style='font-size:9.0pt;font-family:Arial;color:#CCCCCC'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                      </span><span lang=EN-US style='font-size:36.0pt;
+                      font-family:华文行楷;mso-hansi-font-family:Arial;mso-bidi-font-family:
+                      Arial;color:fuchsia'><o:p></o:p></span></p>
+                      <ul type=disc>
+                       <li class=MsoNormal style='color:yellow;mso-margin-top-alt:
+                           auto;mso-margin-bottom-alt:auto;mso-list:l1 level1 lfo3;
+                           tab-stops:list 36.0pt'><b style='mso-bidi-font-weight:
+                           normal'><span style='mso-bidi-font-size:9.0pt;
+                           mso-ascii-font-family:Arial;mso-hansi-font-family:
+                           Arial;mso-bidi-font-family:Arial'>出生送</span></b><b
+                           style='mso-bidi-font-weight:normal'><span
+                           lang=EN-US style='mso-bidi-font-size:9.0pt;
+                           font-family:Arial'>2把1W攻击的</span></b><b style='mso-bidi-font-weight:
+                           normal'><span style='mso-bidi-font-size:9.0pt;
+                           mso-ascii-font-family:Arial;mso-hansi-font-family:
+                           Arial;mso-bidi-font-family:Arial'>霜之哀伤</span></b><b
+                           style='mso-bidi-font-weight:normal'><span
+                           style='mso-bidi-font-size:9.0pt;font-family:Arial'> </span></b><b
+                           style='mso-bidi-font-weight:normal'><span
+                           style='mso-bidi-font-size:9.0pt;mso-ascii-font-family:
+                           Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+                           Arial'>非会员可以转会员</span></b><b style='mso-bidi-font-weight:
+                           normal'><span lang=EN-US style='mso-bidi-font-size:
+                           9.0pt;font-family:Arial'>,</span></b><b
+                           style='mso-bidi-font-weight:normal'><span
+                           style='mso-bidi-font-size:9.0pt;mso-ascii-font-family:
+                           Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+                           Arial'>出生</span></b><b style='mso-bidi-font-weight:
+                           normal'><span lang=EN-US style='mso-bidi-font-size:
+                           9.0pt;font-family:Arial'>70</span></b><b
+                           style='mso-bidi-font-weight:normal'><span
+                           style='mso-bidi-font-size:9.0pt;mso-ascii-font-family:
+                           Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+                           Arial'>级</span></b><b style='mso-bidi-font-weight:
+                           normal'><span lang=EN-US style='mso-bidi-font-size:
+                           9.0pt;font-family:Arial'>,</span></b><b
+                           style='mso-bidi-font-weight:normal'><span
+                           style='mso-bidi-font-size:9.0pt;mso-ascii-font-family:
+                           Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+                           Arial'>送</span></b><b style='mso-bidi-font-weight:
+                           normal'><span lang=EN-US style='mso-bidi-font-size:
+                           9.0pt;font-family:Arial'>300</span></b><b
+                           style='mso-bidi-font-weight:normal'><span
+                           style='mso-bidi-font-size:9.0pt;mso-ascii-font-family:
+                           Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+                           Arial'>点天赋</span></b><b style='mso-bidi-font-weight:
+                           normal'><span lang=EN-US style='mso-bidi-font-size:
+                           9.0pt;font-family:Arial'>,1000B</span></b><b
+                           style='mso-bidi-font-weight:normal'><span
+                           style='mso-bidi-font-size:9.0pt;mso-ascii-font-family:
+                           Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+                           Arial'>经验</span></b><b style='mso-bidi-font-weight:
+                           normal'><span lang=EN-US style='mso-bidi-font-size:
+                           9.0pt;font-family:Arial'>,</span></b><b
+                           style='mso-bidi-font-weight:normal'><span
+                           style='mso-bidi-font-size:9.0pt;mso-ascii-font-family:
+                           Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+                           Arial'>新人任务做完送</span></b><b style='mso-bidi-font-weight:
+                           normal'><span lang=EN-US style='mso-bidi-font-size:
+                           9.0pt;font-family:Arial'>加强版的T7</span></b><b
+                           style='mso-bidi-font-weight:normal'><span
+                           style='mso-bidi-font-size:9.0pt;mso-ascii-font-family:
+                           Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+                           Arial'>套装</span></b><b style='mso-bidi-font-weight:
+                           normal'><span lang=EN-US style='mso-bidi-font-size:
+                           9.0pt;font-family:Arial'>,</span></b><b
+                           style='mso-bidi-font-weight:normal'><span
+                           style='mso-bidi-font-size:9.0pt;mso-ascii-font-family:
+                           Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+                           Arial'>冰龙</span></b><b style='mso-bidi-font-weight:
+                           normal'><span lang=EN-US style='mso-bidi-font-size:
+                           9.0pt;font-family:Arial'>,</span></b><b
+                           style='mso-bidi-font-weight:normal'><span
+                           style='mso-bidi-font-size:9.0pt;mso-ascii-font-family:
+                           Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+                           Arial'>摩托车</span></b><b style='mso-bidi-font-weight:
+                           normal'><span lang=EN-US style='mso-bidi-font-size:
+                           9.0pt;font-family:Arial'>,</span></b><b
+                           style='mso-bidi-font-weight:normal'><span
+                           style='mso-bidi-font-size:9.0pt;mso-ascii-font-family:
+                           Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+                           Arial'>战斗飞机</span></b><b style='mso-bidi-font-weight:
+                           normal'><span lang=EN-US style='mso-bidi-font-size:
+                           9.0pt;font-family:Arial'>,</span></b><b
+                           style='mso-bidi-font-weight:normal'><span
+                           style='mso-bidi-font-size:9.0pt;mso-ascii-font-family:
+                           Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+                           Arial'>飞毯坐骑可以在内域</span></b><b style='mso-bidi-font-weight:
+                           normal'><span lang=EN-US style='mso-bidi-font-size:
+                           9.0pt;font-family:Arial'>,</span></b><b
+                           style='mso-bidi-font-weight:normal'><span
+                           style='mso-bidi-font-size:9.0pt;mso-ascii-font-family:
+                           Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+                           Arial'>外域飞</span></b><b style='mso-bidi-font-weight:
+                           normal'><span lang=EN-US style='mso-bidi-font-size:
+                           9.0pt;font-family:Arial'> ,</span></b><b
+                           style='mso-bidi-font-weight:normal'><span
+                           style='mso-bidi-font-size:9.0pt;mso-ascii-font-family:
+                           Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+                           Arial'>出售</span></b><b style='mso-bidi-font-weight:
+                           normal'><span lang=EN-US style='mso-bidi-font-size:
+                           9.0pt;font-family:Arial'>28</span></b><b
+                           style='mso-bidi-font-weight:normal'><span
+                           style='mso-bidi-font-size:9.0pt;mso-ascii-font-family:
+                           Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+                           Arial'>格包</span></b><b style='mso-bidi-font-weight:
+                           normal'><span lang=EN-US style='mso-bidi-font-size:
+                           9.0pt;font-family:Arial'>,</span></b><b
+                           style='mso-bidi-font-weight:normal'><span
+                           style='mso-bidi-font-size:9.0pt;mso-ascii-font-family:
+                           Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+                           Arial'>超级回血药剂</span></b><b style='mso-bidi-font-weight:
+                           normal'><span lang=EN-US style='mso-bidi-font-size:
+                           9.0pt;font-family:Arial'>,1W</span></b><b
+                           style='mso-bidi-font-weight:normal'><span
+                           style='mso-bidi-font-size:9.0pt;mso-ascii-font-family:
+                           Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+                           Arial'>攻击武器</span></b><b style='mso-bidi-font-weight:
+                           normal'><span lang=EN-US style='mso-bidi-font-size:
+                           9.0pt;font-family:Arial'>,</span></b><b
+                           style='mso-bidi-font-weight:normal'><span
+                           style='mso-bidi-font-size:9.0pt;mso-ascii-font-family:
+                           Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+                           Arial'>商店出售瞬间回满血的药剂,如果游戏中总是弹出错误 请点ESC键--界面选项--帮助--把显示LUA错误的勾去掉</span></b><b style='mso-bidi-font-weight:
+                           normal'><span style='font-size:9.0pt;font-family:
+                           Arial'> </span></b><b style='mso-bidi-font-weight:
+                           normal'><span lang=EN-US style='mso-bidi-font-size:
+                           9.0pt;font-family:Arial'><o:p></o:p></span></b></li>
+                       <li class=MsoNormal style='color:#CCCCCC;mso-margin-top-alt:
+                           auto;mso-margin-bottom-alt:auto;mso-list:l1 level1 lfo3;
+                           tab-stops:list 36.0pt'><span style='font-size:9.0pt;
+                           mso-ascii-font-family:Arial;mso-hansi-font-family:
+                           Arial;mso-bidi-font-family:Arial'>客户端版本</span><span
+                           style='font-size:9.0pt;font-family:Arial'> </span><span
+                           style='font-size:9.0pt;mso-ascii-font-family:Arial;
+                           mso-hansi-font-family:Arial;mso-bidi-font-family:
+                           Arial'>：</span><span lang=EN-US style='font-size:
+                           9.0pt;font-family:Arial'>...[</span><b
+                           style='mso-bidi-font-weight:normal'><span
+                           lang=EN-US style='font-size:9.0pt;font-family:Arial;
+                           color:lime'>3.03--3.05</span></b><span lang=EN-US
+                           style='font-size:9.0pt;font-family:Arial'>]... <o:p></o:p></span></li>
+                       <li class=MsoNormal style='color:#CCCCCC;mso-margin-top-alt:
+                           auto;mso-margin-bottom-alt:auto;mso-list:l1 level1 lfo3;
+                           tab-stops:list 36.0pt'><span style='font-size:9.0pt;
+                           mso-ascii-font-family:Arial;mso-hansi-font-family:
+                           Arial;mso-bidi-font-family:Arial'>天赋倍率</span><span
+                           style='font-size:9.0pt;font-family:Arial'> </span><span
+                           style='font-size:9.0pt;mso-ascii-font-family:Arial;
+                           mso-hansi-font-family:Arial;mso-bidi-font-family:
+                           Arial'>：</span><span lang=EN-US style='font-size:
+                           9.0pt;font-family:Arial'>...[ </span><span
+                           style='font-family:黑体;mso-hansi-font-family:Arial;
+                           mso-bidi-font-family:Arial;color:red'>传送宝石-游戏功能里面,可以免费得到无限天赋点<span
+                           lang=EN-US></span><span lang=EN-US>,</span>如果想恢复官方登陆<span
+                           lang=EN-US>,</span>请点击<span lang=EN-US></span><span
+                           lang=EN-US></span>登陆器里面的一键恢复GF登陆<span lang=EN-US></span><span
+                           lang=EN-US></span><span lang=EN-US></span></span><span
+                           lang=EN-US style='font-size:9.0pt;font-family:Arial'>]...
+                           <o:p></o:p></span></li>
+                       <li class=MsoNormal style='color:#CCCCCC;mso-margin-top-alt:
+                           auto;mso-margin-bottom-alt:auto;mso-list:l1 level1 lfo3;
+                           tab-stops:list 36.0pt'><span lang=EN-US
+                           style='font-size:18.0pt;font-family:Arial'><a
+                           href="http://70ms.5d6d.com/thread-1252-1-1.html"><b><span
+                           lang=EN-US style='font-family:宋体;mso-ascii-font-family:
+                           Arial;mso-hansi-font-family:Arial;color:lime'><span lang=EN-US>问题集锦,金猪详细地址,资料查询请点击</span></span></b></a><o:p></o:p></span></li>
+                       <li class=MsoNormal style='color:#CCCCCC;mso-margin-top-alt:
+                           auto;mso-margin-bottom-alt:auto;mso-list:l1 level1 lfo3;
+                           tab-stops:list 36.0pt'><span style='font-size:13.5pt;
+                           font-family:黑体;mso-hansi-font-family:Arial;
+                           mso-bidi-font-family:Arial;color:red'>登陆器下载 ：</span><span
+                           lang=EN-US style='font-size:9.0pt;font-family:Arial'>...[
+                           <a href="http://61.191.53.200:81/hc2.html"><b>3.05</b><b><span
+                           lang=EN-US style='font-family:宋体;mso-ascii-font-family:
+                           Arial;mso-hansi-font-family:Arial'><span lang=EN-US>版登陆器下载地址</span></span></b></a>...]
+                           <a href="http://61.191.53.200:81/hc2.html"><b></b><b><span
+                           lang=EN-US style='font-family:宋体;mso-ascii-font-family:
+                           Arial;mso-hansi-font-family:Arial'><span lang=EN-US></span></span></b></a>
+                           <a href="http://61.191.53.200:81/hc2.html"><b></b><b><span
+                           lang=EN-US style='font-family:宋体;mso-ascii-font-family:
+                           Arial;mso-hansi-font-family:Arial'><span lang=EN-US></span></span></b></a><o:p></o:p></span></li>
+                      </ul>
+                      <p style='text-indent:194.2pt;mso-char-indent-count:14.33'><b><span
+                      style='font-size:13.5pt;font-family:黑体;mso-hansi-font-family:
+                      Arial;mso-bidi-font-family:Arial;color:#CCCCCC'>雷霆魔兽服务器问题说明：</span></b><span
+                      lang=EN-US style='font-size:13.5pt;font-family:Arial;
+                      color:fuchsia'>&nbsp;</span><span lang=EN-US
+                      style='font-size:9.0pt;font-family:Arial;color:#CCCCCC'><o:p></o:p></span></p>
+                      <p class=MsoNormal style='mso-margin-top-alt:auto;
+                      mso-margin-bottom-alt:auto;margin-left:18.0pt'><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'>如果点登陆器出错</span></b><b
+                      style='mso-bidi-font-weight:normal'><span lang=EN-US
+                      style='mso-bidi-font-size:10.5pt;font-family:Arial;
+                      mso-fareast-font-family:楷体_GB2312;color:yellow'>,</span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'>请查看登陆器里面的 登陆出错的请看看.txt</span></b><b
+                      style='mso-bidi-font-weight:normal'><span lang=EN-US
+                      style='mso-bidi-font-size:10.5pt;font-family:Arial;
+                      mso-fareast-font-family:楷体_GB2312;color:yellow'></span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'></span></b><b
+                      style='mso-bidi-font-weight:normal'><span lang=EN-US
+                      style='mso-bidi-font-size:10.5pt;font-family:Arial;
+                      mso-fareast-font-family:楷体_GB2312;color:yellow'></span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'></span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:Arial;
+                      mso-fareast-font-family:楷体_GB2312;color:yellow'> </span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'></span></b><b
+                      style='mso-bidi-font-weight:normal'><span lang=EN-US
+                      style='mso-bidi-font-size:10.5pt;font-family:Arial;
+                      mso-fareast-font-family:楷体_GB2312;color:yellow'></span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'></span></b><b
+                      style='mso-bidi-font-weight:normal'><span lang=EN-US
+                      style='mso-bidi-font-size:10.5pt;font-family:Arial;
+                      mso-fareast-font-family:楷体_GB2312;color:yellow'><o:p></o:p></span></b></p>
+                      <p class=MsoNormal style='mso-margin-top-alt:auto;
+                      mso-margin-bottom-alt:auto;margin-left:18.0pt'><b
+                      style='mso-bidi-font-weight:normal'><span lang=EN-US
+                      style='mso-bidi-font-size:10.5pt;font-family:Arial;
+                      mso-fareast-font-family:楷体_GB2312;color:yellow'><o:p>&nbsp;</o:p></span></b></p>
+                      <p class=MsoNormal style='mso-margin-top-alt:auto;
+                      mso-margin-bottom-alt:auto;margin-left:18.0pt'><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'>东西全都是问号</span></b><b
+                      style='mso-bidi-font-weight:normal'><span lang=EN-US
+                      style='mso-bidi-font-size:10.5pt;font-family:Arial;
+                      mso-fareast-font-family:楷体_GB2312;color:yellow'>---</span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'>请使用完整版登陆器</span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:Arial;
+                      mso-fareast-font-family:楷体_GB2312;color:yellow'> </span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'></span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:Arial;
+                      mso-fareast-font-family:楷体_GB2312;color:yellow'> </span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'>登陆器</span></b><b
+                      style='mso-bidi-font-weight:normal'><span lang=EN-US
+                      style='mso-bidi-font-size:10.5pt;font-family:Arial;
+                      mso-fareast-font-family:楷体_GB2312;color:yellow'>1</span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'>用不了就用登陆器</span></b><b
+                      style='mso-bidi-font-weight:normal'><span lang=EN-US
+                      style='mso-bidi-font-size:10.5pt;font-family:Arial;
+                      mso-fareast-font-family:楷体_GB2312;color:yellow'>2</span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'>（登陆器包括一键恢复</span></b><b
+                      style='mso-bidi-font-weight:normal'><span lang=EN-US
+                      style='mso-bidi-font-size:10.5pt;font-family:Arial;
+                      mso-fareast-font-family:楷体_GB2312;color:yellow'>GF</span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'>登陆）</span></b><span
+                      lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:
+                      Arial'><br style='mso-special-character:line-break'>
+                      <![if !supportLineBreakNewLine]><br style='mso-special-character:
+                      line-break'>
+                      <![endif]><o:p></o:p></span></p>
+                      <p class=MsoNormal style='mso-margin-top-alt:auto;
+                      mso-margin-bottom-alt:auto;margin-left:18.0pt'><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'>卡人物无法进入游戏</span></b><b
+                      style='mso-bidi-font-weight:normal'><span lang=EN-US
+                      style='mso-bidi-font-size:10.5pt;font-family:Arial;
+                      mso-fareast-font-family:楷体_GB2312;color:yellow'>---</span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'>请使用主页上的</span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:Arial;
+                      mso-fareast-font-family:楷体_GB2312;color:yellow'> </span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'>帐号管理</span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:Arial;
+                      mso-fareast-font-family:楷体_GB2312;color:yellow'> </span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'>卡号自救</span></b><span
+                      lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:
+                      Arial'><br style='mso-special-character:line-break'>
+                      <![if !supportLineBreakNewLine]><br style='mso-special-character:
+                      line-break'>
+                      <![endif]><o:p></o:p></span></p>
+                      <p class=MsoNormal style='mso-margin-top-alt:auto;
+                      mso-margin-bottom-alt:auto;margin-left:18.0pt'><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'>无法复活</span></b><b
+                      style='mso-bidi-font-weight:normal'><span lang=EN-US
+                      style='mso-bidi-font-size:10.5pt;font-family:Arial;
+                      mso-fareast-font-family:楷体_GB2312;color:yellow'>---</span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'>请在游戏中输入</span></b><b
+                      style='mso-bidi-font-weight:normal'><span lang=EN-US
+                      style='mso-bidi-font-size:10.5pt;font-family:Arial;
+                      mso-fareast-font-family:楷体_GB2312;color:yellow'></span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'>/g .recall port 黑暗之门</span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:Arial;
+                      mso-fareast-font-family:楷体_GB2312;color:yellow'> </span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'>然后回车,就可以了</span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:Arial;
+                      mso-fareast-font-family:楷体_GB2312;color:yellow'> <span
+                      lang=EN-US></span></span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'></span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:Arial;
+                      mso-fareast-font-family:楷体_GB2312;color:yellow'> </span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'></span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:Arial;
+                      mso-fareast-font-family:楷体_GB2312;color:yellow'> </span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'></span></b><span
+                      lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:
+                      Arial'><br style='mso-special-character:line-break'>
+                      <![if !supportLineBreakNewLine]><br style='mso-special-character:
+                      line-break'>
+                      <![endif]><o:p></o:p></span></p>
+                      <p class=MsoNormal style='mso-margin-top-alt:auto;
+                      mso-margin-bottom-alt:auto;margin-left:18.0pt'><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'></span></b><b
+                      style='mso-bidi-font-weight:normal'><span lang=EN-US
+                      style='mso-bidi-font-size:10.5pt;font-family:Arial;
+                      mso-fareast-font-family:楷体_GB2312;color:yellow'>卡战斗状态---自杀,然后原地复活,</span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'></span></b><b
+                      style='mso-bidi-font-weight:normal'><span lang=EN-US
+                      style='mso-bidi-font-size:10.5pt;font-family:Arial;
+                      mso-fareast-font-family:楷体_GB2312;color:yellow'>黑暗之门特殊物品商人有出售自杀书</span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'></span></b><b
+                      style='mso-bidi-font-weight:normal'><span lang=EN-US
+                      style='mso-bidi-font-size:10.5pt;font-family:Arial;
+                      mso-fareast-font-family:楷体_GB2312;color:yellow'>,</span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'></span></b><b
+                      style='mso-bidi-font-weight:normal'><span lang=EN-US
+                      style='mso-bidi-font-size:10.5pt;font-family:Arial;
+                      mso-fareast-font-family:楷体_GB2312;color:yellow'>,</span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'>新人商店有回满血的药剂出售</span></b><b
+                      style='mso-bidi-font-weight:normal'><span lang=EN-US
+                      style='mso-bidi-font-size:10.5pt;font-family:Arial;
+                      mso-fareast-font-family:楷体_GB2312;color:yellow'>,</span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'>瞬间满血</span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:Arial;
+                      mso-fareast-font-family:楷体_GB2312;color:yellow'> </span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'></span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:Arial;
+                      mso-fareast-font-family:楷体_GB2312;color:yellow'> </span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'></span></b><b
+                      style='mso-bidi-font-weight:normal'><span lang=EN-US
+                      style='mso-bidi-font-size:10.5pt;font-family:Arial;
+                      mso-fareast-font-family:楷体_GB2312;color:yellow'></span></b><b style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'></span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:Arial;
+                      mso-fareast-font-family:楷体_GB2312;color:yellow'> </span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'></span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:Arial;
+                      mso-fareast-font-family:楷体_GB2312;color:yellow'> </span></b><b
+                      style='mso-bidi-font-weight:normal'><span
+                      style='mso-bidi-font-size:10.5pt;font-family:楷体_GB2312;
+                      mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+                      mso-bidi-font-family:Arial;color:yellow'></span></b><span
+                      lang=EN-US style='mso-bidi-font-size:9.0pt;font-family:
+                      Arial;color:#CCCCCC'><o:p></o:p></span></p>
+                      <p><span lang=EN-US style='font-size:9.0pt;font-family:
+                      Arial;color:#CCCCCC'><br>
+                      <br>
+                      </span><span style='font-size:9.0pt;mso-ascii-font-family:
+                      Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+                      Arial;color:#CCCCCC'>更多体验等着您的参与，打造玩家最喜爱的魔兽私服</span><span
+                      lang=EN-US style='font-size:9.0pt;font-family:Arial;
+                      color:#CCCCCC'><o:p></o:p></span></p>
+                      </td>
+                     </tr>
+                     <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
+                      <td width=696 style='width:522.0pt;padding:.75pt .75pt .75pt .75pt'>
+                      <p class=MsoNormal><span style='font-size:9.0pt'>　<span
+                      lang=EN-US><o:p></o:p></span></span></p>
+                      </td>
+                     </tr>
+                    </table>
+                    <p align=right style='text-align:right'><span lang=EN-US
+                    style='font-size:9.0pt'><br>
+                    &nbsp;<o:p></o:p></span></p>
+                    </td>
+                   </tr>
+                  </table>
+                  <p class=MsoNormal><span lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></p>
+                  </td>
+                 </tr>
+                </table>
+                <p class=MsoNormal><span lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></p>
+                </td>
+               </tr>
+              </table>
+              <p class=MsoNormal><span lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></p>
+              </td>
+             </tr>
+            </table>
+            <p class=MsoNormal><span lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></p>
+            </td>
+           </tr>
+          </table>
+          <p class=MsoNormal><span lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></p>
+          </td>
+         </tr>
+        </table>
+        <p class=MsoNormal><span lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></p>
+        </td>
+       </tr>
+      </table>
+      <p class=MsoNormal><span lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></p>
+      </td>
+     </tr>
+    </table>
+    <p class=MsoNormal><span lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></p>
+    </td>
+   </tr>
+  </table>
+  <p class=MsoNormal><span lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+
+<p><span style='font-size:9.0pt;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:Arial;color:#CCCCCC'>合作站点名称</span><span lang=EN-US
+style='font-size:9.0pt;font-family:Arial;color:#CCCCCC'>: 
+<a
+href="http://www.wowsf.com" target="_blank"><b><span style='text-decoration:
+none;text-underline:none'><img border=0 width=130 height=50 id="_x0000_i1030"
+src="http://www.wowsf.com/logo.gif" alt=魔兽世界私服></span></b></a>
+<a
+href="http://www.vipst.com" title=魔兽私服-每日新开私服预报><b><span style='text-decoration:
+none;text-underline:none'><img border=0 width=130 height=50 id="_x0000_i1029"
+src="http://www.vipst.com/logo.gif"></span></b></a><a
+href="http://www.wow321.com/" target="_blank"><b><span style='text-decoration:
+none;text-underline:none'><img border=0 width=130 height=31 id="_x0000_i1031"
+src="http://www.wow321.com/qq321.gif"></span></b></a></span><span lang=EN-US
+style='font-size:9.0pt'><o:p></o:p></span></p>
+
+</div>
+
+</body>
+
+</html>
+<DIV></DIV>
+    <DIV></DIV></TR></TBODY></TABLE></CENTER></CENTER></CENTER></CENTER></P></BODY>

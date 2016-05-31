@@ -1,0 +1,480 @@
+<html>
+<head>
+<title>Welcome to DirectBoard</title>
+<meta http-equiv="Content-Type" content="text/html; charset=euc-kr">
+<link rel="stylesheet" href="skin/default/script/ie.css" type="text/css">
+<script language="JavaScript" src="skin/default/script/tools.js"></script>
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" onLoad="MM_preloadImages('img/main/menu2.gif','img/main/menu3.gif','img/main/menu4.gif','img/main/menu5.gif','img/main/menu6.gif')">
+
+<table width="770" border="0" cellspacing="0" cellpadding="0" height="100%">
+  <tr>
+    <td height="49" colspan="2" valign="top">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="83"><a href="main.php" onMouseOver="javascript:window.status='홈페이지로 바로가기';return true" onMouseOut="javascript:window.status='';return true"><img src="skin/default/img/main/menu1.gif" width="174" height="49" border="0"></a></td>
+          <td width="83"><img src="skin/default/img/main/menu1q.gif" width="152" height="49"></td>
+          <td><a href="main.php" onMouseOut="MM_swapImgRestore();window.status='';return true" onMouseOver="MM_swapImage('Image7','','skin/default/img/main/menu2.gif',1);window.status='홈페이지 바로가기';return true"><img name="Image7" border="0" src="skin/default/img/main/menu2a.gif" width="83" height="49"></a></td>
+          <td><a href="service.php" onMouseOut="MM_swapImgRestore();window.status='';return true" onMouseOver="MM_swapImage('Image8','','skin/default/img/main/menu3.gif',1);window.status='서비스 이용안내 보기';return true"><img name="Image8" border="0" src="skin/default/img/main/menu3a.gif" width="84" height="49"></a></td>
+          <td><!---a href="contract.php" onMouseOut="MM_swapImgRestore();window.status='';return true"" onMouseOver="MM_swapImage('Image9','','skin/default/img/main/menu4.gif',1);window.status='다이렉트보드 홈페이지 회원으로 가입하기';return true"---><img name="Image9" border="0" src="skin/default/img/main/menu4a.gif" width="82" height="49" onclick="javascript:alert('죄송합니다. 서비스 점검중이므로 잠시 신규 가입을 받지 않습니다.')"><!---/a---></td>
+          <td width="83"><a href="faq.php?board=3" onMouseOut="MM_swapImgRestore();window.status='';return true" onMouseOver="MM_swapImage('Image10','','skin/default/img/main/menu5.gif',1);window.status='FAQ 보기';return true" onfocus="this.blur()"><img name="Image10" border="0" src="skin/default/img/main/menu5a.gif" width="83" height="49"></a></td>
+          <td width="82"><a href="company.php" onMouseOut="MM_swapImgRestore();window.status='';return true" onMouseOver="MM_swapImage('Image11','','skin/default/img/main/menu6.gif',1);window.status='회사소개';return true"><img name="Image11" border="0" src="skin/default/img/main/menu6a.gif" width="82" height="49"></a></td>
+          <td width="32" align="left" background="skin/default/img/main/top_add.gif">&nbsp;</td>
+        </tr>
+      </table>
+
+    </td>
+  </tr>
+  <tr>
+    <td width="162" height="100%" valign="top" background="skin/default/img/main/leftmenuback.gif">
+        <form name="loginform" action="_login.php" method="post">
+
+        <table width="162" height="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr> 
+            <td valign="top" width="162"> 
+              <table width="162" border="0" cellspacing="0" cellpadding="0">
+                <tr> 
+                  <td rowspan="2"><img src="skin/default/img/main/loginbaox1.gif" width="35" height="79"></td>
+                  <td valign="top" bgcolor="C8F7FD"><img src="skin/default/img/main/loginbox2.gif" width="96" height="23"></td>
+                  <td rowspan="2"><img src="skin/default/img/main/loginbox3.gif" width="32" height="79"></td>
+                </tr>
+                <tr> 
+                  <td valign="top" bgcolor="C8F7FD" background="skin/default/img/main/loginback.gif"> 
+                    <table width="96" border="0" cellspacing="0" cellpadding="0">
+                      <tr> 
+                        <td height="19" bgcolor="C8F7FD"> 
+                          <input type="text" name="uid" value="" size="12" class="login">
+                        </td>
+                      </tr>
+                      <tr> 
+                        <td bgcolor="C8F7FD" height="25"> 
+                          <input type="password" name="pass" size="12" class="login">
+                          <img src="skin/default/img/main/co.gif" width="1" height="1"></td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <tr > 
+                  <td background="skin/default/img/main/loginback2.gif" align="center"colspan="3" height="25"> 
+                    <table width="152" border="0" cellspacing="0" cellpadding="0">
+                      <tr> 
+                        <td align="right" height="16"><input type="image" src="skin/default/img/main/loginbut1.gif" width="45" height="13" border="0"></td>
+                        <td height="16"><!---a href="contract.php" onMouseOver="javascript:window.status='다이렉트보드 홈페이지 회원으로 가입하기';return true" onMouseOut="javascript:window.status='';return true"---><img src="skin/default/img/main/loginbut2.gif" width="57" height="13" border="0" onclick="javascript:alert('죄송합니다. 서비스 점검중이므로 잠시 신규 가입을 받지 않습니다.')"><!---/a---></td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr> 
+            <td background="skin/default/img/main/leftmenuback.gif" height="10" valign="top" width="162"><img src="skin/default/img/main/co.gif" width="1" height="1"></td>
+          </tr>
+          <tr> 
+            <td background="skin/default/img/main/leftmenuback.gif" height="100%" valign="top" align="center" width="162"> 
+              <table width="154" border="0" cellspacing="0" cellpadding="0" valign="top">
+                <tr> 
+                  <td align="center"><a href="freeservice.php" onMouseOver="javascript:window.status='무료서비스 소개';return true" onMouseOut="javascript:window.status='';return true"><img src="skin/default/img/main/lefticon1.gif" width="154" height="66" border="0"></a></td>
+                </tr>
+                <tr> 
+                  <td height="10"><img src="skin/default/img/main/co.gif" width="1" height="1"></td>
+                </tr>
+                <!---tr> 
+                  <td align="center"><a href="tollservice.php" onMouseOver="javascript:window.status='유료 서비스 소개';return true" onMouseOut="javascript:window.status='';return true"><img src="skin/default/img/main/lefticon2.gif" width="154" height="67" border="0"></a></td>
+                </tr>
+                <tr> 
+                  <td height="10"><img src="skin/default/img/main/co.gif" width="1" height="1"></td>
+                </tr--->
+                <tr> 
+                  <td align="center"><a href="memberservice.php" onMouseOver="javascript:window.status='회원관리 기능 소개';return true" onMouseOut="javascript:window.status='';return true"><img src="skin/default/img/main/lefticon3.gif" width="154" height="67" border="0"></a></td>
+                </tr>
+                <tr> 
+                  <td height="10"><img src="skin/default/img/main/co.gif" width="1" height="1"></td>
+                </tr>
+		<!------
+                <tr> 
+                  <td align="center"><a href="priceinfo.php" onMouseOver="javascript:window.status='서비스 이용 가격 소개';return true" onMouseOut="javascript:window.status='';return true"><img src="skin/default/img/main/lefticon4.gif" width="153" height="67" border="0"></a></td>
+                </tr>
+                <tr> 
+                  <td height="10"><img src="skin/default/img/main/co.gif" width="1" height="1"></td>
+                </tr>
+		------->
+                <tr>
+                  <td align="center"><a href="http://www.direct.co.kr" target=_blank onMouseOver="javascript:window.status='후원업체: 다이렉트웹호스팅';return true" onMouseOut="javascript:window.status='';return true"><img src="skin/default/img/banner/direct_small.gif" border="0"></a></td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+
+        </form>
+
+    </td>
+    <td height="100%" valign="top" background="skin/default/img/main/mainback.gif" width="613">
+        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tr> 
+            <td height="109" valign="top"><img src="skin/default/img/main/topimg.gif" width="607" height="113"></td>
+          </tr>
+          <tr> 
+            <td valign="top"> 
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr> 
+                  <td height="10"><img src="skin/default/img/main/co.gif" width="1" height="1"></td>
+                </tr>
+                <tr> 
+                  <td height="248" valign="top"> 
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                      <tr> 
+                        <td height="32" colspan="2"><img src="skin/default/img/main/gta1.gif" width="198" height="27"></td>
+                        <td rowspan="2" valign="top" width="210"> 
+                          <table width="75%" border="0" cellpadding="0" cellspacing="0">
+                            <tr> 
+                              <td height="31" background="skin/default/img/main/backbod.gif" valign="top"><img src="skin/default/img/main/gbar.gif" width="210" height="23"></td>
+                            </tr>
+                            <tr> 
+                              <td height="89" background="skin/default/img/main/backbod.gif" valign="top"> 
+                                <table width="100%" height="92%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr> 
+                                    <td> 
+                                      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+<!--- 최근 공지 사항 시작 e_notice.tpl --->
+                                        <tr> 
+                                          <td width="4%">&nbsp;</td>
+                                          <td width="96%" class="notice" height="20">- <a href="nread.php?board=1&id=2" onMouseOver="javascript:window.status='내용 보기 : 무료 게시판이 등록되었습니다.';return true" onMouseOut="javascript:window.status='';return true">무료 게시판이 등록되었습니다.</a></td>
+                                        </tr>
+                                        <tr> 
+                                          <td width="4%">&nbsp;</td>
+                                          <td width="96%" class="notice" height="20">- <a href="nread.php?board=1&id=1" onMouseOver="javascript:window.status='내용 보기 : 무료 방명록이 등록되었습니다.';return true" onMouseOut="javascript:window.status='';return true">무료 방명록이 등록되었습니다.</a></td>
+                                        </tr>
+
+<!--- 최근 공지 사항 마침 e_notice.tpl --->
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr> 
+                                    <td valign="bottom">
+                                      <table width="99%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td width="75%" height="22">&nbsp;</td>
+                                          <td valign="bottom" align="center"><a href="nlist.php?board=1" onMouseOver="javascript:window.status='공지사항 자세히 보기';return true" onMouseOut="javascript:window.status='';return true"><img src="skin/default/img/main/more_2.gif" width="40" height="9" border="0"></a></td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </table>
+                              </td>
+                            </tr>
+                            <tr> 
+                              <td height="11"><img src="skin/default/img/main/co.gif" width="1" height="1"></td>
+                            </tr>
+                            <tr> 
+                              <td height="31" background="skin/default/img/main/backbod.gif" valign="top"><img src="skin/default/img/main/gbar2.gif" width="210" height="22"></td>
+                            </tr>
+                            <tr> 
+                              <td height="89" background="skin/default/img/main/backbod.gif" valign="top"> 
+                                <table width="100%" height="92%" border="0" cellpadding="0" cellspacing="0">
+                                  <tr> 
+                                    <td> 
+                                      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+<!--- 추가 사항 시작 e_addition.tpl --->
+                                        <tr> 
+                                          <td colspan="2" class="unnamed1" height="20" align="center">추가된 사항이 없습니다.</td>
+                                        </tr>
+
+<!--- 추가 사항 마침 e_addition.tpl --->
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr> 
+                                    <td valign="bottom"> 
+                                      <table width="99%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td width="75%" height="22">&nbsp;</td>
+                                          <td valign="bottom" align="center"><a href="nlist.php?board=2" onMouseOver="javascript:window.status='추가된 사항 자세히 보기';return true" onMouseOut="javascript:window.status='';return true"><img src="skin/default/img/main/more_3.gif" width="40" height="9" border="0"></a></td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </table>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                      <tr> 
+                        <td height="207" valign="top" width="20">&nbsp; </td>
+                        <td height="201" valign="bottom" width="353"> 
+                          <table width="355" border="0" cellspacing="0" cellpadding="0" height="220">
+                            <tr> 
+                              <td height="208" background="skin/default/img/main/bodback1.gif" valign="top"> 
+                                <table width="100%" cellspacing="0" cellpadding="0">
+                                  <tr> 
+                                    <td> 
+                                      <table width="99%" border="0" cellpadding="0" cellspacing="0">
+                                        <tr> 
+                                          <td height="18" colspan="2"><img src="skin/default/img/main/co.gif" width="1" height="1"></td>
+                                          <td width="297"><img src="skin/default/img/main/co.gif" width="1" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td width="30" valign="top" align="right"><img src="skin/default/img/main/baicon.gif" width="12" height="11"></td>
+                                          <td width="4" valign="top" align="center">&nbsp;</td>
+                                          <td width="297" class="unnamed1">최신글을 요약해서 보여준다.<a href="nread.php?board=4&id=13" class="ability" onMouseOver="javascript:window.status='요약게시판 기능 보기';return true" noMouseOut="javascript:window.status='';return true">[요약게시판 기능 보기]</a></td>
+                                        </tr>
+                                        <tr> 
+                                          <td height="5" colspan="2"><img src="skin/default/img/main/co.gif" width="1" height="1"></td>
+                                          <td width="297" height="5"><img src="skin/default/img/main/co.gif" width="1" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td width="30" valign="top" align="right"><img src="skin/default/img/main/baicon.gif" width="12" height="11"></td>
+                                          <td width="4" valign="top" align="center">&nbsp;</td>
+                                          <td width="297" class="unnamed1">중요한 
+                                            사항을 이렇게 알리자!<a href="nread.php?board=4&id=7" class="ability" onMouseOver="javascript:window.status='공지게시물 기능 보기';return true" noMouseOut="javascript:window.status='';return true">[공지게시물 
+                                            기능]</a></td>
+                                        </tr>
+                                        <tr> 
+                                          <td height="5" colspan="2"><img src="skin/default/img/main/co.gif" width="1" height="1"></td>
+                                          <td width="297" height="5"><img src="skin/default/img/main/co.gif" width="1" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td width="30" align="right" valign="top"><img src="skin/default/img/main/baicon.gif" width="12" height="11"></td>
+                                          <td width="4" align="center">&nbsp;</td>
+                                          <td width="297"><span class="unnamed1">아무 
+                                            게시물이나 함부로 올리면 안되지!</span><a href="nread.php?board=4&id=6" class="ability" onMouseOver="javascript:window.status='승인 기능 보기';return true" onMouseOut="javascript:window.status='';return true">[승인기능]</a></td>
+                                        </tr>
+                                        <tr> 
+                                          <td height="5" colspan="2"><img src="skin/default/img/main/co.gif" width="1" height="1"></td>
+                                          <td width="297" height="5"><img src="skin/default/img/main/co.gif" width="1" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="middle"><img src="skin/default/img/main/baicon.gif" width="12" height="11"></td>
+                                          <td align="center">&nbsp;</td>
+                                          <td width="297" class="unnamed1" rowspan="2">다양한 
+                                            형식으로 답변글을 표시한다.<br>
+                                            <a href="nread.php?board=4&id=5" class="ability" onMouseOver="javascript:window.status='답변 제어 기능 보기';return true" onMouseOut="javascript:window.status='';return true">[쓰레드 표기 
+                                            변경 기능]</a></td>
+                                        </tr>
+                                        <tr> 
+                                          <td colspan="2">&nbsp;</td>
+                                        </tr>
+                                        <tr> 
+                                          <td height="5" colspan="2"><img src="skin/default/img/main/co.gif" width="1" height="1"></td>
+                                          <td width="297" height="5"><img src="skin/default/img/main/co.gif" width="1" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"><img src="skin/default/img/main/baicon.gif" width="12" height="11"></td>
+                                          <td align="center">&nbsp;</td>
+                                          <td width="297" class="unnamed1">게시물에 
+                                            타이머를 달자.<a href="nread.php?board=4&id=4" class="ability" onMouseOver="javascript:window.status='게시물 만료일 설정 기능 보기';return true" onMouseOut="javascript:window.status='';return true">[게시물 
+                                            만료일 기능]</a></td>
+                                        </tr>
+                                        <tr> 
+                                          <td height="5" colspan="2"><img src="skin/default/img/main/co.gif" width="1" height="1"></td>
+                                          <td width="297" height="5"><img src="skin/default/img/main/co.gif" width="1" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"><img src="skin/default/img/main/baicon.gif" width="12" height="11"></td>
+                                          <td align="center">&nbsp;</td>
+                                          <td width="297" class="unnamed1">다양한 
+                                            권한을 이용해 회원들을 관리한다.<a href="nread.php?board=4&id=3" class="ability" onMouseOver="javascript:window.status='회원관리 기능 보기';return true" onMouseOut="javascript:window.status='';return true">[회원관리]</a></td>
+                                        </tr>
+                                        <tr> 
+                                          <td height="5" colspan="2"><img src="skin/default/img/main/co.gif" width="1" height="1"></td>
+                                          <td width="297" height="5"><img src="skin/default/img/main/co.gif" width="1" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"><img src="skin/default/img/main/baicon.gif" width="12" height="11"></td>
+                                          <td align="center">&nbsp;</td>
+                                          <td width="297" class="unnamed1">원하는 
+                                            위치로 자유롭게 이동한다.<a href="nread.php?board=4&id=2" class="ability" onMouseOver="javascript:window.status='바로가기 기능 보기';return true" onMouseOut="javascript:window.status='';return true">[바로가기 
+                                            기능]</a></td>
+                                        </tr>
+                                        <tr> 
+                                          <td height="5" colspan="2"><img src="skin/default/img/main/co.gif" width="1" height="1"></td>
+                                          <td width="297" height="5"><img src="skin/default/img/main/co.gif" width="1" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td align="right" valign="top"><img src="skin/default/img/main/baicon.gif" width="12" height="11"></td>
+                                          <td align="center">&nbsp;</td>
+                                          <td width="297" class="unnamed1"> 게시물에서 
+                                            여론조사를~~<a href="nread.php?board=4&id=1" class="ability" onMouseOver="javascript:window.status='투표기능 보기';return true" onMouseOut="javascript:window.status='';return true">[투표 
+                                            설정 기능]</a></td>
+                                        </tr>
+                                        <tr> 
+                                          <td colspan="2"><img src="skin/default/img/main/co.gif" width="1" height="1"></td>
+                                          <td width="297"><img src="skin/default/img/main/co.gif" width="1" height="1"></td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr> 
+                                    <td valign="top"> 
+                                      <table width="99%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td width="85%" height="20">&nbsp;</td>
+                                          <td width="15%" align="center" valign="bottom"><a href="nlist.php?board=4" onMouseOver="javascript:window.status='기능소개 자세히 보기';return true" onMouseOut="javascript:window.status='';return true"><img src="skin/default/img/main/more_1.gif" width="40" height="9" border="0"></a></td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </table>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <tr> 
+                  <td height="21">&nbsp;</td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr> 
+            <td valign="top"> 
+              <table width="590" border="0" cellpadding="0" cellspacing="0">
+                <tr> 
+                  <td height="34"><img src="skin/default/img/main/gta2.gif" width="290" height="34"></td>
+                </tr>
+                <tr> 
+                  <td height="118" valign="top"> 
+                    <table width="590" border="0" cellspacing="0" cellpadding="0">
+                      <tr> 
+                        <td width="40" height="116">&nbsp;</td>
+                        <td height="116" width="180" valign="bottom"><img src="skin/default/img/main/boimg1.gif" width="145" height="112"></td>
+                        <td height="116" width="170" valign="bottom"><img src="skin/default/img/main/boimg2.gif" width="148" height="112"></td>
+                        <td height="116"><img src="skin/default/img/main/boimg3.gif" width="160" height="117"></td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <tr> 
+                  <td valign="top"> 
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr> 
+                        <td colspan="4"> 
+                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tr> 
+                              <td width="40" height="16">&nbsp;</td>
+                              <td width="180" height="16"><img src="skin/default/img/main/bo1.gif" width="93" height="20"></td>
+                              <td width="170" height="16"><img src="skin/default/img/main/bo2.gif" width="143" height="20"></td>
+                              <td height="16"> 
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr> 
+                                    <td width="8%">&nbsp;</td>
+                                    <td><img src="skin/default/img/main/bo3.gif" width="133" height="20"></td>
+                                  </tr>
+                                </table>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                      <tr> 
+                        <td width="40">&nbsp;</td>
+                        <td width="180" valign="top"> 
+                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tr> 
+                              <td class="unnamed1" colspan="2" height="20"> -심플한 
+                                디자인으로 어느</td>
+                            </tr>
+                            <tr> 
+                              <td width="4%" class="unnamed1" height="19">&nbsp;</td>
+                              <td class="unnamed1" height="20">곳이나 잘 어울리는 게시판</td>
+                            </tr>
+                            <tr> 
+                              <td width="4%" class="unnamed1">&nbsp;</td>
+                              <td class="unnamed1" height="20">입니다.</td>
+                            </tr>
+                          </table>
+                        </td>
+                        <td width="170" valign="top"> 
+                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tr> 
+                              <td class="unnamed1" colspan="2" height="20">-수 
+                                많은 자료관리 이젠 !!</td>
+                            </tr>
+                            <tr> 
+                              <td width="4%">&nbsp;</td>
+                              <td width="96%" class="unnamed1" height="20">깔끔하게 
+                                관리,공유합니다.</td>
+                            </tr>
+                            <tr> 
+                              <td width="4%">&nbsp;</td>
+                              <td width="96%" class="unnamed1" height="10">&nbsp;</td>
+                            </tr>
+                          </table>
+                        </td>
+                        <td valign="top"> 
+                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tr> 
+                              <td width="8%">&nbsp;</td>
+                              <td> 
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr> 
+                                    <td class="unnamed1" colspan="2" height="20">-다이렉트 
+                                      보드의 최고의 </td>
+                                  </tr>
+                                  <tr> 
+                                    <td width="4%">&nbsp;</td>
+                                    <td width="96%" class="unnamed1" height="20">걸작,한번 
+                                      사용해 보세요!!</td>
+                                  </tr>
+                                  <tr> 
+                                    <td width="4%">&nbsp;</td>
+                                    <td width="96%" class="unnamed1" height="20">후회는 
+                                      없습니다.</td>
+                                  </tr>
+                                </table>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr> 
+            <td> 
+              <table width="75%" border="0" cellspacing="0" cellpadding="0" align="right">
+                <tr> 
+                  <td width="355">&nbsp;</td>
+                  <td><a href="skin.php" onMouseOver="javascript:window.status='게시판 스킨 살펴보기';return true" onMouseOut="javascript:window.status='';return true"><img src="skin/default/img/main/more_3.gif" width="40" height="9" border="0"></a></td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td height="80">&nbsp;</td>
+          </tr>
+        </table>
+
+    </td>
+  </tr>
+  <tr>
+    <tr bgcolor="E6E6E6" valign="bottom" align="center"> 
+      <td colspan="2" height="22"> 
+        <table width="45%" border="0" cellspacing="0" cellpadding="0">
+          <tr> 
+            <td class="bottom" width="90" height="16"><font color="655787"><a href="javascript:open_contactus()" onMouseOver="javascript:window.status='관리자에게 메일 보내기';return true" onMouseOut="javascript:window.status='';return true" class="bottom">Contact Us</a></font><font color="655787"></font></td>
+            <td height="16" class="bottom" width="125"><font color="655787"><a href="privacy.php" onMouseOver="javascript:window.status='개인정보보호정책';return true" onMouseOut="javascript:window.status='';return true" class="bottom">개인정보보호정책</a></font></td>
+            <td width="75" height="16" class="bottom"><font color="655787"></font><font color="655787"><a href="javascript:open_ad()" onMouseOver="javascript:window.status='광고문의하기';return true" onMouseOut="javascript:window.status='';return true" class="bottom">광고문의</a></font><font color="655787"></font></td>
+            <td height="16" class="bottom"><font color="655787"><a href="sitemap.php" onMouseOver="javascript:window.status='사이트맵 보기';return true" onMouseOut="javascript:window.status='';return true" class="bottom">사이트맵</a></font></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr align="center"> 
+      <td colspan="2" height="10" bgcolor="#FFFFFF"><img src="skin/default/img/main/downbar.gif" width="243" height="20"></td>
+    </tr>
+
+  </tr>
+</table>
+
+</body>
+</html>

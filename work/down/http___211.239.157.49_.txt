@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?><response><method>error.show</method>
+<ret>FAIL</ret>
+<msg>apikey parameter does not exist.</msg>
+<tag><![CDATA[]]></tag></response>

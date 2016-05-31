@@ -1,0 +1,601 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>梦幻机战</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=gb2312">
+<STYLE type=text/css>.STYLE1 {
+	COLOR: #ffff00
+}
+.STYLE2 {
+	FONT-SIZE: 16px
+}
+.STYLE3 {
+	COLOR: #ff0000
+}
+</STYLE>
+
+<META content="MSHTML 6.00.2900.3429" name=GENERATOR></HEAD>
+<BODY>
+<STYLE type=text/css>BODY {
+	MARGIN: 0px; BACKGROUND-COLOR: #000000
+}
+</STYLE>
+<LINK href="css.css" tppabs="http://61.191.58.168/images/css.css" type=text/css rel=stylesheet 
+tppabs="http://www.love215.cn/images/css.css">
+<META content="MSHTML 6.00.2900.3086" name=GENERATOR>
+<STYLE type=text/css>A {
+	TEXT-DECORATION: none
+}
+A:link {
+	COLOR: #ff0000
+}
+A:visited {
+	COLOR: #ffffff
+}
+A:hover {
+	COLOR: #ff6600
+}
+A:active {
+	COLOR: #ff9900
+}
+.style1 {
+	FONT-WEIGHT: bold; COLOR: #00ffff
+}
+.style2 {
+	FONT-WEIGHT: bold; COLOR: #00ff00
+}
+.style3 {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: "宋体"; FONT-VARIANT: normal
+}
+.style4 {
+	COLOR: #00ff00
+}
+A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: none
+}
+A:active {
+	TEXT-DECORATION: none
+}
+.STYLE40 {
+	COLOR: #990000
+}
+</STYLE>
+
+<SCRIPT src="AC_RunActiveContent.js" tppabs="http://61.191.58.168/images/AC_RunActiveContent.js" 
+type=text/javascript ></SCRIPT>
+
+<TABLE id=Table_01 height=404 cellSpacing=0 cellPadding=0 width=1002 
+align=center border=0>
+  <TBODY>
+  <TR>
+    <TD width=483 rowSpan=3><img height=299 alt="" 
+      src="小菜小组_01.jpg" tppabs="http://61.191.58.168/images/小菜小组_01.jpg" width=483></TD>
+    <TD colSpan=2 height=158><IMG height=158 alt="" 
+      src="小菜小组_02.jpg" tppabs="http://61.191.58.168/images/小菜小组_02.jpg" width=519></TD></TR>
+  <TR>
+    <TD width=500 height=124><img src="12.jpg" width="500" height="120"></TD>
+    <TD width=19 rowSpan=2><IMG height=141 alt="" 
+      src="小菜小组_04.jpg" tppabs="http://61.191.58.168/images/小菜小组_04.jpg" width=19 
+></TD></TR>
+  <TR>
+    <TD height=17><IMG height=17 alt="" 
+      src="小菜小组_05.jpg" tppabs="http://61.191.58.168/images/小菜小组_05.jpg" width=500 
+></TD></TR>
+  <TR>
+    <TD colSpan=3 height=105><IMG height=105 alt="" 
+      src="小菜小组_06.jpg" tppabs="http://61.191.58.168/images/小菜小组_06.jpg" width=362 
+><a href="index.html" tppabs="http://61.191.58.168/index.html"><img height=105 alt=版本特色 
+      src="gm06a_01.jpg" tppabs="http://61.191.58.168/images/gm06a_01.jpg" width=156 border=0 
+></a><A 
+      href="gsxz.html" tppabs="http://61.191.58.168/gsxz.html" 
+><IMG height=105 alt=相关下载 
+      src="gm06a_02.jpg" tppabs="http://61.191.58.168/images/gm06a_02.jpg" width=164 border=0 
+></A><A 
+      href="hk.htm" tppabs="http://61.191.58.168/hk.htm" 
+><IMG height=105 alt=购买会员 
+      src="gm06a_03.jpg" tppabs="http://61.191.58.168/images/gm06a_03.jpg" width=151 border=0 
+></A><A 
+      href="hkfs.html" tppabs="http://61.191.58.168/hkfs.html" 
+><IMG 
+      height=105 alt=在线充值 src="gm06a_04.jpg" tppabs="http://61.191.58.168/images/gm06a_04.jpg" 
+      width=150 border=0 
+></A></TD>
+  </TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width=1002 align=center border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=top width=326 bgColor=#272926 height=694>
+      <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+        <TBODY>
+        <TR>
+          <TD><IMG height=51 alt="" 
+            src="index_19.jpg" tppabs="http://61.191.58.168/images/index_19.jpg" width=326 
+></TD></TR></TBODY></TABLE>
+      <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+        <TBODY>
+        <TR>
+          <TD width=32><IMG height=117 alt="" 
+            src="index_23.jpg" tppabs="http://61.191.58.168/images/index_23.jpg" width=32 
+></TD>
+          <TD background="index_24.jpg" tppabs="http://61.191.58.168/images/index_24.jpg" 
+>
+            <TABLE cellSpacing=0 cellPadding=0 width="90%" align=center 
+border=0>
+              <TBODY>
+              <TR>
+                <TD class=hdyl>·客服QQ① ：<SPAN class=style2>806254566</SPAN></TD>
+              </TR>
+              <TD class=hdyl>·客服QQ② ：<SPAN class=style2>164363286
+</SPAN></TD>
+              <TR>
+                
+              <TR>
+                <TD class=hdyl>
+                  <P>·游戏官网：<SPAN class=style2>www.love215.cn</SPAN></P></TD></TR>
+              <TR>
+                <TD class=hdyl>·客服在线时间： 早上08:30-晚上00::30</TD></TR>
+              <TR>
+                <TD class=hdyl>·客服上班时间： 365天不分节假日 </TD>
+              </TR></TBODY></TABLE></TD>
+          <TD width=11><IMG height=117 alt="" 
+            src="index_25.jpg" tppabs="http://61.191.58.168/images/index_25.jpg" width=11 
+></TD></TR></TBODY></TABLE>
+      <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+        <TBODY>
+        <TR>
+          <TD><IMG height=33 alt="" 
+            src="index_29.jpg" tppabs="http://61.191.58.168/images/index_29.jpg" width=326 
+></TD></TR></TBODY></TABLE>
+      <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+        <TBODY>
+        <TR>
+          <TD width=41><IMG height=225 alt="" 
+            src="index_30.jpg" tppabs="http://61.191.58.168/images/index_30.jpg" width=41 
+></TD>
+          <TD vAlign=center align=middle 
+          background="index_31.jpg" tppabs="http://61.191.58.168/images/index_31.jpg" 
+>
+            <TABLE cellSpacing=1 cellPadding=0 width=254 align=center 
+              border=0><TBODY>
+              <TR>
+                <TD><IMG height=5 alt="" 
+                  src="fqjz08.com.htm" tppabs="http://61.191.58.168/images/fqjz08.com.htm" width=32 
+                  name=""></TD></TR></TBODY></TABLE>
+            <TABLE cellSpacing=0 cellPadding=0 width=254 align=center 
+              border=0><TBODY>
+              <TR>
+                <TD><a href="gsxz.html" tppabs="http://61.191.58.168/gsxz.html"><IMG height=64 
+                  alt=下载登录器地址一 src="cf.jpg" tppabs="http://61.191.58.168/images/cf.jpg" 
+                  width=254 border=0 name=Image72 
+></a></TD>
+              </TR></TBODY></TABLE>
+            <TABLE cellSpacing=1 cellPadding=0 width=254 align=center 
+              border=0><TBODY>
+              <TR>
+                <TD><IMG height=5 alt="" 
+ width=32 
+                  name=""></TD></TR></TBODY></TABLE>
+            <TABLE cellSpacing=0 cellPadding=0 width=254 align=center 
+              border=0><TBODY>
+              <TR>
+                <TD><a href="gsxz.html" tppabs="http://61.191.58.168/gsxz.html"><IMG height=64 
+                  alt=下载登录器地址二 src="cf1.jpg" tppabs="http://61.191.58.168/images/cf1.jpg" 
+                  width=254 border=0 name=Image71 
+></a></TD>
+              </TR></TBODY></TABLE>
+            <TABLE cellSpacing=1 cellPadding=0 width=254 align=center 
+              border=0><TBODY>
+              <TR>
+                <TD><IMG height=5 alt="" 
+                  src="fqjz08.com.htm" tppabs="http://61.191.58.168/images/fqjz08.com.htm" width=32 
+                  name=""></TD></TR></TBODY></TABLE>
+            <TABLE cellSpacing=0 cellPadding=0 width=254 align=center 
+              border=0><TBODY>
+              <TR>
+                <TD><a href="gsxz.html" tppabs="http://61.191.58.168/gsxz.html"><IMG height=64 
+                  alt=下载登录器地址三 src="cf2.jpg" tppabs="http://61.191.58.168/images/cf2.jpg" 
+                  width=254 border=0 name=Image73 
+></a></TD>
+              </TR></TBODY></TABLE>
+            <TABLE cellSpacing=1 cellPadding=0 width=254 align=center 
+              border=0><TBODY>
+              <TR>
+                <TD><IMG height=5 alt="" width=32 
+          name=""></TD></TR></TBODY></TABLE></TD>
+          <TD width=24><IMG height=225 alt="" 
+            src="index_32.jpg" tppabs="http://61.191.58.168/images/index_32.jpg" width=24 
+></TD></TR></TBODY></TABLE>
+      <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+        <TBODY>
+        <TR>
+          <TD><IMG height=25 alt="" 
+            src="index_33.jpg" tppabs="http://61.191.58.168/images/index_33.jpg" width=326 
+></TD></TR></TBODY></TABLE>
+      <TABLE cellSpacing=0 cellPadding=0 width=326 border=0>
+        <TBODY>
+        <TR>
+          <TD>
+            <TABLE cellSpacing=0 cellPadding=0 width=326 border=0>
+              <TBODY>
+              <TR>
+                <TD>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR>
+                      <TD><IMG height=20 alt="" 
+                        src="index_34.jpg" tppabs="http://61.191.58.168/images/index_34.jpg" 
+                        width=326 
+></TD></TR></TBODY></TABLE>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR>
+                      <TD width=47><IMG height=36 alt="" 
+                        src="index_35.jpg" tppabs="http://61.191.58.168/images/index_35.jpg" width=47 
+></TD>
+                      <TD align=left width=98 bgColor=#100f0d><IMG height=36 
+                        alt="" src="index_36.jpg" tppabs="http://61.191.58.168/images/index_36.jpg" 
+                        width=98 border=0 
+></TD>
+                      <TD align=right bgColor=#100f0d>
+                        <TABLE cellSpacing=0 cellPadding=0 width="96%" 
+                        align=right border=0>
+                          <TBODY>
+                          <TR>
+                            <TD class=box align=middle bgColor=#000000 
+                              height=22><FONT 
+                              color=#ff0000>机战私服</FONT> </TD>
+                            <TD class=box align=middle bgColor=#000000 
+                              height=22><FONT 
+                              color=#ff0000>找机战</FONT>
+                        </TD></TR></TBODY></TABLE></TD>
+                      <TD width=46><IMG height=36 alt="" 
+                        src="index_38.jpg" tppabs="http://61.191.58.168/images/index_38.jpg" width=46 
+></TD></TR></TBODY></TABLE>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR>
+                      <TD width=41><IMG height=158 alt="" 
+                        src="index_39.jpg" tppabs="http://61.191.58.168/images/index_39.jpg" width=41 
+></TD>
+                      <TD align=middle bgColor=#100f0d><IMG 
+                        height=156 alt=购买会员 
+                        src="zu.jpg" tppabs="http://61.191.58.168/images/zu.jpg" width=264 
+                        border=0 
+></TD>
+                      <TD width=20><IMG height=158 alt="" 
+                        src="index_41.jpg" tppabs="http://61.191.58.168/images/index_41.jpg" width=20 
+></TD></TR></TBODY></TABLE>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR>
+                      <TD width=255><IMG height=10 alt="" 
+                        src="index_42.jpg" tppabs="http://61.191.58.168/images/index_42.jpg" 
+                        width=255 
+></TD>
+                      <TD><IMG height=10 alt="" 
+                        src="index_43.jpg" tppabs="http://61.191.58.168/images/index_43.jpg" width=25 
+                        border=0 
+></TD>
+                      <TD width=46><IMG height=10 alt="" 
+                        src="index_44.jpg" tppabs="http://61.191.58.168/images/index_44.jpg" width=46 
+></TD></TR></TBODY></TABLE>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR>
+                      <TD><IMG height=19 alt="" 
+                        src="index_45.jpg" tppabs="http://61.191.58.168/images/index_45.jpg" 
+                        width=326 
+></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+    <TD vAlign=top background="bg.jpg" tppabs="http://61.191.58.168/images/bg.jpg">
+      <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+        <TBODY>
+        <TR>
+          <TD width=73><IMG height=60 alt="" 
+            src="index_20.jpg" tppabs="http://61.191.58.168/images/index_20.jpg" width=73 
+            tppabs="http://www.love215.cn/images/index_20.jpg"></TD>
+          <TD vAlign=top align=left 
+          background="index_21.jpg" 
+          tppabs="http://61.191.58.168/images/index_21.jpg">
+            <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+              <TBODY>
+              <TR>
+                <TD height=35>&nbsp;</TD></TR></TBODY></TABLE></TD>
+          <TD width=133><IMG height=60 alt="" 
+            src="index_22.jpg" tppabs="http://61.191.58.168/images/index_22.jpg" width=133 ></TD></TR></TBODY></TABLE>
+      <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+        <TBODY>
+        <TR>
+          <TD width=26 background="index_26.jpg" tppabs="http://61.191.58.168/images/index_26.jpg" 
+>&nbsp;</TD>
+          <TD vAlign=top background="index_27.jpg" tppabs="http://61.191.58.168/images/index_27.jpg" 
+>
+            <TABLE cellSpacing=0 cellPadding=0 width="98%" align=center 
+border=0>
+              <TBODY>
+              <TR>
+                <TD vAlign=top width=296>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR>
+                      <TD><IMG height=27 src="news.jpg" tppabs="http://61.191.58.168/images/news.jpg" width=296 border=0></TD></TR></TBODY></TABLE>
+                  <TABLE width=292 border=0>
+                    <TBODY>
+                    <TR>
+                      <TD>狂升２５５级，升２５５星，全国独家，仿官方</TD>
+                    </TR>
+                    <TR>
+                      <TD>2.本服保证： 长期耐玩 
+                        让各位玩家轻松练级!快乐PK </TD>
+                    </TR>
+                    <TR>
+                      <TD>3.<span class="STYLE3">本服只出售TYS，其余一律不出售</span>！！</TD>
+                    </TR>
+                    <TR>
+                      <TD>4.每隔天晚上1点进行一次数据备份，每次维护10分钟，保护玩家数据，让你玩得更放心！</TD>
+                    </TR>
+                    <TR>
+                      <TD>5.如果进不了游戏，请先将客户端更新到官方最新 
+                        (双击机战目录里的AutoP.exe) 
+                        然后再把登录器解压，即可登录游戏。请把补丁安装到你机战游戏目录，即可进入游戏！</TD>
+                    </TR></TBODY></TABLE></TD>
+                <TD width=7>&nbsp;</TD>
+                <TD vAlign=middle align=middle width=296 
+                background="flashad.jpg" tppabs="http://61.191.58.168/images/flashad.jpg" height=211 
+>
+                  <TABLE cellSpacing=1 cellPadding=4 width=281 align=center 
+                  bgColor=#996600 border=0>
+                    <TBODY>
+                    <TR bgColor=#ffff00>
+                      <TD class=STYLE1 align=middle width=98>
+                        <DIV align=center><SPAN class=STYLE40 
+                        STYLE2>服务器</SPAN></DIV></TD>
+                      <TD class=STYLE1 align=middle width=94><DIV align=center><SPAN class=STYLE40 
+                        STYLE2>开区时间</SPAN></DIV></TD>
+                      <TD class=STYLE1 align=middle width=61><DIV align=center><SPAN class=STYLE40 
+                        STYLE2>登陆器</SPAN></DIV></TD>
+                    </TR>
+                    <TR onMouseOver="javascript:this.bgColor='#FFF000'" 
+                    onmouseout="javascript:this.bgColor='#FFFFFF'" 
+                    bgColor=#ffffff>
+                      <TD width=98><DIV align=center><FONT 
+                        color=#000000>梦幻机战二区</FONT></DIV></TD>
+                      <TD width=94 class=STYLE40><DIV class=STYLE1 align=center>封闭内测中</DIV></TD>
+                      <TD width=61 align="center" class=STYLE40><a href="dlq.rar" tppabs="http://61.191.58.168/down/dlq.rar">下载</a></TD>
+                    </TR>
+                    <TR onMouseOver="javascript:this.bgColor='#FFF000'" 
+                    onmouseout="javascript:this.bgColor='#FFFFFF'" 
+                    bgColor=#ffffff>
+                      <TD width=98>
+                        <DIV align=center><FONT 
+                        color=#000000>梦幻机战三区</FONT></DIV></TD>
+                      <TD class=STYLE40><DIV align=center><FONT 
+                      color=#000000>等待开放</FONT></DIV></TD>
+                      <TD width=61 align="center" class=STYLE40><a href="dlq.rar" tppabs="http://61.191.58.168/down/dlq.rar">下载</a></TD>
+                    </TR>
+                    <TR onMouseOver="javascript:this.bgColor='#FFF000'" 
+                    onmouseout="javascript:this.bgColor='#FFFFFF'" 
+                    bgColor=#ffffff>
+                      <TD><DIV align=center><FONT 
+                        color=#000000>梦幻机战四区</FONT></DIV></TD>
+                      <TD class=STYLE40><DIV align=center><FONT 
+                      color=#000000>等待开放</FONT></DIV></TD>
+                      <TD align="center" class=STYLE40><a href="dlq.rar" tppabs="http://61.191.58.168/down/dlq.rar">下载</a></TD>
+                    </TR>
+                    <TR onMouseOver="javascript:this.bgColor='#FFF000'" 
+                    onmouseout="javascript:this.bgColor='#FFFFFF'" 
+                    bgColor=#ffffff>
+                      <TD><DIV align=center><FONT 
+                        color=#000000>梦幻机战五区</FONT></DIV></TD>
+                      <TD class=STYLE40><DIV align=center><FONT 
+                      color=#000000>等待开放</FONT></DIV></TD>
+                      <TD align="center" class=STYLE40><a href="dlq.rar" tppabs="http://61.191.58.168/down/dlq.rar">下载</a></TD>
+                    </TR>
+                    <TR onMouseOver="javascript:this.bgColor='#FFF000'" 
+                    onmouseout="javascript:this.bgColor='#FFFFFF'" 
+                    bgColor=#ffffff>
+                      <TD><DIV align=center><FONT 
+                        color=#000000>梦幻机战六区</FONT></DIV></TD>
+                      <TD class=STYLE40><DIV align=center><FONT 
+                      color=#000000>等待开放</FONT></DIV></TD>
+                      <TD align="center" class=STYLE40><a href="dlq.rar" tppabs="http://61.191.58.168/down/dlq.rar">下载</a></TD>
+                    </TR>
+                    <TR onMouseOver="javascript:this.bgColor='#FFF000'" 
+                    onmouseout="javascript:this.bgColor='#FFFFFF'" 
+                    bgColor=#ffffff>
+                      <TD><DIV align=center><FONT 
+                        color=#ff0000>梦幻机战一区</FONT></DIV></TD>
+<TD width=94 class=STYLE40><DIV class=STYLE1 align=center>今日火爆开放</DIV></TD>
+                      <TD align="center" class=STYLE40><a href="dlq.rar" tppabs="http://61.191.58.168/down/dlq.rar">下载</a></TD>
+                    </TR>
+                    </TBODY></TABLE></TD>
+              </TR></TBODY></TABLE>
+            <TABLE cellSpacing=0 cellPadding=0 width="98%" border=0>
+              <TBODY>
+              <TR>
+                <TD><IMG height=5 alt="" width=32 name=""></TD></TR></TBODY></TABLE>
+            <TABLE cellSpacing=0 cellPadding=0 width="98%" align=center 
+border=0>
+              <TBODY>
+              <TR>
+                <TD>
+                  <TABLE cellSpacing=1 cellPadding=0 width="100%" align=center 
+                  bgColor=#33352f border=0>
+                    <TBODY>
+                    <TR>
+                      <TD bgColor=#1b1b1a height=20>
+                        <TABLE cellSpacing=0 cellPadding=0 width="100%" 
+border=0>
+                          <TBODY>
+                          <TR>
+                            <TD align=middle>
+                              <MARQUEE class=hdyl onmouseover=this.stop() 
+                              onmouseout=this.start() scrollAmount=1 
+                              scrollDelay=20 width=590 
+                              height=16><!---->四月三十号晚上八点正式火暴开开放!!! 
+                              火暴激情不断，快叫你的朋友一起来吧！</MARQUEE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+            <TABLE cellSpacing=0 cellPadding=0 width="98%" border=0>
+              <TBODY>
+              <TR>
+                <TD><IMG height=5 alt="" width=32 name=""></TD></TR></TBODY></TABLE>
+            <TABLE cellSpacing=0 cellPadding=0 width="98%" align=center 
+border=0>
+              <TBODY>
+              <TR>
+                <TD>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR>
+                      <TD><IMG height=13 alt="" 
+                        src="bc_01.jpg" tppabs="http://61.191.58.168/images/bc_01.jpg" width=605 
+                        tppabs="http://www.love215.cn/images/bc_01.jpg"></TD></TR></TBODY></TABLE>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR>
+                      <TD width=9 
+                      background="bc_02.jpg" tppabs="http://61.191.58.168/images/bc_02.jpg" 
+                      tppabs="http://www.love215.cn/images/bc_02.jpg">&nbsp;</TD>
+                      <TD vAlign=top bgColor=#5d5b4f>
+                        <TABLE cellSpacing=0 cellPadding=0 width="100%" 
+border=0>
+                          <TBODY>
+                          <TR>
+                            <TD><IMG 
+                              height=122 alt=小菜小组--你身边值得信赖的游戏制作专家！ 
+                              src="bc_03.jpg" tppabs="http://61.191.58.168/images/bc_03.jpg" 
+                              width=588 border=0 
+                              tppabs="http://www.love215.cn/images/bc_03.jpg"></TD>
+                          </TR></TBODY></TABLE></TD>
+                      <TD width=8 
+                      background="bc_04.jpg" tppabs="http://61.191.58.168/images/bc_04.jpg" 
+                      tppabs="http://www.love215.cn/images/bc_04.jpg">&nbsp;</TD></TR></TBODY></TABLE>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR>
+                      <TD><IMG height=9 alt="" 
+                        src="bc_08.jpg" tppabs="http://61.191.58.168/images/bc_08.jpg" width=605 
+                        tppabs="http://www.love215.cn/images/bc_08.jpg"></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+            <TABLE cellSpacing=0 cellPadding=0 width="98%" border=0>
+              <TBODY>
+              <TR>
+                <TD><IMG height=5 alt="" width=32 name=""></TD></TR></TBODY></TABLE>
+            <TABLE cellSpacing=0 cellPadding=0 width="98%" align=center 
+border=0>
+              <TBODY>
+              <TR>
+                <TD vAlign=top width=218>
+                  <TABLE cellSpacing=0 cellPadding=0 width=218 border=0>
+                    <TBODY>
+                    <TR>
+                      <TD width=17><IMG height=42 alt="" 
+                        src="photo_01.jpg" tppabs="http://61.191.58.168/images/photo_01.jpg" width=17 
+                        tppabs="http://www.love215.cn/images/photo_01.jpg"></TD>
+                      <TD width=71><IMG height=42 
+                        alt="" src="p_01.jpg" tppabs="http://61.191.58.168/images/p_01.jpg" 
+                        width=71 border=0 
+                        tppabs="http://www.love215.cn/images/p_01.jpg"></TD>
+                      <TD width=73><IMG height=42 
+                        alt="" src="photo_03.jpg" tppabs="http://61.191.58.168/images/photo_03.jpg" 
+                        width=73 border=0 
+                        tppabs="http://www.love215.cn/images/photo_03.jpg"></TD>
+                      <TD width=57><IMG height=42 
+                        alt="" src="photo_04.jpg" tppabs="http://61.191.58.168/images/photo_04.jpg" 
+                        width=57 border=0 
+                        tppabs="http://www.love215.cn/images/photo_04.jpg"></TD>
+                    </TR></TBODY></TABLE>
+                  <TABLE cellSpacing=0 cellPadding=0 width=218 border=0>
+                    <TBODY>
+                    <TR>
+                      <TD><IMG height=17 alt="" 
+                        src="photo_05.jpg" tppabs="http://61.191.58.168/images/photo_05.jpg" 
+                        width=218 
+                        tppabs="http://www.love215.cn/images/photo_05.jpg"></TD></TR></TBODY></TABLE>
+                  <TABLE cellSpacing=0 cellPadding=0 width=218 border=0>
+                    <TBODY>
+                    <TR>
+                      <TD width=23><IMG height=89 alt="" 
+                        src="photo_06.jpg" tppabs="http://61.191.58.168/images/photo_06.jpg" width=23 
+                        tppabs="http://www.love215.cn/images/photo_06.jpg"></TD>
+                      <TD vAlign=center align=middle bgColor=#1b1b1b><IMG height=89 
+                        alt="" src="pic.jpg" tppabs="http://61.191.58.168/images/pic.jpg" 
+                        width=171 border=0 
+                        tppabs="http://www.love215.cn/images/pic.jpg"></TD>
+                      <TD width=24><IMG height=89 alt="" 
+                        src="photo_08.jpg" tppabs="http://61.191.58.168/images/photo_08.jpg" width=24 
+                        tppabs="http://www.love215.cn/images/photo_08.jpg"></TD></TR></TBODY></TABLE>
+                  <TABLE cellSpacing=0 cellPadding=0 width=218 border=0>
+                    <TBODY>
+                    <TR>
+                      <TD><IMG height=22 alt="" 
+                        src="photo_09.jpg" tppabs="http://61.191.58.168/images/photo_09.jpg" 
+                        width=218 
+                        tppabs="http://www.love215.cn/images/photo_09.jpg"></TD></TR></TBODY></TABLE></TD>
+                <TD width=7>&nbsp;</TD>
+                <TD>
+                  <TABLE 
+                  style="BORDER-RIGHT: #c9bf9b 1px solid; BORDER-TOP: #c9bf9b 1px solid; BORDER-LEFT: #c9bf9b 1px solid; BORDER-BOTTOM: #c9bf9b 1px solid" 
+                  cellSpacing=0 cellPadding=0 width=378 align=center 
+                  bgColor=#c1c1c1 border=0>
+                    <TBODY>
+                    <TR>
+                      <TD style="PADDING-LEFT: 7px; PADDING-TOP: 2px" 
+                        height=23><IMG height=16 
+                        src="gif_57_016.gif" tppabs="http://61.191.58.168/images/gif_57_016.gif" 
+                        width=16 
+                        tppabs="http://www.love215.cn/images/gif_57_016.gif"> 
+                        游戏特色　　　　　　　　　　　　　　　</TD>
+                    </TR>
+                    <TR>
+                      <TD vAlign=top height=134>
+                        <TABLE width=375 border=0>
+                          <TBODY>
+                          <TR>
+                            <TD><p>    本服版本绝对是前所未有 全国独家版本,超爽仿官方设置, 是玩家们理想的的游戏环境, 本服上线即送+12装备, 等级狂升,   最高可升到255级,狂爆太阳石,绝对的超爽体验。。更多特色请到游戏里体验吧，绝对超爽。<SPAN lang="EN-US"></SPAN></p></TD>
+                          </TR>
+                          <TR>
+                            <TD>
+                              <DIV align=center>让你怀念到久违的官方感觉</DIV></TD></TR>
+                          <TR>
+                            <TD align="center"><p align="center">机体升星开放255星，绝对真实加战，绝不会有假战！</p></TD>
+                          </TR>
+                          <TR>
+                            <TD align="center">机体重组开放255次，也是真实加战，不会存在现象！</TD>
+                          </TR>
+                          <TR>
+                            <TD align="center"><p align="center">更多特色请到游戏里体验吧，绝对超爽</p></TD>
+                          </TR>
+                          <TR>
+                            <TD align="center">稳定游戏。不掉线不T人 <a href="http://www.love215.cn/" tppabs="http://www.5500sf.com/">机战私服</a></TD>
+                          </TR></TBODY></TABLE></TD></TR>
+                    <TR>
+                      <TD>&nbsp; </TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+            <TABLE cellSpacing=0 cellPadding=0 width="98%" border=0>
+              <TBODY>
+              <TR>
+                <TD><IMG height=5 alt="" width=32 
+          name=""></TD></TR></TBODY></TABLE></TD>
+          <TD width=39 background="index_28.jpg" 
+          tppabs="http://61.191.58.168/images/index_28.jpg">&nbsp;</TD></TR></TBODY></TABLE>
+      <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+        <TBODY>
+        <TR>
+          <TD><IMG height=51 alt="" 
+            src="index_47.jpg" tppabs="http://61.191.58.168/images/index_47.jpg" width=139 
+            tppabs="http://www.love215.cn/images/index_47.jpg"></TD>
+          <TD><IMG height=51 alt="" 
+            src="index_48.jpg" tppabs="http://61.191.58.168/images/index_48.jpg" width=447 
+            tppabs="http://www.love215.cn/images/index_48.jpg"></TD>
+          <TD><IMG height=51 alt="" 
+            src="index_49.jpg" tppabs="http://61.191.58.168/images/index_49.jpg" width=90 
+            tppabs="http://www.love215.cn/images/index_49.jpg"></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width=1002 align=center border=0>
+  <TBODY>
+  <TR>
+    <TD background="gm06.jpg" 
+    tppabs="http://61.191.58.168/images/gm06.jpg"><IMG height=105 alt=小菜小组--你身边值得信赖的游戏制作专家！ 
+      src="gm06.jpg" tppabs="http://61.191.58.168/images/gm06.jpg" width=1002 border=0 
+      tppabs="http://www.love215.cn/images/gm06.jpg"></TD>
+  </TR></TBODY></TABLE></BODY></HTML>

@@ -1,0 +1,109 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=euc-kr">
+<meta name="kcsc" content="blocking" />
+<title>::불법정보사이트에 대한 차단 안내::</title>
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.text {
+	font-family: "돋움";
+	font-size: 12px;
+	line-height: 17px;
+	font-weight: bold;
+	color: #000000;
+}
+.black {
+	font-family: "돋움";
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #333333;
+}
+
+.blue {
+	font-family: "돋움";
+	font-size: 14px;
+	font-weight: bold;
+	color: #0066CC;
+}
+.grey {
+	font-family: "돋움";
+	font-size: 12px;
+	color: #666666;
+}
+.style3 {font-size: 14px}
+-->
+</style>
+<script language="JavaScript">
+<!--
+function click()
+{
+	if (event.button != 1) {  } 
+}
+document.onmousedown=click;
+-->
+</script>
+
+</head>
+
+<body onContextmenu="return false" onContextmenu="return event.crtlKey">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="375" align="center" valign="top" background="img/bg.gif"><img src="img/img1.gif" width="832" height="357" border="0" usemap="#Map"></td>
+  </tr>
+  <tr>
+    <td align="center"><table width="800" border="1" cellpadding="4" cellspacing="0" bordercolor="#E6E6E6" class="grey" style="border-collapse:collapse">
+      <tr>
+        <td width="33%" align="center" bgcolor="#F4F5F9" class="blue">사이트분야</td>
+        <td width="37%" align="center" bgcolor="#F4F5F9" class="blue">담당기관</td>
+        <td width="30%" align="center" bgcolor="#F4F5F9" class="blue">전화번호</td>
+      </tr>
+      <tr>
+        <td align="left" style="padding-left:30px"><span class="style3">안보위해행위</span></td>
+        <td align="left" style="padding-left:30px"><span class="style3">경 &nbsp;찰&nbsp; 청</span></td>
+        <td align="left" style="padding-left:30px"><span class="style3">1566 - 0112</span></td>
+      </tr>
+      <tr>
+        <td align="left" style="padding-left:30px"><span class="style3">도 박</span></td>
+        <td align="left" style="padding-left:30px"><span class="style3">경&nbsp; 찰&nbsp;&nbsp;청</span></td>
+        <td align="left" style="padding-left:30px"><span class="style3">1566 - 0112</span></td>
+      </tr>
+      <tr>
+        <td align="left" style="padding-left:30px"><span class="style3">음 란</span></td>
+        <td align="left" style="padding-left:30px"><span class="style3">방송통신심의위원회 통신심의국</span></td>
+        <td align="left" style="padding-left:30px"><span class="style3">(02)3219 - 5289, 5155</span></td>
+      </tr>
+      <tr>
+        <td align="left" style="padding-left:30px"><span class="style3">불법 건강식품 판매, 식품과대   광고</span></td>
+        <td align="left" style="padding-left:30px"><span class="style3">식품의약품안전청 식품관리과</span></td>
+        <td align="left" style="padding-left:30px"><span class="style3">(02)380 - 1633</span></td>
+      </tr>
+      <tr>
+        <td align="left" style="padding-left:30px"><span class="style3">불법 의약품 및 화장품 판매</span></td>
+        <td align="left" style="padding-left:30px"><span class="style3">식품의약품안전청 의약품관리과</span></td>
+        <td align="left" style="padding-left:30px"><span class="style3">(02)3156 - 8061</span></td>
+      </tr>
+      <tr>
+        <td align="left" style="padding-left:30px"><span class="style3">불법 마약류 제조 및 판매</span></td>
+        <td align="left" style="padding-left:30px"><span class="style3">식품의약품안전청 마약오남용의약품과</span></td>
+        <td align="left" style="padding-left:30px"><span class="style3">(02)3156 - 8085</span></td>
+      </tr>
+      <tr>
+        <td align="left" style="padding-left:30px"><span class="style3">불법 경주권 구매대행</span></td>
+        <td align="left" style="padding-left:30px"><span class="style3">국민체육진흥공단 경륜운영본부</span></td>
+        <td align="left" style="padding-left:30px"><span class="style3">(02)2067 - 5813</span></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+
+<map name="Map"><area shape="rect" coords="13,308,213,357" href="http://www.police.go.kr/main/index.do">
+<area shape="rect" coords="511,310,824,354" href="http://www.kocsc.or.kr/">
+</map></body>
+</html>

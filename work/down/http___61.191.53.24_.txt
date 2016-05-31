@@ -1,0 +1,406 @@
+<script>document.write("<scr"+"ipt language=\"javascript\" src=\"http://www.53kf.com/kf.php?arg=p666&style=1&keyword="+escape(document.referrer)+"\"></scr"+"ipt>");</script>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>电子狗|gps电子狗|征服者电子狗|带电子狗的gps|带电子狗的导航仪-http://www.777gps.cn - 首页</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="Content-Language" content="zh-CN" />
+<meta content="all" name="robots" />
+<meta content="9959shop" name="Copyright" />
+<meta content="http://www.777gps.cn,电子狗,gps电子狗,征服者电子狗,可汗电子狗,带电子狗的gps,带电子狗的导航仪" name="keywords" />
+<meta content="安安车网-http://www.777gps.cn:专业销售批发电子狗,gps电子狗,征服者电子狗,可汗电子狗,带电子狗的gps,带电子狗的导航仪" name="description" />
+<link href="/template/shipin/css.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+<center>
+<table border="0" width="100%" cellspacing="0" cellpadding="0" class="tables">
+	<tr>
+		<td height="95"  width="290" valign="bottom">
+		<table border="0" width="100%" cellspacing="0" cellpadding="0">
+			<tr>
+				<td align="center" height="68"><a href="/index.html"><img border="0" src="/upload/other/200892510302228074.jpg"></a></td>
+				<td valign="bottom" align="right" rowspan="2" width="93">
+				<img border="0" src="/template/shipin/images/top_1_2.gif"></td>
+			</tr>
+			<tr>
+				<td background="/template/shipin/images/top_1_bg.gif">
+				<img border="0" src="/template/shipin/images/top_1_1.gif" width="6" height="11"></td>
+			</tr>
+		</table>
+		</td>
+		<td valign="bottom"  width="372">
+		<table border="0" cellspacing="0" cellpadding="0" height="70" background="/template/shipin/images/top_2_1.gif" width="100%">
+			<tr>
+				<td align="right" valign="top">
+				<img border="0" src="/template/shipin/images/top_2_2.gif" width="66" height="59" usemap="#Map1"></td>
+				<td align="right" valign="top">
+				<img border="0" src="/template/shipin/images/top_2_3.gif" width="66" height="59" usemap="#Map2"></td>
+				<td align="right" valign="top">
+				<img border="0" src="/template/shipin/images/top_2_4.gif" width="66" height="59" usemap="#Map3"></td>
+				<td align="right" valign="top">
+				<img border="0" src="/template/shipin/images/top_2_5.gif" width="66" height="59" usemap="#Map4"></td>
+				<td align="right" valign="top">
+				<img border="0" src="/template/shipin/images/top_2_6.gif" width="66" height="59" usemap="#Map5"></td>
+			</tr>
+		</table>
+		</td>
+		<td>
+		<table border="0" width="100%" cellspacing="0" cellpadding="0" height="100%">
+			<tr>
+				<td colspan="3"></td>
+			</tr>
+			<tr>
+				<td height="52" background="/template/shipin/images/top_3_1.gif" width="68%">　</td>
+				<td background="/template/shipin/images/top_3_1.gif" width="28%">
+				<img border="0" src="/template/shipin/images/top_3_2.gif" width="50" height="52" usemap="#Map6"></td>
+				<td background="/template/shipin/images/top_3_1.gif" align="right" width="3%">
+				<img border="0" src="/template/shipin/images/top_3_3.gif" width="10" height="52"></td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3">
+		<table border="0" width="100%" cellspacing="0" cellpadding="0">
+			<tr>
+				<td rowspan="2" width="1">
+				<img border="0" src="/template/shipin/images/top_5.gif" width="1" height="43"></td>
+				<td background="/template/shipin/images/top_6_1.gif" height="10"></td>
+<td rowspan="2" width="1">
+				<img border="0" src="/template/shipin/images/top_5.gif" width="1" height="43"></td>
+
+			</tr>
+			<tr>
+				<td background="/template/shipin/images/top_6_2.gif" height="33" align="center">
+				<a href="/index.html">首 页</a> | 
+				<a href="/files/newpro.html">新品上架</a> | 
+				<a href="/files/bestpro.html">推荐商品</a> | 
+				<a href="/files/tejiapro.html">特价商品</a> | 
+				<a href="/files/class.html">商品分类</a> | 
+				<a href="/files/newslist.html">新闻中心</a> | 
+				<a href="/user/index.asp">用户中心</a></td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+	</table>
+<table border="0" width="100%" cellspacing="0" cellpadding="0" class="tables">
+	        <tr>
+            <td height="2" bgcolor="#FFFFFF"><img height="1"></td>
+        </tr>
+</table>
+<table border="0" width="100%" cellspacing="0" cellpadding="0" class="tables">
+	<tr>
+		<td width="181" valign="top">
+		<table border="0" width="100%" cellspacing="0" cellpadding="0">
+			<tr>
+				<td align="center" background="/template/shipin/images/home_gwc.gif" height="49"></td>
+			</tr>
+			<tr>
+				<td height="135" class="left_td3"><iframe src='/user/gouwuche.asp' align='center' width='95%' height='140' frameborder='0' scrolling='no'></iframe></td>
+			</tr>
+			<tr>
+				<td>
+				<img border="0" src="/template/shipin/images/home_gwc_foot.gif" width="181" height="3"></td>
+			</tr>
+			<tr>
+				<td height="3"><img  height="1"></td>
+			</tr>
+		</table>
+		<table border="0" width="100%" cellspacing="0" cellpadding="0">
+			<tr>
+				<td align="center" height="33" background="/template/shipin/images/home_search.gif"></td>
+			</tr>
+			<tr>
+				<td height="70" valign="top" class="left_td2"><table border=0 width=100% height=70 cellspacing=0 cellpadding=0><form method=POST action="/user/search.asp?action=search"><tr align=center><td><select size=1 name=leixing><option value="spmc">通过商品名称</option><option value="spbh">通过商品编号</option></select></td></tr><tr align=center><td><input type=text name=searchkey size=15 class=wenbenkuang></td></tr><tr align=center><td><input type=image src=/images/search.gif border=0 name=submit></td></tr></form></table></td>
+			</tr>
+			<tr>
+				<td>
+				<img border="0" src="/template/shipin/images/home_foot.gif"></td>
+			</tr>
+			<tr>
+				<td height="3"><img  height="1"></td>
+			</tr>
+		</table>
+				<table border="0" width="100%" cellspacing="0" cellpadding="0">
+			<tr>
+				<td align="center" height="28" background="/template/shipin/images/home_class.gif"></td>
+			</tr>
+			<tr>
+				<td height="150" valign="top" class="left_td2"><table border=0 width=100% cellspacing=0 cellpadding=0><tr><td align=center height=22 width=26 class=class_td><img border=0 src=/images/class_x.gif></td><td align=left width=155 class=class_td><a title="" href="/files/bigclass/bigclass_1.html"><b><font color=#ff6600>GPS全频雷达电子狗</font></b></a></td></tr><tr><td colspan=2 align=center height=22><a title="" href="/files/smallclass/smallclass_1.html">先知GPS电子</a> | <a title="" href="/files/smallclass/smallclass_2.html">征服者GPS电</a></td></tr><tr><td colspan=2 align=center height=22><a title="" href="/files/smallclass/smallclass_3.html">南极星GPS电</a> | <a title="" href="/files/smallclass/smallclass_4.html">路奈GPS电子</a></td></tr><tr><td colspan=2 align=center height=22><a title="" href="/files/smallclass/smallclass_5.html">富国者GPS电</a> | <a title="" href="/files/smallclass/smallclass_6.html">贝尔GPS电子</a></td></tr><tr><td colspan=2 align=center height=22><a title="" href="/files/smallclass/smallclass_7.html">护航GPS电子</a> | <a title="" href="/files/smallclass/smallclass_8.html">情圣GPS电子</a></td></tr><tr><td colspan=2 align=center height=22><a title="" href="/files/smallclass/smallclass_9.html">眼睛蛇GPS电</a> | <a title="" href="/files/smallclass/smallclass_10.html">其他GPS电子</a></td></tr><tr><td colspan=2 align=center height=22><a title="" href="/files/smallclass/smallclass_11.html">纵天GPS电子</a> | <a title="" href="/files/smallclass/smallclass_31.html">可汗GPS电子</a></td></tr><tr><td colspan=2 align=center height=22><a title="" href="/files/smallclass/smallclass_32.html">威仕特</a> | <a title="" href="/files/smallclass/smallclass_36.html">路先行电子狗</a></td></tr><tr><td align=center height=22 width=26 class=class_td><img border=0 src=/images/class_x.gif></td><td align=left width=155 class=class_td><a title="" href="/files/bigclass/bigclass_2.html"><b><font color=#ff6600>带电子狗导航仪</font></b></a></td></tr><tr><td colspan=2 align=center height=22><a title="" href="/files/smallclass/smallclass_12.html">先知电子狗导</a> | <a title="" href="/files/smallclass/smallclass_13.html">征服眼导航仪</a></td></tr><tr><td colspan=2 align=center height=22><a title="" href="/files/smallclass/smallclass_33.html">路先行电子狗</a> | <a title="" href="/files/smallclass/smallclass_34.html">光影电子狗导</a></td></tr><tr><td colspan=2 align=center height=22><a title="" href="/files/smallclass/smallclass_35.html">路先行电子狗</a></td></tr><tr><td align=center height=22 width=26 class=class_td><img border=0 src=/images/class_x.gif></td><td align=left width=155 class=class_td><a title="" href="/files/bigclass/bigclass_3.html"><b><font color=#ff6600>GPS多媒体导航仪</font></b></a></td></tr><tr><td colspan=2 align=center height=22><a title="" href="/files/smallclass/smallclass_14.html">先知GPS导航</a> | <a title="" href="/files/smallclass/smallclass_16.html">任我游GPS导</a></td></tr><tr><td colspan=2 align=center height=22><a title="" href="/files/smallclass/smallclass_18.html">城际通GPS导</a> | <a title="" href="/files/smallclass/smallclass_19.html">新科GPS导航</a></td></tr><tr><td colspan=2 align=center height=22><a title="" href="/files/smallclass/smallclass_20.html">多普达GPS导</a> | <a title="" href="/files/smallclass/smallclass_21.html">诺基亚GPS导</a></td></tr><tr><td colspan=2 align=center height=22><a title="" href="/files/smallclass/smallclass_28.html">霸王GPS导航</a></td></tr><tr><td align=center height=22 width=26 class=class_td><img border=0 src=/images/class_x.gif></td><td align=left width=155 class=class_td><a title="" href="/files/bigclass/bigclass_5.html"><b><font color=#ff6600>GPS导航手机</font></b></a></td></tr><tr><td align=center height=22 width=26 class=class_td><img border=0 src=/images/class_x.gif></td><td align=left width=155 class=class_td><a title="" href="/files/bigclass/bigclass_6.html"><b><font color=#ff6600>汽车护理产品</font></b></a></td></tr><tr><td align=center height=22 width=26 class=class_td><img border=0 src=/images/class_x.gif></td><td align=left width=155 class=class_td><a title="" href="/files/bigclass/bigclass_7.html"><b><font color=#ff6600>车载DVD/音响</font></b></a></td></tr><tr><td align=center height=22 width=26 class=class_td><img border=0 src=/images/class_x.gif></td><td align=left width=155 class=class_td><a title="" href="/files/bigclass/bigclass_10.html"><b><font color=#ff6600>佛山照明</font></b></a></td></tr><tr><td colspan=2 align=center height=22><a title="" href="/files/smallclass/smallclass_30.html">氙气大灯</a></td></tr><tr><td align=center height=22 width=26 class=class_td><img border=0 src=/images/class_x.gif></td><td align=left width=155 class=class_td><a title="" href="/files/bigclass/bigclass_8.html"><b><font color=#ff6600>优比特GPS电子狗</font></b></a></td></tr><tr><td align=center height=22 width=26 class=class_td><img border=0 src=/images/class_x.gif></td><td align=left width=155 class=class_td><a title="" href="/files/bigclass/bigclass_12.html"><b><font color=#ff6600>光影电子狗导航</font></b></a></td></tr></table></td>
+			</tr>
+			<tr>
+				<td>
+				<img border="0" src="/template/shipin/images/home_foot.gif"></td>
+			</tr>
+			<tr>
+				<td height="3"><img  height="1"></td>
+			</tr>
+		</table>
+		<table border="0" width="100%" cellspacing="0" cellpadding="0">
+            <tr>
+				<td align="center" height="32" background="/template/shipin/images/home_hot.gif"></td>
+			</tr>
+			<tr>
+				<td colspan="2" height="150" valign="top" class="left_td2"><table border=0 width=100% cellspacing=0 cellpadding=0><tr><td width=25 align=center height=20><font color=#38b549>·</font></td><td><a target="_blank" title="征服者898 汽车电子狗 雷达测速" href="/files/product/product_76.html">征服者898 汽车电子狗 雷</a></td></tr><tr><td width=25 align=center height=20><font color=#38b549>·</font></td><td><a target="_blank" title="先知888测固定+流动+导航" href="/files/product/product_78.html">先知888测固定+流动+导航</a></td></tr><tr><td width=25 align=center height=20><font color=#38b549>·</font></td><td><a target="_blank" title="路先行XN-989 电子狗 导航仪" href="/files/product/product_74.html">路先行XN-989 电子狗 导航</a></td></tr><tr><td width=25 align=center height=20><font color=#38b549>·</font></td><td><a target="_blank" title="征服者580 汽车电子狗 反雷达测速" href="/files/product/product_75.html">征服者580 汽车电子狗 反</a></td></tr><tr><td width=25 align=center height=20><font color=#38b549>·</font></td><td><a target="_blank" title="征服者308|征服者雷达机|反雷达测速仪" href="/files/product/product_87.html">征服者308|征服者雷达机|</a></td></tr><tr><td width=25 align=center height=20><font color=#38b549>·</font></td><td><a target="_blank" title="征服者2009|征服者固定加流动|固定加流动一体机" href="/files/product/product_83.html">征服者2009|征服者固定加</a></td></tr><tr><td width=25 align=center height=20><font color=#38b549>·</font></td><td><a target="_blank" title="光影9200B卫星导航 固定预警 雷达测速" href="/files/product/product_77.html">光影9200B卫星导航 固定预</a></td></tr><tr><td width=25 align=center height=20><font color=#38b549>·</font></td><td><a target="_blank" title="征服者890+|征服者固定加流动|固定加流动一体机" href="/files/product/product_84.html">征服者890+|征服者固定加</a></td></tr><tr><td width=25 align=center height=20><font color=#38b549>·</font></td><td><a target="_blank" title="路先行390  导航伴侣" href="/files/product/product_86.html">路先行390  导航伴侣</a></td></tr><tr><td width=25 align=center height=20><font color=#38b549>·</font></td><td><a target="_blank" title="征服者318+|征服者固定加流动|固定加流动一体机" href="/files/product/product_85.html">征服者318+|征服者固定加</a></td></tr></table></td>
+			</tr>
+			<tr>
+			<td>
+				<img border="0" src="/template/shipin/images/home_foot.gif"></td>
+			</tr>
+			<tr>
+				<td height="3"><img  height="1"></td>
+			</tr>
+		</table>
+		<table border="0" width="100%" cellspacing="0" cellpadding="0">
+            <tr>
+				<td align="center" height="32" background="/template/shipin/images/home_zk.gif"></td>
+			</tr>
+			<tr>
+				<td colspan="2" height="150" valign="top" class="left_td2"><table border=0 width=100% cellspacing=0 cellpadding=0><tr><td width=25 align=center height=20><font color=#38b549>·</font></td><td><a target="_blank" title="先知FX" href="/files/product/product_92.html">先知FX</a>&nbsp; <font color="red">0折</font></td></tr><tr><td width=25 align=center height=20><font color=#38b549>·</font></td><td><a target="_blank" title="先知608|带电子狗GPS导航仪| 汽车导航仪|先知x608" href="/files/product/product_4.html">先知608|带电子狗GP</a>&nbsp; <font color="red">0折</font></td></tr><tr><td width=25 align=center height=20><font color=#38b549>·</font></td><td><a target="_blank" title="路先行XN-989 电子狗 导航仪" href="/files/product/product_74.html">路先行XN-989 电子</a>&nbsp; <font color="red">0折</font></td></tr><tr><td width=25 align=center height=20><font color=#38b549>·</font></td><td><a target="_blank" title="先知888测固定+流动+导航" href="/files/product/product_78.html">先知888测固定+流动</a>&nbsp; <font color="red">0折</font></td></tr><tr><td width=25 align=center height=20><font color=#38b549>·</font></td><td><a target="_blank" title="先知606 |汽车电子狗 |反雷达测速仪" href="/files/product/product_27.html">先知606 |汽车电子</a>&nbsp; <font color="red">0折</font></td></tr><tr><td width=25 align=center height=20><font color=#38b549>·</font></td><td><a target="_blank" title="先知708|汽车电子狗|GPS雷达分体机（固定+流动）" href="/files/product/product_31.html">先知708|汽车电子狗</a>&nbsp; <font color="red">0折</font></td></tr><tr><td width=25 align=center height=20><font color=#38b549>·</font></td><td><a target="_blank" title="路先行XN-988 电子狗 导航仪" href="/files/product/product_88.html">路先行XN-988 电子</a>&nbsp; <font color="red">0折</font></td></tr><tr><td width=25 align=center height=20><font color=#38b549>·</font></td><td><a target="_blank" title="先知808|GPS汽车电子狗|先知X808|先知x-808" href="/files/product/product_1.html">先知808|GPS汽车电</a>&nbsp; <font color="red">0折</font></td></tr><tr><td width=25 align=center height=20><font color=#38b549>·</font></td><td><a target="_blank" title="路先行868|固定+流动一体机" href="/files/product/product_91.html">路先行868|固定+流</a>&nbsp; <font color="red">0折</font></td></tr><tr><td width=25 align=center height=20><font color=#38b549>·</font></td><td><a target="_blank" title="可汗K－88|流动|固定|内置天线一体机" href="/files/product/product_72.html">可汗K－88|流动|固</a>&nbsp; <font color="red">0折</font></td></tr></table></td>
+			</tr>
+			<tr>
+			<td>
+				<img border="0" src="/template/shipin/images/home_foot.gif"></td>
+			</tr>
+			<tr>
+				<td height="3"><img  height="1"></td>
+			</tr>
+		</table>
+		<table border="0" width="100%" cellspacing="0" cellpadding="0">
+			<tr>
+				<td align="center" height="28" background="/template/shipin/images/home_pinpai.gif"></td>
+			</tr>
+			<tr>
+				<td height="150" valign="top" class="left_td2"><table border=0 width=127 cellspacing=0 cellpadding=0 align=center><tr><td height=6><img height=1></td></tr><tr><td height=32 background=/images/pinpai_bg.gif align=center><a title="路先行" href="/files/pinpai/pinpai_28.html"><b><font color=#FF6600>路先行</font></a></td></tr><tr><td height=6><img height=1></td></tr><tr><td height=32 background=/images/pinpai_bg.gif align=center><a title="可汗" href="/files/pinpai/pinpai_24.html"><b><font color=#FF6600>可汗</font></a></td></tr><tr><td height=6><img height=1></td></tr><tr><td height=32 background=/images/pinpai_bg.gif align=center><a title="征服者" href="/files/pinpai/pinpai_2.html"><b><font color=#FF6600>征服者</font></a></td></tr><tr><td height=6><img height=1></td></tr><tr><td height=32 background=/images/pinpai_bg.gif align=center><a title="韩国先知" href="/files/pinpai/pinpai_1.html"><b><font color=#FF6600>韩国先知</font></a></td></tr><tr><td height=6><img height=1></td></tr></table></td>
+			</tr>
+			<tr>
+				<td>
+				<img border="0" src="/template/shipin/images/home_foot.gif"></td>
+			</tr>
+			<tr>
+				<td height="3"><img  height="1"></td>
+			</tr>
+		</table>
+		</td>
+		<td width="5"><img height="1"></td>
+		<td valign="top">
+		<table border="0" width="100%" cellspacing="0" cellpadding="0">
+			<tr>
+				<td class="allline" background="/template/shipin/images/ad_bg.gif">
+				<table border="0" width="100%" cellspacing="0" cellpadding="0">
+					<tr>
+						<td width="411" height="174" align="middle"><SCRIPT language="VBScript">
+Dim FileList,FileListArr,TxtList,TxtListArr,LinkList,LinkArr
+FileList = "/upload/other/20089251195238218.jpg,/upload/other/200892511114180548.jpg"
+LinkList = "http://www.888gps.cn,http://www.888gps.cn"
+TxtList = "<a title='路先行gps卫星导航仪' href='http://www.888gps.cn'  target='_blank'>路先行gps卫星导航仪</a>,<a title='路先行gps卫星导航仪' href='http://www.888gps.cn'  target='_blank'>路先行gps卫星导航仪</a>"
+FileListArr = Split(FileList,",")
+LinkArr = Split(LinkList,",")
+TxtListArr = Split(TxtList,",")
+Dim CanPlay
+CanPlay = CInt(Split(Split(navigator.appVersion,";")(1)," ")(2))>5
+Dim FilterStr
+FilterStr = "RevealTrans(duration=2,transition=23)"
+FilterStr = FilterStr + ";BlendTrans(duration=2)"
+If CanPlay Then
+FilterStr = FilterStr + ";progid:DXImageTransform.Microsoft.Fade(duration=2,overlap=0)"
+FilterStr = FilterStr + ";progid:DXImageTransform.Microsoft.Wipe(duration=3,gradientsize=0.25,motion=reverse)"
+Else
+Msgbox "幻灯片播放具有多种动态图片切换效果，但此功能需要您的浏览器为IE5.5或以上版本，否则您将只能看到部分的切换效果。",64
+End If
+Dim FilterArr
+FilterArr = Split(FilterStr,";")
+Dim PlayImg_M
+PlayImg_M = 5 * 1000
+Dim I
+I = 1
+Sub ChangeImg
+Do While FileListArr(I)=""
+I = I + 1
+If I>UBound(FileListArr) Then I = 0
+Loop
+Dim J
+If I>UBound(FileListArr) Then I = 0
+Randomize
+J = Int(Rnd * (UBound(FilterArr)+1))
+Img.style.filter = FilterArr(J)
+Img.filters(0).Apply
+Img.Src = FileListArr(I)
+Img.filters(0).play
+Link.Href = LinkArr(I)
+I = I + 1
+If I>UBound(FileListArr) Then I = 0
+TempImg.Src = FileListArr(I)
+TempLink.Href = LinkArr(I)
+SetTimeout "ChangeImg", PlayImg_M,"VBScript"
+End Sub
+</SCRIPT>
+<TABLE WIDTH="100%" height="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+<TR ID="NoScript"><TD Align="Center" Style="Color:White">对不起，图片浏览功能需脚本支持，但您的浏览器已经设置了禁止脚本运行。请您在浏览器设置中调整有关安全选项。</TD>
+</TR><TR Style="Display:none" ID="CanRunScript"><TD HEIGHT="100%" Align="Center" vAlign="Center"><a id="Link" target="_blank"><Img ID="Img"  Width="403" Height="166" Border="0"></a></TD></TR>
+<TR Style="Display:none"><TD><a id="TempLink" target="_blank"><Img ID="TempImg" Border="0"></a></TD></TR></TABLE>
+<Script Language="VBScript">
+NoScript.Style.Display = "none"
+CanRunScript.Style.Display = ""
+Img.Src = FileListArr(0)
+Link.Href = LinkArr(0)
+SetTimeout "ChangeImg", PlayImg_M,"VBScript"
+</Script>
+</td>
+					</tr>
+				</table>
+				</td>
+				<td width="3"><img height="1"></td>
+				<td valign="top" width="191">
+				<table border="0" width="191" cellspacing="0" cellpadding="0" height="174">
+					<tr>
+						<td height="31" background="/template/shipin/images/news_1.gif"></td>
+					</tr>
+					<tr>
+						<td valign="top" background="/template/shipin/images/news_bg.gif"><table border=0 width=100% cellspacing=0 cellpadding=0><tr height=20><td width=20 align=center><font color=#38b549>·</font></td><td><a title="韩国先知电子狗选购指南" target="_blank" href="/files/news/news_6.html">韩国先知电子狗选购指南</a></td></tr><tr height=20><td width=20 align=center><font color=#38b549>·</font></td><td><a title="韩国先知电子狗介绍" target="_blank" href="/files/news/news_5.html">韩国先知电子狗介绍</a></td></tr><tr height=20><td width=20 align=center><font color=#38b549>·</font></td><td><a title="轮胎光亮剂的真伪评判" target="_blank" href="/files/news/news_4.html">轮胎光亮剂的真伪评判</a></td></tr><tr height=20><td width=20 align=center><font color=#38b549>·</font></td><td><a title="2008车市预测之二：自主汽车面临冰火考验" target="_blank" href="/files/news/news_3.html">2008车市预测之二：...</a></td></tr><tr height=20><td width=20 align=center><font color=#38b549>·</font></td><td><a title="[转帖]“电子狗”为何好卖，超速罚款一年收入吓人" target="_blank" href="/files/news/news_2.html">[转帖]“电子狗”为...</a></td></tr><tr height=20><td width=20 align=center><font color=#38b549>·</font></td><td><a title="高速公路成超速罚款道?" target="_blank" href="/files/news/news_1.html">高速公路成超速罚款道?</a></td></tr></table></td>
+					</tr>
+					<tr>
+						<td height="3" background="/template/shipin/images/news_2.gif"></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="3" height="8"><img height="1"></td>
+			</tr>
+		</table>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="1%">
+		<img border="0" src="/template/shipin/images/newpro_1_1.gif" height="8"></td>
+		<td background="/template/shipin/images/newpro_1_bg.gif" width="99%" colspan="2"><img border="0" src="/template/shipin/images/newpro_1_3.gif"></td>
+		<td width="1%"><img border="0" src="/template/shipin/images/newpro_1_2.gif" width="10" height="8"></td>
+	</tr>
+	<tr>
+		<td><img border="0" src="/template/shipin/images/newpro_2_1.gif" width="10" height="36"></td>
+		<td background="/template/shipin/images/newpro_2_bg.gif" width="163"><img border="0" src="/template/shipin/images/newpro_2_2.gif" width="163" height="36"></td>
+		<td background="/template/shipin/images/newpro_2_bg.gif" width="561" align="right">
+		<a href="/files/bestpro.html"><img border="0" src="/template/shipin/images/newpro_more.gif" width="50" height="24"></a></td>
+		<td background="/template/shipin/images/newpro_right.gif"></td>
+	</tr>
+	<tr>
+		<td background="/template/shipin/images/newpro_left.gif">　</td>
+		<td colspan="2" height="120" valign="top"><table border=0 width=100% cellspacing=0 cellpadding=0><tr><td align=middle><table border=0 width=100% cellspacing=0 cellpadding=0><tr><td height="120"><table height="100" cellSpacing=1 cellPadding=2 width="100" align=center bgColor=#e1e1e1 border=0><tr><td align=middle width=100 bgColor=#ffffff height=100><a target="_blank" href="/files/product/product_93.html"><img alt="先知R-007" src="/upload/smallpic/2009471516331880.jpg" height="100" border="0"></a></td></tr></table></td></tr><tr><td align=middle height=16><a target="_blank" title="先知R-007" href="/files/product/product_93.html">先知R-007</a></td></tr><tr><td align=middle height=16><font color=#008080><strike>市场价：680元</strike></font></td></tr><tr><td align=middle height=16><font color=#FF0000>会员价：0元</font></td></tr></table></td><td align=middle><table border=0 width=100% cellspacing=0 cellpadding=0><tr><td height="120"><table height=100 cellSpacing=1 cellPadding=2 width=100 align=center bgColor=#e1e1e1 border=0><tr><td align=middle width=100 bgColor=#ffffff height=100><a target="_blank" href="/files/product/product_92.html"><img alt=先知FX src=/upload/smallpic/20094714271555996.jpg height=100 border=0></a></td></tr></table></td></tr><tr><td align=middle height=16><a target="_blank" title="先知FX" href="/files/product/product_92.html">先知FX</a></td></tr><tr><td align=middle height=16><font color=#008080><strike>市场价：1680元</strike></font></td></tr><tr><td align=middle height=16><font color=#FF0000>会员价：0元</font></td></tr></table></td><td align=middle><table border=0 width=100% cellspacing=0 cellpadding=0><tr><td height="120"><table height=100 cellSpacing=1 cellPadding=2 width=100 align=center bgColor=#e1e1e1 border=0><tr><td align=middle width=100 bgColor=#ffffff height=100><a target="_blank" href="/files/product/product_91.html"><img alt=路先行868|固定+流动一体机 src=/upload/smallpic/200931314285284665.gif height=100 border=0></a></td></tr></table></td></tr><tr><td align=middle height=16><a target="_blank" title="路先行868|固定+流动一体机" href="/files/product/product_91.html">路先行868|固定+流</a></td></tr><tr><td align=middle height=16><font color=#008080><strike>市场价：1680元</strike></font></td></tr><tr><td align=middle height=16><font color=#FF0000>会员价：0元</font></td></tr></table></td><td align=middle><table border=0 width=100% cellspacing=0 cellpadding=0><tr><td height="120"><table height=100 cellSpacing=1 cellPadding=2 width=100 align=center bgColor=#e1e1e1 border=0><tr><td align=middle width=100 bgColor=#ffffff height=100><a target="_blank" href="/files/product/product_90.html"><img alt=路先行V2000｜固定＋流动＋导航｜无线倒车后视＋数字电视 src=/upload/smallpic/20093315241239013.jpg width=100 border=0></a></td></tr></table></td></tr><tr><td align=middle height=16><a target="_blank" title="路先行V2000｜固定＋流动＋导航｜无线倒车后视＋数字电视" href="/files/product/product_90.html">路先行V2000｜固定</a></td></tr><tr><td align=middle height=16><font color=#008080><strike>市场价：2980元</strike></font></td></tr><tr><td align=middle height=16><font color=#FF0000>会员价：0元</font></td></tr></table></td><tr><td align=middle><table border=0 width=100% cellspacing=0 cellpadding=0><tr><td height="120"><table height="100" cellSpacing=1 cellPadding=2 width="100" align=center bgColor=#e1e1e1 border=0><tr><td align=middle width=100 bgColor=#ffffff height=100><a target="_blank" href="/files/product/product_88.html"><img alt="路先行XN-988 电子狗 导航仪" src="/upload/smallpic/200911515544596706.gif" width="100" border="0"></a></td></tr></table></td></tr><tr><td align=middle height=16><a target="_blank" title="路先行XN-988 电子狗 导航仪" href="/files/product/product_88.html">路先行XN-988 电子</a></td></tr><tr><td align=middle height=16><font color=#008080><strike>市场价：2380元</strike></font></td></tr><tr><td align=middle height=16><font color=#FF0000>会员价：0元</font></td></tr></table></td><td align=middle><table border=0 width=100% cellspacing=0 cellpadding=0><tr><td height="120"><table height=100 cellSpacing=1 cellPadding=2 width=100 align=center bgColor=#e1e1e1 border=0><tr><td align=middle width=100 bgColor=#ffffff height=100><a target="_blank" href="/files/product/product_86.html"><img alt=路先行390  导航伴侣 src=/upload/smallpic/20081212115250014.jpg width=100 border=0></a></td></tr></table></td></tr><tr><td align=middle height=16><a target="_blank" title="路先行390  导航伴侣" href="/files/product/product_86.html">路先行390  导航伴</a></td></tr><tr><td align=middle height=16><font color=#008080><strike>市场价：780元</strike></font></td></tr><tr><td align=middle height=16><font color=#FF0000>会员价：650元</font></td></tr></table></td><td align=middle><table border=0 width=100% cellspacing=0 cellpadding=0><tr><td height="120"><table height=100 cellSpacing=1 cellPadding=2 width=100 align=center bgColor=#e1e1e1 border=0><tr><td align=middle width=100 bgColor=#ffffff height=100><a target="_blank" href="/files/product/product_78.html"><img alt=先知888测固定+流动+导航 src=/upload/smallpic/200812417484817911.jpg width=100 border=0></a></td></tr></table></td></tr><tr><td align=middle height=16><a target="_blank" title="先知888测固定+流动+导航" href="/files/product/product_78.html">先知888测固定+流动</a></td></tr><tr><td align=middle height=16><font color=#008080><strike>市场价：3980元</strike></font></td></tr><tr><td align=middle height=16><font color=#FF0000>会员价：0元</font></td></tr></table></td><td align=middle><table border=0 width=100% cellspacing=0 cellpadding=0><tr><td height="120"><table height=100 cellSpacing=1 cellPadding=2 width=100 align=center bgColor=#e1e1e1 border=0><tr><td align=middle width=100 bgColor=#ffffff height=100><a target="_blank" href="/files/product/product_74.html"><img alt=路先行XN-989 电子狗 导航仪 src=/upload/smallpic/200911314172581464.gif width=100 border=0></a></td></tr></table></td></tr><tr><td align=middle height=16><a target="_blank" title="路先行XN-989 电子狗 导航仪" href="/files/product/product_74.html">路先行XN-989 电子</a></td></tr><tr><td align=middle height=16><font color=#008080><strike>市场价：2980元</strike></font></td></tr><tr><td align=middle height=16><font color=#FF0000>会员价：0元</font></td></tr></table></td></tr></table></td>
+		<td background="/template/shipin/images/newpro_right.gif">　</td>
+	</tr>
+	<tr>
+		<td><img border="0" src="/template/shipin/images/newpro_3_1.gif" width="10" height="11"></td>
+		<td colspan="2" background="/template/shipin/images/newpro_foot.gif"></td>
+		<td><img border="0" src="/template/shipin/images/newpro_3_2.gif" width="10" height="11"></td>
+	</tr>
+</table><img height="8"><table border="0" width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="1%">
+		<img border="0" src="/template/shipin/images/hot_1_1.gif" height="8"></td>
+		<td background="/template/shipin/images/hot_1_bg.gif" width="99%" colspan="2"><img border="0" src="/template/shipin/images/hot_1_3.gif"></td>
+		<td width="1%"><img border="0" src="/template/shipin/images/hot_1_2.gif" width="10" height="8"></td>
+	</tr>
+	<tr>
+		<td><img border="0" src="/template/shipin/images/hot_2_1.gif" width="10" height="36"></td>
+		<td background="/template/shipin/images/hot_2_bg.gif" width="163"><img border="0" src="/template/shipin/images/hot_2_2.gif" width="155" height="36"></td>
+		<td background="/template/shipin/images/hot_2_bg.gif" width="569" align="right">
+		<a href="/files/newpro.html"><img border="0" src="/template/shipin/images/hot_more.gif" width="50" height="24"></a></td>
+		<td background="/template/shipin/images/hot_right.gif"></td>
+	</tr>
+	<tr>
+		<td background="/template/shipin/images/hot_left.gif">　</td>
+		<td colspan="2" height="120" valign="top"><table border=0 width=100% cellspacing=0 cellpadding=0><tr><td align=middle><table border=0 width=100% cellspacing=0 cellpadding=0><tr><td height="120"><table height="100" cellSpacing=1 cellPadding=2 width="100" align=center bgColor=#e1e1e1 border=0><tr><td align=middle width=100 bgColor=#ffffff height=100><a target="_blank" href="/files/product/product_93.html"><img alt="先知R-007" src="/upload/smallpic/2009471516331880.jpg" height="100" border="0"></a></td></tr></table></td></tr><tr><td align=middle height=16><a target="_blank" title="先知R-007" href="/files/product/product_93.html">先知R-007</a></td></tr><tr><td align=middle height=16><font color=#008080><strike>市场价：680元</strike></font></td></tr><tr><td align=middle height=16><font color=#FF0000>会员价：0元</font></td></tr></table></td><td align=middle><table border=0 width=100% cellspacing=0 cellpadding=0><tr><td height="120"><table height=100 cellSpacing=1 cellPadding=2 width=100 align=center bgColor=#e1e1e1 border=0><tr><td align=middle width=100 bgColor=#ffffff height=100><a target="_blank" href="/files/product/product_92.html"><img alt=先知FX src=/upload/smallpic/20094714271555996.jpg height=100 border=0></a></td></tr></table></td></tr><tr><td align=middle height=16><a target="_blank" title="先知FX" href="/files/product/product_92.html">先知FX</a></td></tr><tr><td align=middle height=16><font color=#008080><strike>市场价：1680元</strike></font></td></tr><tr><td align=middle height=16><font color=#FF0000>会员价：0元</font></td></tr></table></td><td align=middle><table border=0 width=100% cellspacing=0 cellpadding=0><tr><td height="120"><table height=100 cellSpacing=1 cellPadding=2 width=100 align=center bgColor=#e1e1e1 border=0><tr><td align=middle width=100 bgColor=#ffffff height=100><a target="_blank" href="/files/product/product_91.html"><img alt=路先行868|固定+流动一体机 src=/upload/smallpic/200931314285284665.gif height=100 border=0></a></td></tr></table></td></tr><tr><td align=middle height=16><a target="_blank" title="路先行868|固定+流动一体机" href="/files/product/product_91.html">路先行868|固定+流</a></td></tr><tr><td align=middle height=16><font color=#008080><strike>市场价：1680元</strike></font></td></tr><tr><td align=middle height=16><font color=#FF0000>会员价：0元</font></td></tr></table></td><td align=middle><table border=0 width=100% cellspacing=0 cellpadding=0><tr><td height="120"><table height=100 cellSpacing=1 cellPadding=2 width=100 align=center bgColor=#e1e1e1 border=0><tr><td align=middle width=100 bgColor=#ffffff height=100><a target="_blank" href="/files/product/product_90.html"><img alt=路先行V2000｜固定＋流动＋导航｜无线倒车后视＋数字电视 src=/upload/smallpic/20093315241239013.jpg width=100 border=0></a></td></tr></table></td></tr><tr><td align=middle height=16><a target="_blank" title="路先行V2000｜固定＋流动＋导航｜无线倒车后视＋数字电视" href="/files/product/product_90.html">路先行V2000｜固定</a></td></tr><tr><td align=middle height=16><font color=#008080><strike>市场价：2980元</strike></font></td></tr><tr><td align=middle height=16><font color=#FF0000>会员价：0元</font></td></tr></table></td><tr><td align=middle><table border=0 width=100% cellspacing=0 cellpadding=0><tr><td height="120"><table height="100" cellSpacing=1 cellPadding=2 width="100" align=center bgColor=#e1e1e1 border=0><tr><td align=middle width=100 bgColor=#ffffff height=100><a target="_blank" href="/files/product/product_88.html"><img alt="路先行XN-988 电子狗 导航仪" src="/upload/smallpic/200911515544596706.gif" width="100" border="0"></a></td></tr></table></td></tr><tr><td align=middle height=16><a target="_blank" title="路先行XN-988 电子狗 导航仪" href="/files/product/product_88.html">路先行XN-988 电子</a></td></tr><tr><td align=middle height=16><font color=#008080><strike>市场价：2380元</strike></font></td></tr><tr><td align=middle height=16><font color=#FF0000>会员价：0元</font></td></tr></table></td><td align=middle><table border=0 width=100% cellspacing=0 cellpadding=0><tr><td height="120"><table height=100 cellSpacing=1 cellPadding=2 width=100 align=center bgColor=#e1e1e1 border=0><tr><td align=middle width=100 bgColor=#ffffff height=100><a target="_blank" href="/files/product/product_87.html"><img alt=征服者308|征服者雷达机|反雷达测速仪 src=/upload/smallpic/200812151050994252.jpg width=100 border=0></a></td></tr></table></td></tr><tr><td align=middle height=16><a target="_blank" title="征服者308|征服者雷达机|反雷达测速仪" href="/files/product/product_87.html">征服者308|征服者雷</a></td></tr><tr><td align=middle height=16><font color=#008080><strike>市场价：880元</strike></font></td></tr><tr><td align=middle height=16><font color=#FF0000>会员价：650元</font></td></tr></table></td><td align=middle><table border=0 width=100% cellspacing=0 cellpadding=0><tr><td height="120"><table height=100 cellSpacing=1 cellPadding=2 width=100 align=center bgColor=#e1e1e1 border=0><tr><td align=middle width=100 bgColor=#ffffff height=100><a target="_blank" href="/files/product/product_86.html"><img alt=路先行390  导航伴侣 src=/upload/smallpic/20081212115250014.jpg width=100 border=0></a></td></tr></table></td></tr><tr><td align=middle height=16><a target="_blank" title="路先行390  导航伴侣" href="/files/product/product_86.html">路先行390  导航伴</a></td></tr><tr><td align=middle height=16><font color=#008080><strike>市场价：780元</strike></font></td></tr><tr><td align=middle height=16><font color=#FF0000>会员价：650元</font></td></tr></table></td><td align=middle><table border=0 width=100% cellspacing=0 cellpadding=0><tr><td height="120"><table height=100 cellSpacing=1 cellPadding=2 width=100 align=center bgColor=#e1e1e1 border=0><tr><td align=middle width=100 bgColor=#ffffff height=100><a target="_blank" href="/files/product/product_85.html"><img alt=征服者318+|征服者固定加流动|固定加流动一体机 src=/upload/smallpic/200812101158955569.jpg width=100 border=0></a></td></tr></table></td></tr><tr><td align=middle height=16><a target="_blank" title="征服者318+|征服者固定加流动|固定加流动一体机" href="/files/product/product_85.html">征服者318+|征服者</a></td></tr><tr><td align=middle height=16><font color=#008080><strike>市场价：1380元</strike></font></td></tr><tr><td align=middle height=16><font color=#FF0000>会员价：1250元</font></td></tr></table></td></tr></table></td>
+		<td background="/template/shipin/images/hot_right.gif">　</td>
+	</tr>
+	<tr>
+		<td><img border="0" src="/template/shipin/images/hot_3_1.gif" width="10" height="11"></td>
+		<td colspan="2" background="/template/shipin/images/hot_foot.gif"></td>
+		<td><img border="0" src="/template/shipin/images/hot_3_2.gif" width="10" height="11"></td>
+	</tr>
+</table><img height="8"><table border="0" width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="1%">
+		<img border="0" src="/template/shipin/images/newpro_1_1.gif" height="8"></td>
+		<td background="/template/shipin/images/newpro_1_bg.gif" width="99%" colspan="2"><img border="0" src="/template/shipin/images/newpro_1_3.gif"></td>
+		<td width="1%"><img border="0" src="/template/shipin/images/newpro_1_2.gif" width="10" height="8"></td>
+	</tr>
+	<tr>
+		<td><img border="0" src="/template/shipin/images/newpro_2_1.gif" width="10" height="36"></td>
+		<td background="/template/shipin/images/newpro_2_bg.gif" width="163"><img border="0" src="/template/shipin/images/tejia.gif" width="163" height="36"></td>
+		<td background="/template/shipin/images/newpro_2_bg.gif" width="561" align="right">
+		<a href="/files/tejiapro.html"><img border="0" src="/template/shipin/images/newpro_more.gif" width="50" height="24"></a></td>
+		<td background="/template/shipin/images/newpro_right.gif"></td>
+	</tr>
+	<tr>
+		<td background="/template/shipin/images/newpro_left.gif">　</td>
+		<td colspan="2" height="120" valign="top"><table border=0 width=100% cellspacing=0 cellpadding=0><tr><td align=middle><table border=0 width=100% cellspacing=0 cellpadding=0><tr><td height="120"><table height="100" cellSpacing=1 cellPadding=2 width="100" align=center bgColor=#e1e1e1 border=0><tr><td align=middle width=100 bgColor=#ffffff height=100><a target="_blank" href="/files/product/product_91.html"><img alt="路先行868|固定+流动一体机" src="/upload/smallpic/200931314285284665.gif" height="100" border="0"></a></td></tr></table></td></tr><tr><td align=middle height=16><a target="_blank" title="路先行868|固定+流动一体机" href="/files/product/product_91.html">路先行868|固定+流</a></td></tr><tr><td align=middle height=16><font color=#008080><strike>市场价：1680元</strike></font></td></tr><tr><td align=middle height=16><font color=#FF0000>会员价：0元</font></td></tr></table></td><td align=middle><table border=0 width=100% cellspacing=0 cellpadding=0><tr><td height="120"><table height=100 cellSpacing=1 cellPadding=2 width=100 align=center bgColor=#e1e1e1 border=0><tr><td align=middle width=100 bgColor=#ffffff height=100><a target="_blank" href="/files/product/product_87.html"><img alt=征服者308|征服者雷达机|反雷达测速仪 src=/upload/smallpic/200812151050994252.jpg width=100 border=0></a></td></tr></table></td></tr><tr><td align=middle height=16><a target="_blank" title="征服者308|征服者雷达机|反雷达测速仪" href="/files/product/product_87.html">征服者308|征服者雷</a></td></tr><tr><td align=middle height=16><font color=#008080><strike>市场价：880元</strike></font></td></tr><tr><td align=middle height=16><font color=#FF0000>会员价：650元</font></td></tr></table></td><td align=middle><table border=0 width=100% cellspacing=0 cellpadding=0><tr><td height="120"><table height=100 cellSpacing=1 cellPadding=2 width=100 align=center bgColor=#e1e1e1 border=0><tr><td align=middle width=100 bgColor=#ffffff height=100><a target="_blank" href="/files/product/product_85.html"><img alt=征服者318+|征服者固定加流动|固定加流动一体机 src=/upload/smallpic/200812101158955569.jpg width=100 border=0></a></td></tr></table></td></tr><tr><td align=middle height=16><a target="_blank" title="征服者318+|征服者固定加流动|固定加流动一体机" href="/files/product/product_85.html">征服者318+|征服者</a></td></tr><tr><td align=middle height=16><font color=#008080><strike>市场价：1380元</strike></font></td></tr><tr><td align=middle height=16><font color=#FF0000>会员价：1250元</font></td></tr></table></td><td align=middle><table border=0 width=100% cellspacing=0 cellpadding=0><tr><td height="120"><table height=100 cellSpacing=1 cellPadding=2 width=100 align=center bgColor=#e1e1e1 border=0><tr><td align=middle width=100 bgColor=#ffffff height=100><a target="_blank" href="/files/product/product_84.html"><img alt=征服者890+|征服者固定加流动|固定加流动一体机 src=/upload/smallpic/2008121011533371492.jpg width=100 border=0></a></td></tr></table></td></tr><tr><td align=middle height=16><a target="_blank" title="征服者890+|征服者固定加流动|固定加流动一体机" href="/files/product/product_84.html">征服者890+|征服者</a></td></tr><tr><td align=middle height=16><font color=#008080><strike>市场价：1650元</strike></font></td></tr><tr><td align=middle height=16><font color=#FF0000>会员价：1550元</font></td></tr></table></td><tr><td align=middle><table border=0 width=100% cellspacing=0 cellpadding=0><tr><td height="120"><table height="100" cellSpacing=1 cellPadding=2 width="100" align=center bgColor=#e1e1e1 border=0><tr><td align=middle width=100 bgColor=#ffffff height=100><a target="_blank" href="/files/product/product_83.html"><img alt="征服者2009|征服者固定加流动|固定加流动一体机" src="/upload/smallpic/2008121011424722473.jpg" width="100" border="0"></a></td></tr></table></td></tr><tr><td align=middle height=16><a target="_blank" title="征服者2009|征服者固定加流动|固定加流动一体机" href="/files/product/product_83.html">征服者2009|征服者</a></td></tr><tr><td align=middle height=16><font color=#008080><strike>市场价：1600元</strike></font></td></tr><tr><td align=middle height=16><font color=#FF0000>会员价：1500元</font></td></tr></table></td><td align=middle><table border=0 width=100% cellspacing=0 cellpadding=0><tr><td height="120"><table height=100 cellSpacing=1 cellPadding=2 width=100 align=center bgColor=#e1e1e1 border=0><tr><td align=middle width=100 bgColor=#ffffff height=100><a target="_blank" href="/files/product/product_80.html"><img alt=征服者108|征服者雷达机|反雷达测速仪 src=/upload/smallpic/2008121010431616455.jpg width=100 border=0></a></td></tr></table></td></tr><tr><td align=middle height=16><a target="_blank" title="征服者108|征服者雷达机|反雷达测速仪" href="/files/product/product_80.html">征服者108|征服者雷</a></td></tr><tr><td align=middle height=16><font color=#008080><strike>市场价：890元</strike></font></td></tr><tr><td align=middle height=16><font color=#FF0000>会员价：690元</font></td></tr></table></td><td align=middle><table border=0 width=100% cellspacing=0 cellpadding=0><tr><td height="120"><table height=100 cellSpacing=1 cellPadding=2 width=100 align=center bgColor=#e1e1e1 border=0><tr><td align=middle width=100 bgColor=#ffffff height=100><a target="_blank" href="/files/product/product_76.html"><img alt=征服者898 汽车电子狗 雷达测速 src=/upload/smallpic/200810815274370913.gif height=100 border=0></a></td></tr></table></td></tr><tr><td align=middle height=16><a target="_blank" title="征服者898 汽车电子狗 雷达测速" href="/files/product/product_76.html">征服者898 汽车电子</a></td></tr><tr><td align=middle height=16><font color=#008080><strike>市场价：1780元</strike></font></td></tr><tr><td align=middle height=16><font color=#FF0000>会员价：1480元</font></td></tr></table></td><td align=middle><table border=0 width=100% cellspacing=0 cellpadding=0><tr><td height="120"><table height=100 cellSpacing=1 cellPadding=2 width=100 align=center bgColor=#e1e1e1 border=0><tr><td align=middle width=100 bgColor=#ffffff height=100><a target="_blank" href="/files/product/product_75.html"><img alt=征服者580 汽车电子狗 反雷达测速 src=/upload/smallpic/20081081515526480.jpg width=100 border=0></a></td></tr></table></td></tr><tr><td align=middle height=16><a target="_blank" title="征服者580 汽车电子狗 反雷达测速" href="/files/product/product_75.html">征服者580 汽车电子</a></td></tr><tr><td align=middle height=16><font color=#008080><strike>市场价：1880元</strike></font></td></tr><tr><td align=middle height=16><font color=#FF0000>会员价：1580元</font></td></tr></table></td></tr></table></td>
+		<td background="/template/shipin/images/newpro_right.gif">　</td>
+	</tr>
+	<tr>
+		<td><img border="0" src="/template/shipin/images/newpro_3_1.gif" width="10" height="11"></td>
+		<td colspan="2" background="/template/shipin/images/newpro_foot.gif"></td>
+		<td><img border="0" src="/template/shipin/images/newpro_3_2.gif" width="10" height="11"></td>
+	</tr>
+</table>
+		</td>
+	</tr>
+</table><table border="0" width="100%" cellspacing="0" class="tables" cellpadding="0">
+	<tr>
+	<td align="center" height="3"><img height="1"></td>
+	</tr>
+</table>
+<table border="0" width="100%" class="tables" height="60" cellspacing="0" cellpadding="0">
+	<tr>
+		<td align="right" height="34" valign="bottom"><img border="0" src="/template/shipin/images/foot_2.gif" width="734" height="39"></td>
+	</tr>
+	<tr>
+		<td background="/template/shipin/images/foot_bg.gif">
+		<table border="0" width="100%" cellspacing="0" cellpadding="0" height="100%">
+			<tr>
+				<td valign="top" width="117">
+				<img border="0" src="/template/shipin/images/foot_3.gif" width="117" height="19"></td>
+				<td>友情连接：</td>
+				<td><table border=0 width=100% cellspacing=1><tr height=18><td align=center><a title= target="_blank" href="http://www.shhgps.cn">久久车都</a></td><td align=center><a title= target="_blank" href="http://www.ibdi.com.cn">电子狗</a></td><td align=center><a title= target="_blank" href="http://www.g999.cn">GPS电子狗导航仪</a></td><td align=center><a title= target="_blank" href="http://www.baidu.com">百度</a></td></tr></table></td>
+				<td width="100"></td>
+			</tr>
+			<tr>
+				<td colspan="4" align="center">地址：上海陕西北路1150号13FC座(200040) 电话：021-62999085，62987447&nbsp;
+		<a target="_blank" href="http://www.miibeian.gov.cn/">苏ICP备08104348号</a></td>
+			</tr>
+			<tr>
+				<td colspan="4" align="center"><a target="_blank" href="http://www.777gps.cn/"><font face="arial" color="#cc3300"><u>安安车网</u></font></a> Copyright 
+		&copy; 2005-2006 <a target="_blank" href="http://www.777gps.cn/"><b>
+		<u><font face="arial" color="#cc3300">www</font><font face="arial" color="#FF9900">.777gps.cn</font></u></b></a> 
+		All Rights Reserved.
+<script src="http://s8.cnzz.com/stat.php?id=706182&web_id=706182&show=pic" language="JavaScript" charset="gb2312"></script>
+ <font color="#999999">当前模板：[饰品时尚]</font></td>
+			</tr>
+
+
+		</table>
+		</td>
+	</tr>
+</table>
+</center>
+</body>
+<map name="Map1">
+  <area shape="circle" coords="32,28,27" href="/user/gouwu.asp">
+</map>
+<map name="Map2">
+  <area shape="circle" coords="32,28,27" href="/user/search.asp">
+</map>
+<map name="Map3">
+  <area shape="circle" coords="32,28,27" href="/files/help/help_1.html">
+</map>
+<map name="Map4">
+  <area shape="circle" coords="32,28,27" href="/files/help/help_3.html">
+</map>
+<map name="Map5">
+  <area shape="circle" coords="32,28,27" href="/user/gbook.asp">
+</map>
+<map name="Map6">
+  <area shape="circle" coords="30,25,20" href="/index.html">
+</map>
+</html>
+
+<!--Powered by:9959shop V5.0 (http://www.9959shop.Com) MakeTime:2009-4-7 16:31:42--> 

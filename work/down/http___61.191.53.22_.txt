@@ -1,0 +1,399 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<!-- !DOCTYPE html PUBLIC "-//W3C//Dtd XHTML 1.0 Transitional//EN" "http://www.w3.org/tr/xhtml1/Dtd/xhtml1-transitional.dtd" -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head"><title>
+	登录
+</title><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><meta name="Keywords" content="Lankey, CTI, Air, Ticket, Travel, Hotel" /><meta name="Description" content="机票 酒店 旅游 度假" /><meta name="Copyright" content="Copyright (c) 2006 Lankey, Inc. All rights reserved." /><meta content="JavaScript" name="vs_defaultClientScript" /><meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema" /><link rel="Shortcut icon" href="images/Lk.ico" />
+
+	<script language="javascript">
+		<!--
+		function getRootPath(){
+			var fullPath=location.href;
+			var path=location.pathname;
+			var pos=fullPath.indexOf(path);
+			var prePath=fullPath.substring(0,pos);
+			var postPath=path.substring(0,path.substr(1).indexOf('/')+1);
+			return(prePath+postPath);
+		}
+		 
+		function loadLeftMenu(){
+			var path = x("themePath") ? x("themePath").value : "";
+			x("leftCol").innerHTML = ParseXML(path + "testMenu.xml", path + "header.xslt");
+		}
+    
+    function getThemePath() {
+			return (x("themePath") ? x("themePath").value : "") + "images/uair_logo.png";
+    }
+    
+    // -->
+	</script>
+
+<link href="App_Themes/SugarPub/calendar-win2k-cold-1.css" type="text/css" rel="stylesheet" /><link href="App_Themes/SugarPub/navigation.css" type="text/css" rel="stylesheet" /><link href="App_Themes/SugarPub/style.css" type="text/css" rel="stylesheet" /></head>
+<body>
+	<form name="aspnetForm" method="post" action="login.aspx?ReturnUrl=%2fDefault.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzQ2NTI0ODk1ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAwUaY3RsMDAkQ29udGVudEhvbGRlciRyZFVuaXQFHGN0bDAwJENvbnRlbnRIb2xkZXIkcmRNZW1iZXIFHGN0bDAwJENvbnRlbnRIb2xkZXIkcmRNZW1iZXIkJmZOeqhk9prQkVMQjZA8GmJIBA==" />
+
+
+<script src="App_Themes/SugarPub/cookie.js" type="text/javascript"></script>
+<script src="App_Themes/SugarPub/menu.js" type="text/javascript"></script>
+<script src="App_Themes/SugarPub/style.js" type="text/javascript"></script>
+<script src="Script/qq.js" type="text/javascript"></script>
+<script type="text/javascript" src="/ajaxpro/prototype.ashx"></script>
+<script type="text/javascript" src="/ajaxpro/core.ashx"></script>
+<script type="text/javascript" src="/ajaxpro/converter.ashx"></script>
+<script type="text/javascript" src="/ajaxpro/Lankey.UAir.Web.Login,UAirWeb.ashx"></script>
+
+		<input type="hidden" id="themePath" value="App_Themes/SugarPub/" />
+		<input type="hidden" id="txImgPath" value="." />
+		<input type="hidden" name="action" value="UnifiedSearch" />
+		<input type="hidden" name="module" value="Home" />
+		<input type="hidden" name="search_form" value="false" />
+		<input type="hidden" name="advanced" value="false" />
+		
+		<table width="100%" cellspacing="0" cellpadding="0" border="0">
+			<tr>
+				<td style="background-image: url(App_Themes/SugarPub/images/header_bg.gif);" id="header">
+					<table cellspacing="0" cellpadding="0" border="0" width="100%">
+						<tr>
+							<td rowspan="2" style="padding: 15px 10px 10px 15px;" valign="top">
+								<img src="App_Themes/SugarPub/images/uair_logo.png" width="212px" height="40px" alt="Company Logo"
+									border="0" />
+							</td>
+							<td align="right">
+								<table cellspacing="0" cellpadding="0" border="0">
+									<tbody>
+										<tr>
+											<td class="myArea">
+												<a class="myAreaLink" href="">
+													My Account</a>|<a class="myAreaLink" href="">Employees</a>|<a
+														class="myAreaLink" href="">Training</a>|<a
+															class="myAreaLink" href="">About</a>
+											</td>
+											<td class="welcome" id="colorpicker" style="padding-right: 5px; border-left: #ddd 2px solid"
+												valign="top" nowrap>
+												<ul class="colorpicker">
+													<li onclick="changeColor('sugar');">
+														<img style="margin: 0px 3px" alt="皮肤:sea" src="App_Themes/SugarPub/images/colors_sugar_icon.gif"
+															border="0" /></li>
+													<li onclick="changeColor('red');">
+														<img style="margin: 0px 3px" alt="皮肤:red" src="App_Themes/SugarPub/images/colors_red_icon.gif"
+															border="0" /></li>
+													<li onclick="changeColor('green');">
+														<img style="margin: 0px 3px" alt="皮肤:green" src="App_Themes/SugarPub/images/colors_green_icon.gif"
+															border="0" /></li>
+													<li onclick="changeColor('blue');">
+														<img style="margin: 0px 3px" alt="皮肤:blue" src="App_Themes/SugarPub/images/colors_blue_icon.gif"
+															border="0" /></li>
+													<li onclick="changeColor('purple');">
+														<img style="margin: 0px 3px" alt="皮肤:purple" src="App_Themes/SugarPub/images/colors_purple_icon.gif"
+															border="0" /></li>
+													<li onclick="changeColor('gray');">
+														<img style="margin: 0px 3px" alt="皮肤:gray" src="App_Themes/SugarPub/images/colors_gray_icon.gif"
+															border="0" />
+													</li>
+													<li onclick="changeFont('normal');">
+														<img style="margin: 0px 3px" alt="小字体" src="App_Themes/SugarPub/images/fonts_normal_icon.gif"
+															border="0" /></li>
+													<li onclick="changeFont('larger');">
+														<img style="margin: 0px 3px" alt="大字体" src="App_Themes/SugarPub/images/fonts_larger_icon.gif"
+															border="0" /></li>
+													<li onclick="changeFont('largest');">
+														<img style="margin: 0px 3px" alt="特大字体" src="App_Themes/SugarPub/images/fonts_largest_icon.gif"
+															border="0" />
+													</li>
+												</ul>
+											</td>
+										</tr>
+								</table>
+						</tr>
+						<tr>
+							<td valign="top" nowrap colspan="4" style="text-align: right; padding-right: 10px;
+								padding-left: 10px; font-size: 12px; padding-bottom: 0px; padding-top: 10px">
+								<br />
+							</td>
+						</tr>
+						<tr>
+							<td colspan="3" class="welcomeBar">
+								<table cellspacing="0" cellpadding="0" width="100%" border="0">
+									<tbody>
+										<tr>
+											<td colspan="3">
+												<table cellspacing="0" cellpadding="0" width="100%" border="0">
+													<tbody>
+														<tr>
+															<td class="otherTabRight" style="padding-left: 14px">
+																&nbsp;</td>
+															<td class="tabRow" width="100%">
+																<img height="1" alt="" src="App_Themes/SugarPub/images/blank.gif" width="1" border="0" />
+															</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+										<tr>
+											<td class="subTabBar" colspan="3">
+												<table height="20" cellspacing="0" cellpadding="0" width="100%" border="0">
+													<tbody>
+														<tr>
+															<td id="subtabs" width="100%">
+															</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	<table border="0" cellspacing="0" cellpadding="0" width="100%">
+		<tr>
+			<td>
+			
+	<script type="text/javascript">
+	//alert("Themes")
+	// initStyle();
+	 function changLoginType(type){
+	   // document.getElementById('Message').innerText="";
+			if (type=='member') {
+				document.getElementById('trCardNo').style.display='';
+				document.getElementById('trAgentID').style.display='none';
+			  document.getElementById('trUnitNo').style.display='none';
+			}
+			else{
+			  document.getElementById('trCardNo').value="";	
+			  document.getElementById('trCardNo').style.display='none';
+			  document.getElementById('trAgentID').style.display='';
+			  document.getElementById('trUnitNo').style.display='';
+			  //确认密码不可见
+			  document.getElementById('trPwd2').style.display="none";
+	    	document.getElementById('lbIsNullPwd').style.display="none";
+			}
+	 }
+	 function onSetDefaultPwd(res) {
+	   if(!res||!res.value)
+	      return;
+	   document.getElementById("ctl00_ContentHolder_Message").innerText=res.value;
+	 }
+	 
+	 //会员密码是否为空
+	 function onIsNullPwd(res) {
+	      if(!res)
+	          return;
+	    	if(res.value){
+	    		 document.getElementById('lbIsNullPwd').style.display="";
+					// Lankey.UAir.Web.Login.SetDefaultPwd(document.getElementById('ctl00_ContentHolder_txCardNo').value,onSetDefaultPwd);
+					 //可以修改密码
+//           document.getElementById('trPwd2').style.display="";
+//	    		 document.getElementById('lbIsNullPwd').style.display="";
+	    	}
+	    	else{
+	    	  document.getElementById('trPwd2').style.display="none";
+	    	  document.getElementById('lbIsNullPwd').style.display="none";
+	    	}
+	 }
+	    	
+	 function checkPwd() {
+	   if(document.getElementById('ctl00_ContentHolder_rdMember').checked) {	//选择了会员登录
+	     if(!document.getElementById('ctl00_ContentHolder_txPassword').value){
+          alert("请输入密码！");
+	        return false;
+	     }
+	     if(document.getElementById("trPwd2").style.display!="none"&&document.getElementById('ctl00_ContentHolder_txPassword').value!=document.getElementById('ctl00_ContentHolder_txPassword2').value){
+	        alert("两次密码输入不一致！");
+	        return false;
+	     }
+	     return true;
+	   }
+	 }
+	 
+	</script>
+
+
+		<table cellspacing="0" cellpadding="0" border="0" width="100%">
+			<tr>
+				<td id="main">
+					
+					<table cellspacing="0" cellpadding="0" width="100%" border="0" style="padding-bottom: 30px;">
+						<tbody>
+							<tr>
+								<td id="TD1">
+									<table cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+										<tbody>
+											<tr>
+												<td>
+													<table cellspacing="0" cellpadding="0" align="center" border="0" style="padding-top: 30px;">
+														<tbody>
+															<tr>
+																<td class="body" style="padding-bottom: 10px">
+																	<b>欢迎进入</b><br />
+																	
+																	<img height="25" alt="Sugar" src="App_Themes/SugarPub/images/sugar_md.gif"
+																		width="340" />
+																</td>
+															</tr>
+															<tr>
+																<td class="tabForm" align="left" style="padding-left: 6px; background-color: #f6f6f6">
+																	<table cellspacing="2" cellpadding="0" width="100%" align="center" border="0">
+																		<tbody>
+																			<tr>
+																				<td class="dataLabel" style=" padding-bottom: 5px"
+																					width="100%" colspan="2">
+																				<span class="radio"><input id="ctl00_ContentHolder_rdUnit" type="radio" name="ctl00$ContentHolder$rdLogin" value="rdUnit" checked="checked" onclick="changLoginType('unit');" /></span>
+																			
+																				<label for="ctl00_ContentHolder_rdUnit"" style="cursor:hand;" 	>
+																				企业用户登录(凭工号) </label>
+																				<span class="radio"><input id="ctl00_ContentHolder_rdMember" type="radio" name="ctl00$ContentHolder$rdLogin" value="rdMember" onclick="changLoginType('member');" /></span>	
+																				<label for="ctl00_ContentHolder_rdMember" style="cursor:hand;">会员登录(凭卡号或手机号)</label>
+																				</td>
+																			</tr>
+																			<tr>
+																				<td class="dataLabel" width="20%">
+																				</td>
+																				<td class="dataLabel">
+																			  	<span id="ctl00_ContentHolder_Message" class="ErrorText"><font color="Red"></font></span>
+																					<span class="error" id="post_error"></span>
+																				</td>
+																			</tr>
+																			<tr id="trAgentID">
+																				<td class="dataLabel" width="20%">
+																					工 号:</td>
+																				<td width="80%">
+																					<input name="ctl00$ContentHolder$txAgentID" type="text" id="ctl00_ContentHolder_txAgentID" name="txAgentID" />
+																					(必填)</td>
+																			</tr>
+																			<tr id="trCardNo" style="display: none;">
+																				<td class="dataLabel" width="20%">
+																					卡　号:</td>
+																				<td width="80%">
+																					<input name="ctl00$ContentHolder$txCardNo" type="text" id="ctl00_ContentHolder_txCardNo" name="txCardNo" onblur="if(this.value) Lankey.UAir.Web.Login.IsNullPwd(this.value,onIsNullPwd);" />
+																					(必填)
+																					<label id="lbIsNullPwd" style="color:Red; display:none; cursor:hand;" onclick=" Lankey.UAir.Web.Login.SetDefaultPwd(document.getElementById('ctl00_ContentHolder_txCardNo').value,onSetDefaultPwd);">
+																					卡号未激活，请点击这里激活卡号</label>
+																				</td>
+																			</tr>
+																			<tr>
+																				<td class="dataLabel">
+																					密 码:</td>
+																				<td>
+																					<input name="ctl00$ContentHolder$txPassword" type="password" id="ctl00_ContentHolder_txPassword" />
+																					(必填)</td>
+																			</tr>
+																			<tr id="trPwd2" style="display: none;">
+																				<td class="dataLabel">
+																					确认密码:</td>
+																				<td>
+																					<input name="ctl00$ContentHolder$txPassword2" type="password" id="ctl00_ContentHolder_txPassword2" />
+																					(点登录设置密码并登录)</td>
+																			</tr>
+																			<tr id="trUnitNo">
+																				<td class="dataLabel">
+																					单位号:</td>
+																				<td>
+																					<input name="ctl00$ContentHolder$txUnitNo" type="text" id="ctl00_ContentHolder_txUnitNo" />
+																				</td>
+																			</tr>
+																			<tr>
+																				<td align="right" colspan="2">
+																					<div style="cursor: pointer" onclick='if(document.getElementById("more").style.display=="none")document.getElementById("more").style.display=""; else document.getElementById("more").style.display="none"; '>
+																						<a href="javascript:void(0)">
+																							<img id="options" alt="Hide Options" src="App_Themes/SugarPub/images/advanced_search.gif"
+																								border="0" />更多选项</a>
+																					</div>
+																					<div id="more" style="display: none">
+																						<table cellspacing="2" cellpadding="0" width="100%" align="left" border="0">
+																							<tbody>
+																								<tr>
+																									<td class="dataLabel" width="20%">
+																										风格:</td>
+																									<td width="80%" align="left">
+																										<select name="ctl00$ContentHolder$lsTheme" id="ctl00_ContentHolder_lsTheme" style="width: 120px;" onchange="onThemeChange( this.value )">
+	<option value="Pipeline">夏日情怀</option>
+	<option value="Love">爱的主题</option>
+	<option value="RipCurl">海的呼唤</option>
+	<option value="WhiteSands">假日海难</option>
+	<option value="Classic">蓝奇经典</option>
+</select>
+																									</td>
+																								</tr>
+																								<tr>
+																									<td class="dataLabel">
+																										语言:</td>
+																									<td align="left">
+																										<select style="width: 120px" name="lsLanguage">
+																											<option value="zh_cn">简体中文</option>
+																										</select>
+																									</td>
+																								</tr>
+																							</tbody>
+																						</table>
+																					</div>
+																				</td>
+																			</tr>
+																			<tr>
+																				<td>
+																				</td>
+																				<td>
+																				<input type="button" class="button" onclick="alert('注册功能未开通');return; location.href='Pub/Register.aspx'" value="注 册"/>
+																					&nbsp;
+																					<input type="submit" name="ctl00$ContentHolder$btnLogin" value="登 录" onclick="return checkPwd();" id="ctl00_ContentHolder_btnLogin" class="button" />
+																					<br />
+																					&nbsp;
+																				</td>
+																			</tr>
+																		</tbody>
+																	</table>
+																</td>
+															</tr>
+														</tbody>
+													</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</td>
+			</tr>
+		</table>
+
+		<script type="text/javascript">
+		// 检查当前的登录的方式
+		if(document.getElementById('ctl00_ContentHolder_rdMember').checked)
+		  changLoginType("member");
+		</script>
+
+</td>
+		</tr>
+	</table>
+
+<table cellpadding='0' cellspacing='0' width='100%' border='0' class='underFooter'>
+			<tr>
+				<td align='center' class='copyRight'>
+					服务器响应时间: 0.396237 秒。<br />
+					
+					<br />
+					<a href='#' target='_blank'>
+						<img style='margin-top: 2px' border='0' width='106' height='23' src='App_Themes/SugarPub/images/poweredby_uaircrm.png'
+							alt='Powered By UairCRM'></a>
+				</td>
+			</tr>
+		</table>
+	
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCgKEnI6EDgL61KiWAQK5qvOgAwL47dO6AwLuxo7xBgKcq+jRCALZ7sOwAQKvpvwnAt+x7dUKAo2MtCb8QsyaQkla9EiUAWfDYKU5p6N4sg==" />
+
+<script type="text/javascript">
+//<![CDATA[
+initStyle('Themes','red','normal');//]]>
+</script>
+</form>
+</body>
+</html>

@@ -1,0 +1,13 @@
+<html>
+<head>
+</head>
+<body>
+<center>
+
+Fuinsoft Windows 서버입니다.<p>
+Fuinsoft 홈페이지 방문은 다음의 주소로 들어가시기 바랍니다.<p>
+<a href="http://www.fuinsoft.com">www.fuinsoft.com</a>
+
+</center>
+</body>
+</html>
